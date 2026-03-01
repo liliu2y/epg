@@ -57276,4 +57276,85 @@
   <programme channel="滨海新闻" start="20260302235800 +0800" stop="20260302235900 +0800">
     <title>社会主义核心价值观</title>
   </programme>
+  <channel id="凤凰电影">
+    <display-name lang="zh">凤凰电影</display-name>
+  </channel>
+  <programme channel="凤凰电影" start="20260301004500 +0800" stop="20260301024000 +0800">
+    <title lang="zh">史密特先生的故事</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301024000 +0800" stop="20260301043000 +0800">
+    <title lang="zh">海蒂和爷爷</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301043000 +0800" stop="20260301062000 +0800">
+    <title lang="zh">德黑兰：爱之城</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301062000 +0800" stop="20260301075000 +0800">
+    <title lang="zh">重金属囧途</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301075000 +0800" stop="20260301093500 +0800">
+    <title lang="zh">美國的抗爭</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301093500 +0800" stop="20260301113000 +0800">
+    <title lang="zh">埃爾塞：將近改變世界的人</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301113000 +0800" stop="20260301131500 +0800">
+    <title lang="zh">環球電影大觀：生命的舞動</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301131500 +0800" stop="20260301145000 +0800">
+    <title lang="zh">45周年</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301145000 +0800" stop="20260301163000 +0800">
+    <title lang="zh">彼岸花</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301163000 +0800" stop="20260301185000 +0800">
+    <title lang="zh">埃普爾街的紅色郵筒</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301185000 +0800" stop="20260301211500 +0800">
+    <title lang="zh">地球最後的夜晚</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301211500 +0800" stop="20260301233500 +0800">
+    <title lang="zh">周日五星影院：王牌對王牌</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260301233500 +0800" stop="20260301235900 +0800">
+    <title lang="zh">寰宇國際影院：獨自等待</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302011500 +0800" stop="20260302035500 +0800">
+    <title lang="zh">大象</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302035500 +0800" stop="20260302054500 +0800">
+    <title lang="zh">獨行殺手</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302054500 +0800" stop="20260302073500 +0800">
+    <title lang="zh">時光倒流七十年</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302073500 +0800" stop="20260302091000 +0800">
+    <title lang="zh">大事件</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302091000 +0800" stop="20260302104500 +0800">
+    <title lang="zh">血迷宮</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302104500 +0800" stop="20260302122500 +0800">
+    <title lang="zh">魔女之死</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302122500 +0800" stop="20260302142500 +0800">
+    <title lang="zh">環球電影大觀：莫迪與畢加索</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302142500 +0800" stop="20260302161000 +0800">
+    <title lang="zh">地下鐵</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302161000 +0800" stop="20260302180500 +0800">
+    <title lang="zh">冰風暴</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302180500 +0800" stop="20260302193500 +0800">
+    <title lang="zh">機器人與弗蘭克</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302193500 +0800" stop="20260302211500 +0800">
+    <title lang="zh">同等族群</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302211500 +0800" stop="20260302230500 +0800">
+    <title lang="zh">動感天下：偷天陷阱</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260302230500 +0800" stop="20260302235900 +0800">
+    <title lang="zh">寰宇國際影院：末日危途</title>
+  </programme>
 </tv>
