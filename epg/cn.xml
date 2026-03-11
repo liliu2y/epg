@@ -51450,6 +51450,60 @@
   <programme channel="睛彩河北" start="20260313004300 +0800" stop="20260313013500 +0800">
     <title>韩信(34)</title>
   </programme>
+  <programme channel="睛彩河北" start="20260313013500 +0800" stop="20260313021800 +0800">
+    <title>韩信(35)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313021800 +0800" stop="20260313025900 +0800">
+    <title>韩信(36)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313025900 +0800" stop="20260313033000 +0800">
+    <title>生死十七天(1)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313033000 +0800" stop="20260313040000 +0800">
+    <title>节目结束</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313040000 +0800" stop="20260313044100 +0800">
+    <title>乱世烟雨(25)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313044100 +0800" stop="20260313052300 +0800">
+    <title>乱世烟雨(26)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313052300 +0800" stop="20260313060500 +0800">
+    <title>乱世烟雨(27)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313060500 +0800" stop="20260313064500 +0800">
+    <title>乱世烟雨(28)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313064500 +0800" stop="20260313072600 +0800">
+    <title>乱世烟雨(29)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313072600 +0800" stop="20260313080700 +0800">
+    <title>乱世烟雨(30)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313080700 +0800" stop="20260313084800 +0800">
+    <title>谁在你背后(1)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313084800 +0800" stop="20260313092900 +0800">
+    <title>谁在你背后(2)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313092900 +0800" stop="20260313101000 +0800">
+    <title>谁在你背后(3)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313101000 +0800" stop="20260313105300 +0800">
+    <title>谁在你背后(4)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313105300 +0800" stop="20260313113300 +0800">
+    <title>谁在你背后(5)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313113300 +0800" stop="20260313121300 +0800">
+    <title>清凌凌的水蓝莹莹的天Ⅱ(9)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313121300 +0800" stop="20260313125400 +0800">
+    <title>清凌凌的水蓝莹莹的天Ⅱ(10)</title>
+  </programme>
+  <programme channel="睛彩河北" start="20260313125400 +0800" stop="20260313133500 +0800">
+    <title>清凌凌的水蓝莹莹的天Ⅱ(11)</title>
+  </programme>
   <programme channel="河北杂技" start="20260311000000 +0800" stop="20260311003800 +0800">
     <title>艺鸣惊人</title>
   </programme>
@@ -58676,5 +58730,233 @@
   </programme>
   <programme channel="凤凰电影" start="20260312231500 +0800" stop="20260312235900 +0800">
     <title lang="zh">寰宇國際影院：末日危途</title>
+  </programme>
+  <channel id="生态环境">
+    <display-name lang="zh">生态环境</display-name>
+  </channel>
+  <programme channel="生态环境" start="20260310235900 +0800" stop="20260311000000 +0800">
+    <title lang="zh">节目结束</title>
+  </programme>
+  <programme channel="生态环境" start="20260311000000 +0800" stop="20260311003500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311003500 +0800" stop="20260311010000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311010000 +0800" stop="20260311023000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311023000 +0800" stop="20260311030500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311030500 +0800" stop="20260311033500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311033500 +0800" stop="20260311040000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311040000 +0800" stop="20260311043500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311043500 +0800" stop="20260311050000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311050000 +0800" stop="20260311063000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311063000 +0800" stop="20260311070500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311070500 +0800" stop="20260311073500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311073500 +0800" stop="20260311080000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311080000 +0800" stop="20260311083500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311083500 +0800" stop="20260311090000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311090000 +0800" stop="20260311103000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311103000 +0800" stop="20260311110500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311110500 +0800" stop="20260311113500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311113500 +0800" stop="20260311120000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311120000 +0800" stop="20260311123500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311123500 +0800" stop="20260311130000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311130000 +0800" stop="20260311143000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311143000 +0800" stop="20260311150500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311150500 +0800" stop="20260311153500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311153500 +0800" stop="20260311160000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311160000 +0800" stop="20260311163500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311163500 +0800" stop="20260311170000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311170000 +0800" stop="20260311183000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311183000 +0800" stop="20260311190500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311190500 +0800" stop="20260311193500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311193500 +0800" stop="20260311200000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311200000 +0800" stop="20260311203500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311203500 +0800" stop="20260311210000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311210000 +0800" stop="20260311223000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311223000 +0800" stop="20260311230500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311230500 +0800" stop="20260311233500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260311233500 +0800" stop="20260311235900 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260311235900 +0800" stop="20260312000000 +0800">
+    <title lang="zh">节目结束</title>
+  </programme>
+  <programme channel="生态环境" start="20260312000000 +0800" stop="20260312003500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312003500 +0800" stop="20260312010000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312010000 +0800" stop="20260312023000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312023000 +0800" stop="20260312030500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312030500 +0800" stop="20260312033500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312033500 +0800" stop="20260312040000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312040000 +0800" stop="20260312043500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312043500 +0800" stop="20260312050000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312050000 +0800" stop="20260312063000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312063000 +0800" stop="20260312070500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312070500 +0800" stop="20260312073500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312073500 +0800" stop="20260312080000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312080000 +0800" stop="20260312083500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312083500 +0800" stop="20260312090000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312090000 +0800" stop="20260312103000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312103000 +0800" stop="20260312110500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312110500 +0800" stop="20260312113500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312113500 +0800" stop="20260312120000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312120000 +0800" stop="20260312123500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312123500 +0800" stop="20260312130000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312130000 +0800" stop="20260312143000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312143000 +0800" stop="20260312150500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312150500 +0800" stop="20260312153500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312153500 +0800" stop="20260312160000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312160000 +0800" stop="20260312163500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312163500 +0800" stop="20260312170000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312170000 +0800" stop="20260312183000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312183000 +0800" stop="20260312190500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312190500 +0800" stop="20260312193500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312193500 +0800" stop="20260312200000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312200000 +0800" stop="20260312203500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312203500 +0800" stop="20260312210000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312210000 +0800" stop="20260312223000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312223000 +0800" stop="20260312230500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312230500 +0800" stop="20260312233500 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
+  </programme>
+  <programme channel="生态环境" start="20260312233500 +0800" stop="20260312235900 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260312235900 +0800" stop="20260313000000 +0800">
+    <title lang="zh">节目结束</title>
   </programme>
 </tv>
