@@ -1203,9 +1203,6 @@
   <channel id="华数古装剧场">
     <display-name>华数古装剧场</display-name>
   </channel>
-  <channel id="纪实科教">
-    <display-name lang="zh">纪实科教</display-name>
-  </channel>
   <channel id="北京卫视4K">
     <display-name lang="zh">北京卫视4K</display-name>
   </channel>
@@ -1268,6 +1265,9 @@
   </channel>
   <channel id="动画">
     <display-name lang="zh">动画</display-name>
+  </channel>
+  <channel id="纪实科教">
+    <display-name lang="zh">纪实科教</display-name>
   </channel>
   <channel id="现代教育">
     <display-name lang="zh">现代教育</display-name>
@@ -49167,80 +49167,149 @@
   <programme channel="北京卫视4K" start="20260316232000 +0800" stop="20260316235959 +0800">
     <title>新大众文艺的“在场”力量(1)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317000000 +0800" stop="20260317001100 +0800">
+  <programme channel="北京卫视4K" start="20260317000000 +0800" stop="20260317001000 +0800">
     <title>新大众文艺的“在场”力量(1)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317001100 +0800" stop="20260317002500 +0800">
-    <title>纪录片</title>
+  <programme channel="北京卫视4K" start="20260317001000 +0800" stop="20260317005400 +0800">
+    <title>新大众文艺的“在场”力量(2)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317002500 +0800" stop="20260317010500 +0800">
-    <title>档案</title>
+  <programme channel="北京卫视4K" start="20260317005400 +0800" stop="20260317005500 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317010500 +0800" stop="20260317015700 +0800">
-    <title>档案</title>
+  <programme channel="北京卫视4K" start="20260317005500 +0800" stop="20260317010800 +0800">
+    <title>风味原产地：潮汕(19)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317015700 +0800" stop="20260317024200 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317010800 +0800" stop="20260317011900 +0800">
+    <title>风味原产地：潮汕(20)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317024200 +0800" stop="20260317032800 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317011900 +0800" stop="20260317013100 +0800">
+    <title>风味原产地：甘肃(1)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317032800 +0800" stop="20260317041800 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317013100 +0800" stop="20260317014200 +0800">
+    <title>风味原产地：甘肃(2)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317041800 +0800" stop="20260317050500 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317014200 +0800" stop="20260317014300 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317050500 +0800" stop="20260317053300 +0800">
+  <programme channel="北京卫视4K" start="20260317014300 +0800" stop="20260317022600 +0800">
+    <title>档案纯享版(48)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317022600 +0800" stop="20260317030400 +0800">
+    <title>档案纯享版(198)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317030400 +0800" stop="20260317034600 +0800">
+    <title>今生有你(1)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317034600 +0800" stop="20260317042900 +0800">
+    <title>今生有你(2)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317042900 +0800" stop="20260317051200 +0800">
+    <title>今生有你(3)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317051200 +0800" stop="20260317051400 +0800">
+    <title>2025最美北京我的家：古都、新城</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317051400 +0800" stop="20260317052500 +0800">
+    <title>风味原产地：甘肃(2)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317052500 +0800" stop="20260317053000 +0800">
+    <title>2025最美北京我的家：古都、新城</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317053000 +0800" stop="20260317053300 +0800">
+    <title>广宣时段</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317053300 +0800" stop="20260317055300 +0800">
     <title>法治进行时</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317053300 +0800" stop="20260317055500 +0800">
-    <title>法治进行时</title>
+  <programme channel="北京卫视4K" start="20260317055300 +0800" stop="20260317055500 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317055500 +0800" stop="20260317070000 +0800">
+  <programme channel="北京卫视4K" start="20260317055500 +0800" stop="20260317065700 +0800">
     <title>养生堂</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317065700 +0800" stop="20260317070000 +0800">
+    <title>广宣时段</title>
   </programme>
   <programme channel="北京卫视4K" start="20260317070000 +0800" stop="20260317070100 +0800">
     <title>中华人民共和国国歌</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317070100 +0800" stop="20260317090300 +0800">
+  <programme channel="北京卫视4K" start="20260317070100 +0800" stop="20260317090000 +0800">
     <title>北京您早</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317090300 +0800" stop="20260317093700 +0800">
+  <programme channel="北京卫视4K" start="20260317090000 +0800" stop="20260317090300 +0800">
+    <title>广宣时段</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317090300 +0800" stop="20260317093300 +0800">
     <title>医者</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317093700 +0800" stop="20260317102200 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317093300 +0800" stop="20260317093700 +0800">
+    <title>广宣时段</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317093700 +0800" stop="20260317101800 +0800">
+    <title>南来北往(34)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317101800 +0800" stop="20260317102200 +0800">
+    <title>广宣时段</title>
   </programme>
   <programme channel="北京卫视4K" start="20260317102200 +0800" stop="20260317110400 +0800">
-    <title>剧场</title>
+    <title>南来北往(35)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317110400 +0800" stop="20260317120000 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317110400 +0800" stop="20260317114600 +0800">
+    <title>南来北往(36)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317120000 +0800" stop="20260317130400 +0800">
+  <programme channel="北京卫视4K" start="20260317114600 +0800" stop="20260317115500 +0800">
+    <title>《南来北往》预告版</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317115500 +0800" stop="20260317120000 +0800">
+    <title>广宣时段</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317120000 +0800" stop="20260317130000 +0800">
     <title>特别关注</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317130400 +0800" stop="20260317135200 +0800">
-    <title>午茶剧场</title>
+  <programme channel="北京卫视4K" start="20260317130000 +0800" stop="20260317130400 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317135200 +0800" stop="20260317144100 +0800">
-    <title>午茶剧场</title>
+  <programme channel="北京卫视4K" start="20260317130400 +0800" stop="20260317134600 +0800">
+    <title>正阳门下(25)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317144100 +0800" stop="20260317153000 +0800">
-    <title>午茶剧场</title>
+  <programme channel="北京卫视4K" start="20260317134600 +0800" stop="20260317135000 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317153000 +0800" stop="20260317161900 +0800">
-    <title>午茶剧场</title>
+  <programme channel="北京卫视4K" start="20260317135000 +0800" stop="20260317143200 +0800">
+    <title>正阳门下(26)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317161900 +0800" stop="20260317170800 +0800">
-    <title>午茶剧场</title>
+  <programme channel="北京卫视4K" start="20260317143200 +0800" stop="20260317143700 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317170800 +0800" stop="20260317172500 +0800">
+  <programme channel="北京卫视4K" start="20260317143700 +0800" stop="20260317151800 +0800">
+    <title>正阳门下(27)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317151800 +0800" stop="20260317152300 +0800">
+    <title>广宣时段</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317152300 +0800" stop="20260317160500 +0800">
+    <title>正阳门下(28)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317160500 +0800" stop="20260317161000 +0800">
+    <title>广宣时段</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317161000 +0800" stop="20260317165200 +0800">
+    <title>正阳门下(29)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317165200 +0800" stop="20260317170800 +0800">
+    <title>《正阳门下》预告版</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317170800 +0800" stop="20260317172200 +0800">
     <title>暖暖的味道</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317172500 +0800" stop="20260317183000 +0800">
+  <programme channel="北京卫视4K" start="20260317172200 +0800" stop="20260317172500 +0800">
+    <title>广宣时段</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317172500 +0800" stop="20260317182700 +0800">
     <title>养生堂</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317182700 +0800" stop="20260317183000 +0800">
+    <title>广宣时段</title>
   </programme>
   <programme channel="北京卫视4K" start="20260317183000 +0800" stop="20260317185500 +0800">
     <title>北京新闻</title>
@@ -49251,23 +49320,35 @@
   <programme channel="北京卫视4K" start="20260317190000 +0800" stop="20260317193000 +0800">
     <title>转播中央台新闻联播</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317193000 +0800" stop="20260317201600 +0800">
-    <title>品质剧场</title>
+  <programme channel="北京卫视4K" start="20260317193000 +0800" stop="20260317201300 +0800">
+    <title>我深深地爱着你(17)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317201600 +0800" stop="20260317210600 +0800">
-    <title>品质剧场</title>
+  <programme channel="北京卫视4K" start="20260317201300 +0800" stop="20260317201400 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317210600 +0800" stop="20260317220900 +0800">
-    <title>乡约食光</title>
+  <programme channel="北京卫视4K" start="20260317201400 +0800" stop="20260317205500 +0800">
+    <title>我深深地爱着你(18)</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317220900 +0800" stop="20260317225400 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317205500 +0800" stop="20260317210300 +0800">
+    <title>《我深深地爱着你》预告</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317225400 +0800" stop="20260317234000 +0800">
-    <title>剧场</title>
+  <programme channel="北京卫视4K" start="20260317210300 +0800" stop="20260317210400 +0800">
+    <title>广宣时段</title>
   </programme>
-  <programme channel="北京卫视4K" start="20260317234000 +0800" stop="20260317235959 +0800">
-    <title>纪录片</title>
+  <programme channel="北京卫视4K" start="20260317210400 +0800" stop="20260317215300 +0800">
+    <title>乡约食光纯享版(1)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317215300 +0800" stop="20260317222800 +0800">
+    <title>太原之约(1)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317222800 +0800" stop="20260317231300 +0800">
+    <title>唐朝诡事录之西行(4)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317231300 +0800" stop="20260317235800 +0800">
+    <title>唐朝诡事录之西行(5)</title>
+  </programme>
+  <programme channel="北京卫视4K" start="20260317235800 +0800" stop="20260317235959 +0800">
+    <title>广宣时段</title>
   </programme>
   <programme channel="深圳卫视4K" start="20260316000000 +0800" stop="20260316001100 +0800">
     <title>直财经</title>
@@ -49683,38 +49764,32 @@
   <programme channel="广东卫视4K" start="20260316231400 +0800" stop="20260316234500 +0800">
     <title>南粤4K画卷（98）</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260316234500 +0800" stop="20260317012800 +0800">
+  <programme channel="广东卫视4K" start="20260317000000 +0800" stop="20260317013000 +0800">
     <title>渡江侦察记</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317000000 +0800" stop="20260317003200 +0800">
-    <title>渡江侦察记</title>
+  <programme channel="广东卫视4K" start="20260317013000 +0800" stop="20260317015700 +0800">
+    <title>风味人间Ⅴ(6)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317003200 +0800" stop="20260317015800 +0800">
-    <title>电影</title>
+  <programme channel="广东卫视4K" start="20260317015700 +0800" stop="20260317022800 +0800">
+    <title>风味人间Ⅴ(6)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317015800 +0800" stop="20260317022600 +0800">
-    <title>纪录片</title>
+  <programme channel="广东卫视4K" start="20260317022800 +0800" stop="20260317031200 +0800">
+    <title>老广的味道Ⅳ(1)：侨味</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317022600 +0800" stop="20260317025600 +0800">
-    <title>纪录片</title>
+  <programme channel="广东卫视4K" start="20260317031200 +0800" stop="20260317035500 +0800">
+    <title>老广的味道Ⅳ(3)：佳果</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317025600 +0800" stop="20260317032600 +0800">
-    <title>纪录片</title>
+  <programme channel="广东卫视4K" start="20260317035500 +0800" stop="20260317043900 +0800">
+    <title>老广的味道Ⅳ(5)：香料</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317032600 +0800" stop="20260317035500 +0800">
-    <title>纪录片</title>
+  <programme channel="广东卫视4K" start="20260317043900 +0800" stop="20260317050500 +0800">
+    <title>南岭物语(2)：生存</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317035500 +0800" stop="20260317042800 +0800">
-    <title>纪录片</title>
+  <programme channel="广东卫视4K" start="20260317050500 +0800" stop="20260317054700 +0800">
+    <title>绝密较量(10)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317042800 +0800" stop="20260317050300 +0800">
-    <title>纪录片</title>
-  </programme>
-  <programme channel="广东卫视4K" start="20260317050300 +0800" stop="20260317054400 +0800">
-    <title>剧场</title>
-  </programme>
-  <programme channel="广东卫视4K" start="20260317054400 +0800" stop="20260317063000 +0800">
-    <title>剧场</title>
+  <programme channel="广东卫视4K" start="20260317054700 +0800" stop="20260317063000 +0800">
+    <title>绝密较量(11)</title>
   </programme>
   <programme channel="广东卫视4K" start="20260317063000 +0800" stop="20260317065700 +0800">
     <title>广东新闻联播</title>
@@ -49728,47 +49803,44 @@
   <programme channel="广东卫视4K" start="20260317070100 +0800" stop="20260317073200 +0800">
     <title>大美南粤</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317073200 +0800" stop="20260317074400 +0800">
-    <title>动画片</title>
+  <programme channel="广东卫视4K" start="20260317073200 +0800" stop="20260317083600 +0800">
+    <title>枪侠(7)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317074400 +0800" stop="20260317084300 +0800">
-    <title>上午剧场</title>
+  <programme channel="广东卫视4K" start="20260317083600 +0800" stop="20260317093000 +0800">
+    <title>枪侠(8)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317084300 +0800" stop="20260317092200 +0800">
-    <title>上午剧场</title>
+  <programme channel="广东卫视4K" start="20260317093000 +0800" stop="20260317102200 +0800">
+    <title>枪侠(9)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317092200 +0800" stop="20260317101000 +0800">
-    <title>上午剧场</title>
+  <programme channel="广东卫视4K" start="20260317102200 +0800" stop="20260317111500 +0800">
+    <title>枪侠(10)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317101000 +0800" stop="20260317105900 +0800">
-    <title>上午剧场</title>
+  <programme channel="广东卫视4K" start="20260317111500 +0800" stop="20260317120900 +0800">
+    <title>枪侠(11)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317105900 +0800" stop="20260317120000 +0800">
-    <title>上午剧场</title>
+  <programme channel="广东卫视4K" start="20260317120900 +0800" stop="20260317124900 +0800">
+    <title>老广的味道Ⅷ精编版(3)：隐秘之味</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317120000 +0800" stop="20260317122800 +0800">
-    <title>纪录片</title>
+  <programme channel="广东卫视4K" start="20260317124900 +0800" stop="20260317133900 +0800">
+    <title>津门飞鹰(13)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317122800 +0800" stop="20260317131700 +0800">
-    <title>下午剧场</title>
+  <programme channel="广东卫视4K" start="20260317133900 +0800" stop="20260317143000 +0800">
+    <title>津门飞鹰(14)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317131700 +0800" stop="20260317141000 +0800">
-    <title>下午剧场</title>
+  <programme channel="广东卫视4K" start="20260317143000 +0800" stop="20260317152000 +0800">
+    <title>津门飞鹰(15)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317141000 +0800" stop="20260317150300 +0800">
-    <title>下午剧场</title>
+  <programme channel="广东卫视4K" start="20260317152000 +0800" stop="20260317160900 +0800">
+    <title>津门飞鹰(16)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317150300 +0800" stop="20260317155600 +0800">
-    <title>下午剧场</title>
+  <programme channel="广东卫视4K" start="20260317160900 +0800" stop="20260317165900 +0800">
+    <title>津门飞鹰(17)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317155600 +0800" stop="20260317164900 +0800">
-    <title>下午剧场</title>
+  <programme channel="广东卫视4K" start="20260317165900 +0800" stop="20260317174800 +0800">
+    <title>津门飞鹰(18)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317164900 +0800" stop="20260317174300 +0800">
-    <title>下午剧场</title>
-  </programme>
-  <programme channel="广东卫视4K" start="20260317174300 +0800" stop="20260317183000 +0800">
-    <title>下午剧场</title>
+  <programme channel="广东卫视4K" start="20260317174800 +0800" stop="20260317183000 +0800">
+    <title>津门飞鹰(19)</title>
   </programme>
   <programme channel="广东卫视4K" start="20260317183000 +0800" stop="20260317185600 +0800">
     <title>广东新闻联播</title>
@@ -49776,29 +49848,29 @@
   <programme channel="广东卫视4K" start="20260317185600 +0800" stop="20260317190000 +0800">
     <title>天气预报</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317190000 +0800" stop="20260317193500 +0800">
+  <programme channel="广东卫视4K" start="20260317190000 +0800" stop="20260317193400 +0800">
     <title>转播中央台新闻联播</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317193500 +0800" stop="20260317202900 +0800">
-    <title>黄金剧场</title>
+  <programme channel="广东卫视4K" start="20260317193400 +0800" stop="20260317202500 +0800">
+    <title>太平年(3)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317202900 +0800" stop="20260317212000 +0800">
-    <title>黄金剧场</title>
+  <programme channel="广东卫视4K" start="20260317202500 +0800" stop="20260317212000 +0800">
+    <title>太平年(4)</title>
   </programme>
   <programme channel="广东卫视4K" start="20260317212000 +0800" stop="20260317214500 +0800">
     <title>晚间新闻</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317214500 +0800" stop="20260317222900 +0800">
-    <title>剧场</title>
+  <programme channel="广东卫视4K" start="20260317214500 +0800" stop="20260317223100 +0800">
+    <title>哈尔滨1944(35)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317222900 +0800" stop="20260317231200 +0800">
-    <title>剧场</title>
+  <programme channel="广东卫视4K" start="20260317223100 +0800" stop="20260317231400 +0800">
+    <title>哈尔滨1944(36)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317231200 +0800" stop="20260317234300 +0800">
-    <title>南粤4K画卷</title>
+  <programme channel="广东卫视4K" start="20260317231400 +0800" stop="20260317234500 +0800">
+    <title>南粤4K画卷(99)</title>
   </programme>
-  <programme channel="广东卫视4K" start="20260317234300 +0800" stop="20260317235959 +0800">
-    <title>纪录片</title>
+  <programme channel="广东卫视4K" start="20260317234500 +0800" stop="20260317235959 +0800">
+    <title>地雷战</title>
   </programme>
   <programme channel="山东卫视4K" start="20260316000300 +0800" stop="20260316004800 +0800">
     <title>运河风流（30）</title>
@@ -50061,25 +50133,25 @@
   <programme channel="黑莓影视" start="20260316121000 +0800" stop="20260316123000 +0800">
     <title>午间新闻</title>
   </programme>
-  <programme channel="黑莓影视" start="20260316123000 +0800" stop="20260316123500 +0800">
+  <programme channel="黑莓影视" start="20260316123000 +0800" stop="20260316123700 +0800">
     <title>卫视气象站</title>
   </programme>
-  <programme channel="黑莓影视" start="20260316123500 +0800" stop="20260316133300 +0800">
+  <programme channel="黑莓影视" start="20260316123700 +0800" stop="20260316135400 +0800">
     <title>锦绣南歌(16)</title>
   </programme>
-  <programme channel="黑莓影视" start="20260316133300 +0800" stop="20260316143100 +0800">
+  <programme channel="黑莓影视" start="20260316135400 +0800" stop="20260316145000 +0800">
     <title>锦绣南歌(17)</title>
   </programme>
-  <programme channel="黑莓影视" start="20260316143100 +0800" stop="20260316153000 +0800">
+  <programme channel="黑莓影视" start="20260316145000 +0800" stop="20260316153500 +0800">
     <title>锦绣南歌(18)</title>
   </programme>
-  <programme channel="黑莓影视" start="20260316153000 +0800" stop="20260316162000 +0800">
+  <programme channel="黑莓影视" start="20260316153500 +0800" stop="20260316162000 +0800">
     <title>好好的时光(4)</title>
   </programme>
-  <programme channel="黑莓影视" start="20260316162000 +0800" stop="20260316171000 +0800">
+  <programme channel="黑莓影视" start="20260316162000 +0800" stop="20260316170500 +0800">
     <title>好好的时光(5)</title>
   </programme>
-  <programme channel="黑莓影视" start="20260316171000 +0800" stop="20260316180000 +0800">
+  <programme channel="黑莓影视" start="20260316170500 +0800" stop="20260316180000 +0800">
     <title>好好的时光(6)</title>
   </programme>
   <programme channel="黑莓影视" start="20260316180000 +0800" stop="20260316183000 +0800">
@@ -50292,16 +50364,16 @@
   <programme channel="浙江卫视4K" start="20260316190000 +0800" stop="20260316193300 +0800">
     <title>转播中央台新闻联播</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260316193300 +0800" stop="20260316202100 +0800">
+  <programme channel="浙江卫视4K" start="20260316193300 +0800" stop="20260316201900 +0800">
     <title>太平年(21)</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260316202100 +0800" stop="20260316210800 +0800">
+  <programme channel="浙江卫视4K" start="20260316201900 +0800" stop="20260316210700 +0800">
     <title>太平年(22)</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260316210800 +0800" stop="20260316221200 +0800">
+  <programme channel="浙江卫视4K" start="20260316210700 +0800" stop="20260316221100 +0800">
     <title>一站到底</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260316221200 +0800" stop="20260316230000 +0800">
+  <programme channel="浙江卫视4K" start="20260316221100 +0800" stop="20260316230000 +0800">
     <title>打歌2025</title>
   </programme>
   <programme channel="浙江卫视4K" start="20260316230000 +0800" stop="20260316231500 +0800">
@@ -50313,41 +50385,35 @@
   <programme channel="浙江卫视4K" start="20260316233700 +0800" stop="20260316235959 +0800">
     <title>永远的行走-与中国相遇</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317000000 +0800" stop="20260317003000 +0800">
+  <programme channel="浙江卫视4K" start="20260317000000 +0800" stop="20260317002300 +0800">
     <title>永远的行走-与中国相遇</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317003000 +0800" stop="20260317011100 +0800">
-    <title>剧场</title>
+  <programme channel="浙江卫视4K" start="20260317002300 +0800" stop="20260317011700 +0800">
+    <title>草帽警察</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317011100 +0800" stop="20260317015200 +0800">
-    <title>剧场</title>
+  <programme channel="浙江卫视4K" start="20260317011700 +0800" stop="20260317020500 +0800">
+    <title>草帽警察</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317015200 +0800" stop="20260317023300 +0800">
-    <title>剧场</title>
+  <programme channel="浙江卫视4K" start="20260317020500 +0800" stop="20260317025000 +0800">
+    <title>草帽警察</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317023300 +0800" stop="20260317033000 +0800">
-    <title>百姓的味道</title>
+  <programme channel="浙江卫视4K" start="20260317025000 +0800" stop="20260317032300 +0800">
+    <title>宵夜江湖</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317033000 +0800" stop="20260317040000 +0800">
-    <title>纪录片</title>
+  <programme channel="浙江卫视4K" start="20260317032300 +0800" stop="20260317035900 +0800">
+    <title>宵夜江湖</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317040000 +0800" stop="20260317043700 +0800">
-    <title>纪录片</title>
+  <programme channel="浙江卫视4K" start="20260317035900 +0800" stop="20260317045300 +0800">
+    <title>我在岛屿读书</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317043700 +0800" stop="20260317050500 +0800">
-    <title>纪录片</title>
+  <programme channel="浙江卫视4K" start="20260317045300 +0800" stop="20260317055600 +0800">
+    <title>子夜外卖</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317050500 +0800" stop="20260317053600 +0800">
-    <title>纪录片</title>
-  </programme>
-  <programme channel="浙江卫视4K" start="20260317053600 +0800" stop="20260317055700 +0800">
-    <title>纪录片</title>
-  </programme>
-  <programme channel="浙江卫视4K" start="20260317055700 +0800" stop="20260317062200 +0800">
+  <programme channel="浙江卫视4K" start="20260317055600 +0800" stop="20260317062500 +0800">
     <title>约见名医</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317062200 +0800" stop="20260317070000 +0800">
-    <title>纪录片</title>
+  <programme channel="浙江卫视4K" start="20260317062500 +0800" stop="20260317070000 +0800">
+    <title>酒美中国</title>
   </programme>
   <programme channel="浙江卫视4K" start="20260317070000 +0800" stop="20260317070100 +0800">
     <title>中华人民共和国国歌</title>
@@ -50355,23 +50421,38 @@
   <programme channel="浙江卫视4K" start="20260317070100 +0800" stop="20260317072200 +0800">
     <title>江苏新时空</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317072200 +0800" stop="20260317080700 +0800">
-    <title>动画片</title>
+  <programme channel="浙江卫视4K" start="20260317072200 +0800" stop="20260317080800 +0800">
+    <title>茶啊二中</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317120000 +0800" stop="20260317123300 +0800">
+  <programme channel="浙江卫视4K" start="20260317080800 +0800" stop="20260317085200 +0800">
+    <title>以法之名</title>
+  </programme>
+  <programme channel="浙江卫视4K" start="20260317085200 +0800" stop="20260317093700 +0800">
+    <title>以法之名</title>
+  </programme>
+  <programme channel="浙江卫视4K" start="20260317093700 +0800" stop="20260317102700 +0800">
+    <title>以法之名</title>
+  </programme>
+  <programme channel="浙江卫视4K" start="20260317102700 +0800" stop="20260317111500 +0800">
+    <title>以法之名</title>
+  </programme>
+  <programme channel="浙江卫视4K" start="20260317111500 +0800" stop="20260317120000 +0800">
+    <title>以法之名</title>
+  </programme>
+  <programme channel="浙江卫视4K" start="20260317120000 +0800" stop="20260317123000 +0800">
     <title>正午江苏</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317123300 +0800" stop="20260317141700 +0800">
+  <programme channel="浙江卫视4K" start="20260317123000 +0800" stop="20260317141600 +0800">
     <title>非诚勿扰</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317141700 +0800" stop="20260317162500 +0800">
+  <programme channel="浙江卫视4K" start="20260317141600 +0800" stop="20260317162600 +0800">
     <title>新相亲大会</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317162500 +0800" stop="20260317171300 +0800">
-    <title>下午剧场</title>
+  <programme channel="浙江卫视4K" start="20260317162600 +0800" stop="20260317171300 +0800">
+    <title>以家人之名</title>
   </programme>
   <programme channel="浙江卫视4K" start="20260317171300 +0800" stop="20260317180000 +0800">
-    <title>下午剧场</title>
+    <title>以家人之名</title>
   </programme>
   <programme channel="浙江卫视4K" start="20260317180000 +0800" stop="20260317183000 +0800">
     <title>新闻眼</title>
@@ -50379,29 +50460,29 @@
   <programme channel="浙江卫视4K" start="20260317183000 +0800" stop="20260317190000 +0800">
     <title>江苏新时空</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317190000 +0800" stop="20260317193300 +0800">
+  <programme channel="浙江卫视4K" start="20260317190000 +0800" stop="20260317193200 +0800">
     <title>转播中央台新闻联播</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317193300 +0800" stop="20260317202100 +0800">
-    <title>幸福剧场</title>
+  <programme channel="浙江卫视4K" start="20260317193200 +0800" stop="20260317201700 +0800">
+    <title>太平年(23)</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317202100 +0800" stop="20260317210900 +0800">
-    <title>幸福剧场</title>
+  <programme channel="浙江卫视4K" start="20260317201700 +0800" stop="20260317210400 +0800">
+    <title>太平年(24)</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317210900 +0800" stop="20260317220800 +0800">
+  <programme channel="浙江卫视4K" start="20260317210400 +0800" stop="20260317220500 +0800">
     <title>最强大脑</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317220800 +0800" stop="20260317230000 +0800">
+  <programme channel="浙江卫视4K" start="20260317220500 +0800" stop="20260317230000 +0800">
     <title>最强大脑</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317230000 +0800" stop="20260317232200 +0800">
+  <programme channel="浙江卫视4K" start="20260317230000 +0800" stop="20260317231500 +0800">
     <title>晚间新闻</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317232200 +0800" stop="20260317235300 +0800">
-    <title>百步芳草</title>
+  <programme channel="浙江卫视4K" start="20260317231500 +0800" stop="20260317234500 +0800">
+    <title>时代问答</title>
   </programme>
-  <programme channel="浙江卫视4K" start="20260317235300 +0800" stop="20260317235959 +0800">
-    <title>剧场</title>
+  <programme channel="浙江卫视4K" start="20260317234500 +0800" stop="20260317235959 +0800">
+    <title>草帽警察</title>
   </programme>
   <programme channel="江苏卫视4K" start="20260316002300 +0800" stop="20260316005300 +0800">
     <title>有歌</title>
@@ -50540,9 +50621,6 @@
   </programme>
   <programme channel="江苏卫视4K" start="20260316235800 +0800" stop="20260317001600 +0800">
     <title>在场</title>
-  </programme>
-  <programme channel="江苏卫视4K" start="20260316235900 +0800" stop="20260317001600 +0800">
-    <title>纪录片</title>
   </programme>
   <programme channel="江苏卫视4K" start="20260317001600 +0800" stop="20260317004600 +0800">
     <title>纪录片</title>
@@ -50866,16 +50944,16 @@
     <title>赤热(14)</title>
   </programme>
   <programme channel="四川卫视4K" start="20260317000000 +0800" stop="20260317001300 +0800">
-    <title>赤热(13)</title>
-  </programme>
-  <programme channel="四川卫视4K" start="20260317001300 +0800" stop="20260317005500 +0800">
     <title>赤热(14)</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317005500 +0800" stop="20260317013600 +0800">
+  <programme channel="四川卫视4K" start="20260317001300 +0800" stop="20260317005400 +0800">
     <title>赤热(15)</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317013600 +0800" stop="20260317015500 +0800">
+  <programme channel="四川卫视4K" start="20260317005400 +0800" stop="20260317013600 +0800">
     <title>赤热(16)</title>
+  </programme>
+  <programme channel="四川卫视4K" start="20260317013600 +0800" stop="20260317015500 +0800">
+    <title>赤热(17)</title>
   </programme>
   <programme channel="四川卫视4K" start="20260317015500 +0800" stop="20260317020000 +0800">
     <title>《逐玉》明日精彩看点</title>
@@ -50884,10 +50962,10 @@
     <title>停机检修</title>
   </programme>
   <programme channel="四川卫视4K" start="20260317060000 +0800" stop="20260317061800 +0800">
-    <title>赤热(16)</title>
+    <title>赤热(17)</title>
   </programme>
   <programme channel="四川卫视4K" start="20260317061800 +0800" stop="20260317070000 +0800">
-    <title>赤热(17)</title>
+    <title>赤热(18)</title>
   </programme>
   <programme channel="四川卫视4K" start="20260317070000 +0800" stop="20260317070100 +0800">
     <title>中华人民共和国国歌</title>
@@ -50895,10 +50973,10 @@
   <programme channel="四川卫视4K" start="20260317070100 +0800" stop="20260317085900 +0800">
     <title>看东方</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317085900 +0800" stop="20260317090300 +0800">
+  <programme channel="四川卫视4K" start="20260317085900 +0800" stop="20260317090200 +0800">
     <title>天气预报</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317090300 +0800" stop="20260317092200 +0800">
+  <programme channel="四川卫视4K" start="20260317090200 +0800" stop="20260317092200 +0800">
     <title>唐宫奇案之青雾风鸣(22)</title>
   </programme>
   <programme channel="四川卫视4K" start="20260317092200 +0800" stop="20260317100700 +0800">
@@ -50907,10 +50985,10 @@
   <programme channel="四川卫视4K" start="20260317100700 +0800" stop="20260317105000 +0800">
     <title>唐宫奇案之青雾风鸣(24)</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317105000 +0800" stop="20260317113400 +0800">
+  <programme channel="四川卫视4K" start="20260317105000 +0800" stop="20260317113300 +0800">
     <title>唐宫奇案之青雾风鸣(25)</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317113400 +0800" stop="20260317120000 +0800">
+  <programme channel="四川卫视4K" start="20260317113300 +0800" stop="20260317120000 +0800">
     <title>唐宫奇案之青雾风鸣(26)</title>
   </programme>
   <programme channel="四川卫视4K" start="20260317120000 +0800" stop="20260317122600 +0800">
@@ -50967,14 +51045,14 @@
   <programme channel="四川卫视4K" start="20260317215900 +0800" stop="20260317220000 +0800">
     <title>天气预报</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317220000 +0800" stop="20260317230100 +0800">
-    <title>大江南(9)</title>
+  <programme channel="四川卫视4K" start="20260317220000 +0800" stop="20260317225400 +0800">
+    <title>大江南(9)：千回百转(上)</title>
   </programme>
-  <programme channel="四川卫视4K" start="20260317230100 +0800" stop="20260317234300 +0800">
-    <title>赤热(18)</title>
-  </programme>
-  <programme channel="四川卫视4K" start="20260317234300 +0800" stop="20260317235959 +0800">
+  <programme channel="四川卫视4K" start="20260317225400 +0800" stop="20260317233600 +0800">
     <title>赤热(19)</title>
+  </programme>
+  <programme channel="四川卫视4K" start="20260317233600 +0800" stop="20260317235959 +0800">
+    <title>赤热(20)</title>
   </programme>
   <programme channel="睛彩河北" start="20260316000000 +0800" stop="20260316004300 +0800">
     <title>巡城御史鬼难缠(7)</title>
