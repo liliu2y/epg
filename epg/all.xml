@@ -681,8 +681,8 @@
   <channel id="海南新闻">
     <display-name>海南新闻</display-name>
   </channel>
-  <channel id="海南公共">
-    <display-name>海南公共</display-name>
+  <channel id="海南社会与法">
+    <display-name>海南社会与法</display-name>
   </channel>
   <channel id="三沙卫视">
     <display-name>三沙卫视</display-name>
@@ -812,9 +812,6 @@
   </channel>
   <channel id="动作影院">
     <display-name>动作影院</display-name>
-  </channel>
-  <channel id="中华美食">
-    <display-name>中华美食</display-name>
   </channel>
   <channel id="黑莓电影">
     <display-name>黑莓电影</display-name>
@@ -1025,9 +1022,6 @@
   </channel>
   <channel id="4K健身">
     <display-name>4K健身</display-name>
-  </channel>
-  <channel id="收藏天下">
-    <display-name>收藏天下</display-name>
   </channel>
   <channel id="超级综艺">
     <display-name>超级综艺</display-name>
@@ -28593,136 +28587,136 @@
   <programme channel="海南新闻" start="20260317233000 +0800" stop="20260317235959 +0800">
     <title lang="zh">今日新闻汇</title>
   </programme>
-  <programme channel="海南公共" start="20260317000000 +0800" stop="20260317001000 +0800">
+  <programme channel="海南社会与法" start="20260317000000 +0800" stop="20260317001000 +0800">
     <title lang="zh">自贸港法治报道</title>
   </programme>
-  <programme channel="海南公共" start="20260317001000 +0800" stop="20260317003000 +0800">
+  <programme channel="海南社会与法" start="20260317001000 +0800" stop="20260317003000 +0800">
     <title lang="zh">科普健康讲堂</title>
   </programme>
-  <programme channel="海南公共" start="20260317003000 +0800" stop="20260317005000 +0800">
+  <programme channel="海南社会与法" start="20260317003000 +0800" stop="20260317005000 +0800">
     <title lang="zh">奇妙的中医</title>
   </programme>
-  <programme channel="海南公共" start="20260317005000 +0800" stop="20260317020000 +0800">
+  <programme channel="海南社会与法" start="20260317005000 +0800" stop="20260317020000 +0800">
     <title lang="zh">午夜特别编排</title>
   </programme>
-  <programme channel="海南公共" start="20260317020000 +0800" stop="20260317030000 +0800">
+  <programme channel="海南社会与法" start="20260317020000 +0800" stop="20260317030000 +0800">
     <title lang="zh">午夜特别编排</title>
   </programme>
-  <programme channel="海南公共" start="20260317030000 +0800" stop="20260317040000 +0800">
+  <programme channel="海南社会与法" start="20260317030000 +0800" stop="20260317040000 +0800">
     <title lang="zh">午夜特别编排</title>
   </programme>
-  <programme channel="海南公共" start="20260317040000 +0800" stop="20260317050000 +0800">
+  <programme channel="海南社会与法" start="20260317040000 +0800" stop="20260317050000 +0800">
     <title lang="zh">午夜特别编排</title>
   </programme>
-  <programme channel="海南公共" start="20260317050000 +0800" stop="20260317060000 +0800">
+  <programme channel="海南社会与法" start="20260317050000 +0800" stop="20260317060000 +0800">
     <title lang="zh">午夜特别编排</title>
   </programme>
-  <programme channel="海南公共" start="20260317060000 +0800" stop="20260317070500 +0800">
+  <programme channel="海南社会与法" start="20260317060000 +0800" stop="20260317070500 +0800">
     <title lang="zh">午夜特别编排</title>
   </programme>
-  <programme channel="海南公共" start="20260317070500 +0800" stop="20260317072000 +0800">
+  <programme channel="海南社会与法" start="20260317070500 +0800" stop="20260317072000 +0800">
     <title lang="zh">自贸港法治报道</title>
   </programme>
-  <programme channel="海南公共" start="20260317072000 +0800" stop="20260317073500 +0800">
+  <programme channel="海南社会与法" start="20260317072000 +0800" stop="20260317073500 +0800">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme channel="海南公共" start="20260317073500 +0800" stop="20260317074500 +0800">
+  <programme channel="海南社会与法" start="20260317073500 +0800" stop="20260317074500 +0800">
     <title lang="zh">儋洋共潮生资讯版</title>
   </programme>
-  <programme channel="海南公共" start="20260317074500 +0800" stop="20260317080500 +0800">
+  <programme channel="海南社会与法" start="20260317074500 +0800" stop="20260317080500 +0800">
     <title lang="zh">科普健康讲堂</title>
   </programme>
-  <programme channel="海南公共" start="20260317080500 +0800" stop="20260317083000 +0800">
+  <programme channel="海南社会与法" start="20260317080500 +0800" stop="20260317083000 +0800">
     <title lang="zh">奇妙的中医</title>
   </programme>
-  <programme channel="海南公共" start="20260317083000 +0800" stop="20260317085500 +0800">
+  <programme channel="海南社会与法" start="20260317083000 +0800" stop="20260317085500 +0800">
     <title lang="zh">健康随行</title>
   </programme>
-  <programme channel="海南公共" start="20260317085500 +0800" stop="20260317100000 +0800">
+  <programme channel="海南社会与法" start="20260317085500 +0800" stop="20260317100000 +0800">
     <title lang="zh">直播海南</title>
   </programme>
-  <programme channel="海南公共" start="20260317100000 +0800" stop="20260317104500 +0800">
+  <programme channel="海南社会与法" start="20260317100000 +0800" stop="20260317104500 +0800">
     <title lang="zh">天平剧场（1）</title>
   </programme>
-  <programme channel="海南公共" start="20260317104500 +0800" stop="20260317110000 +0800">
+  <programme channel="海南社会与法" start="20260317104500 +0800" stop="20260317110000 +0800">
     <title lang="zh">科普健康讲堂</title>
   </programme>
-  <programme channel="海南公共" start="20260317110000 +0800" stop="20260317111500 +0800">
+  <programme channel="海南社会与法" start="20260317110000 +0800" stop="20260317111500 +0800">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme channel="海南公共" start="20260317111500 +0800" stop="20260317120000 +0800">
+  <programme channel="海南社会与法" start="20260317111500 +0800" stop="20260317120000 +0800">
     <title lang="zh">天平剧场（2）</title>
   </programme>
-  <programme channel="海南公共" start="20260317120000 +0800" stop="20260317121500 +0800">
+  <programme channel="海南社会与法" start="20260317120000 +0800" stop="20260317121500 +0800">
     <title lang="zh">自贸港法治报道</title>
   </programme>
-  <programme channel="海南公共" start="20260317121500 +0800" stop="20260317123000 +0800">
+  <programme channel="海南社会与法" start="20260317121500 +0800" stop="20260317123000 +0800">
     <title lang="zh">生活帮（重）</title>
   </programme>
-  <programme channel="海南公共" start="20260317123000 +0800" stop="20260317124000 +0800">
+  <programme channel="海南社会与法" start="20260317123000 +0800" stop="20260317124000 +0800">
     <title lang="zh">儋洋共潮生资讯版</title>
   </programme>
-  <programme channel="海南公共" start="20260317124000 +0800" stop="20260317130000 +0800">
+  <programme channel="海南社会与法" start="20260317124000 +0800" stop="20260317130000 +0800">
     <title lang="zh">奇妙的中医</title>
   </programme>
-  <programme channel="海南公共" start="20260317130000 +0800" stop="20260317141000 +0800">
+  <programme channel="海南社会与法" start="20260317130000 +0800" stop="20260317141000 +0800">
     <title lang="zh">直播海南</title>
   </programme>
-  <programme channel="海南公共" start="20260317141000 +0800" stop="20260317143000 +0800">
+  <programme channel="海南社会与法" start="20260317141000 +0800" stop="20260317143000 +0800">
     <title lang="zh">科普健康讲堂</title>
   </programme>
-  <programme channel="海南公共" start="20260317143000 +0800" stop="20260317145000 +0800">
+  <programme channel="海南社会与法" start="20260317143000 +0800" stop="20260317145000 +0800">
     <title lang="zh">健康随行（重）</title>
   </programme>
-  <programme channel="海南公共" start="20260317145000 +0800" stop="20260317153500 +0800">
+  <programme channel="海南社会与法" start="20260317145000 +0800" stop="20260317153500 +0800">
     <title lang="zh">正义剧场（1）</title>
   </programme>
-  <programme channel="海南公共" start="20260317153500 +0800" stop="20260317164000 +0800">
+  <programme channel="海南社会与法" start="20260317153500 +0800" stop="20260317164000 +0800">
     <title lang="zh">直播海南</title>
   </programme>
-  <programme channel="海南公共" start="20260317164000 +0800" stop="20260317170000 +0800">
+  <programme channel="海南社会与法" start="20260317164000 +0800" stop="20260317170000 +0800">
     <title lang="zh">科普健康讲堂</title>
   </programme>
-  <programme channel="海南公共" start="20260317170000 +0800" stop="20260317171000 +0800">
+  <programme channel="海南社会与法" start="20260317170000 +0800" stop="20260317171000 +0800">
     <title lang="zh">儋洋共潮生资讯版</title>
   </programme>
-  <programme channel="海南公共" start="20260317171000 +0800" stop="20260317173700 +0800">
+  <programme channel="海南社会与法" start="20260317171000 +0800" stop="20260317173700 +0800">
     <title lang="zh">奇妙的中医</title>
   </programme>
-  <programme channel="海南公共" start="20260317173700 +0800" stop="20260317182200 +0800">
+  <programme channel="海南社会与法" start="20260317173700 +0800" stop="20260317182200 +0800">
     <title lang="zh">正义剧场（2）</title>
   </programme>
-  <programme channel="海南公共" start="20260317182200 +0800" stop="20260317184700 +0800">
+  <programme channel="海南社会与法" start="20260317182200 +0800" stop="20260317184700 +0800">
     <title lang="zh">健康随行（重）</title>
   </programme>
-  <programme channel="海南公共" start="20260317184700 +0800" stop="20260317190000 +0800">
+  <programme channel="海南社会与法" start="20260317184700 +0800" stop="20260317190000 +0800">
     <title lang="zh">儋洋共潮生资讯版</title>
   </programme>
-  <programme channel="海南公共" start="20260317190000 +0800" stop="20260317200000 +0800">
+  <programme channel="海南社会与法" start="20260317190000 +0800" stop="20260317200000 +0800">
     <title lang="zh">直播海南</title>
   </programme>
-  <programme channel="海南公共" start="20260317200000 +0800" stop="20260317201500 +0800">
+  <programme channel="海南社会与法" start="20260317200000 +0800" stop="20260317201500 +0800">
     <title lang="zh">自贸港法治报道</title>
   </programme>
-  <programme channel="海南公共" start="20260317201500 +0800" stop="20260317203000 +0800">
+  <programme channel="海南社会与法" start="20260317201500 +0800" stop="20260317203000 +0800">
     <title lang="zh">生活帮</title>
   </programme>
-  <programme channel="海南公共" start="20260317203000 +0800" stop="20260317204000 +0800">
+  <programme channel="海南社会与法" start="20260317203000 +0800" stop="20260317204000 +0800">
     <title lang="zh">儋洋共潮生资讯版</title>
   </programme>
-  <programme channel="海南公共" start="20260317204000 +0800" stop="20260317212300 +0800">
+  <programme channel="海南社会与法" start="20260317204000 +0800" stop="20260317212300 +0800">
     <title lang="zh">方圆剧场（1）</title>
   </programme>
-  <programme channel="海南公共" start="20260317212300 +0800" stop="20260317220700 +0800">
+  <programme channel="海南社会与法" start="20260317212300 +0800" stop="20260317220700 +0800">
     <title lang="zh">方圆剧场（2）</title>
   </programme>
-  <programme channel="海南公共" start="20260317220700 +0800" stop="20260317225000 +0800">
+  <programme channel="海南社会与法" start="20260317220700 +0800" stop="20260317225000 +0800">
     <title lang="zh">方圆剧场（3）</title>
   </programme>
-  <programme channel="海南公共" start="20260317225000 +0800" stop="20260317235500 +0800">
+  <programme channel="海南社会与法" start="20260317225000 +0800" stop="20260317235500 +0800">
     <title lang="zh">直播海南</title>
   </programme>
-  <programme channel="海南公共" start="20260317235500 +0800" stop="20260317235959 +0800">
+  <programme channel="海南社会与法" start="20260317235500 +0800" stop="20260317235959 +0800">
     <title lang="zh">自贸港法治报道</title>
   </programme>
   <programme channel="三沙卫视" start="20260317000000 +0800" stop="20260317004000 +0800">
@@ -32249,342 +32243,6 @@
   </programme>
   <programme channel="动作影院" start="20260317225400 +0800" stop="20260317235900 +0800">
     <title lang="zh">蜘蛛侠英雄归来</title>
-  </programme>
-  <programme channel="中华美食" start="20260317000000 +0800" stop="20260317000700 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(1)巴巴布拉伯病了HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317000700 +0800" stop="20260317001800 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(2)烤面包HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317001800 +0800" stop="20260317003300 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(1)初次见面HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317003300 +0800" stop="20260317004800 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(2)我要找哥哥HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317004800 +0800" stop="20260317005900 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(1)巴巴布拉伯病了HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317005900 +0800" stop="20260317011000 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(2)烤面包HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317011000 +0800" stop="20260317012500 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(1)初次见面HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317012500 +0800" stop="20260317014000 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(2)我要找哥哥HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317014000 +0800" stop="20260317015100 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(1)巴巴布拉伯病了HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317015100 +0800" stop="20260317020200 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(2)烤面包HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317020200 +0800" stop="20260317021700 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(1)初次见面HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317021700 +0800" stop="20260317023200 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(2)我要找哥哥HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317023200 +0800" stop="20260317024300 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(1)巴巴布拉伯病了HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317024300 +0800" stop="20260317025400 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(2)烤面包HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317025400 +0800" stop="20260317030900 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(1)初次见面HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317030900 +0800" stop="20260317032400 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(2)我要找哥哥HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317032400 +0800" stop="20260317033500 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(1)巴巴布拉伯病了HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317033500 +0800" stop="20260317034600 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(2)烤面包HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317034600 +0800" stop="20260317040000 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(1)初次见面HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317040000 +0800" stop="20260317041100 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317041100 +0800" stop="20260317042200 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317042200 +0800" stop="20260317043700 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317043700 +0800" stop="20260317045200 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317045200 +0800" stop="20260317050300 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317050300 +0800" stop="20260317051400 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317051400 +0800" stop="20260317052900 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317052900 +0800" stop="20260317054400 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317054400 +0800" stop="20260317055500 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317055500 +0800" stop="20260317060600 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317060600 +0800" stop="20260317062100 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317062100 +0800" stop="20260317063600 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317063600 +0800" stop="20260317064700 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317064700 +0800" stop="20260317065800 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317065800 +0800" stop="20260317071300 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317071300 +0800" stop="20260317072800 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317072800 +0800" stop="20260317073900 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317073900 +0800" stop="20260317075000 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317075000 +0800" stop="20260317080500 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317080500 +0800" stop="20260317082000 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317082000 +0800" stop="20260317083100 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317083100 +0800" stop="20260317084200 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317084200 +0800" stop="20260317085700 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317085700 +0800" stop="20260317091200 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317091200 +0800" stop="20260317092300 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317092300 +0800" stop="20260317093400 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317093400 +0800" stop="20260317094900 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317094900 +0800" stop="20260317100400 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317100400 +0800" stop="20260317101500 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317101500 +0800" stop="20260317102600 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317102600 +0800" stop="20260317104100 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317104100 +0800" stop="20260317105600 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317105600 +0800" stop="20260317110700 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317110700 +0800" stop="20260317111800 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317111800 +0800" stop="20260317113300 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317113300 +0800" stop="20260317114800 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317114800 +0800" stop="20260317115900 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317115900 +0800" stop="20260317121000 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317121000 +0800" stop="20260317122500 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317122500 +0800" stop="20260317124000 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317124000 +0800" stop="20260317125100 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317125100 +0800" stop="20260317130200 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317130200 +0800" stop="20260317131700 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317131700 +0800" stop="20260317133200 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317133200 +0800" stop="20260317134300 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317134300 +0800" stop="20260317135400 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317135400 +0800" stop="20260317140900 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317140900 +0800" stop="20260317142400 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317142400 +0800" stop="20260317143500 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317143500 +0800" stop="20260317144600 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317144600 +0800" stop="20260317150100 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317150100 +0800" stop="20260317151600 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317151600 +0800" stop="20260317152700 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317152700 +0800" stop="20260317153800 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317153800 +0800" stop="20260317155300 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317155300 +0800" stop="20260317160800 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317160800 +0800" stop="20260317161900 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317161900 +0800" stop="20260317163000 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317163000 +0800" stop="20260317164500 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317164500 +0800" stop="20260317170000 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317170000 +0800" stop="20260317171100 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317171100 +0800" stop="20260317172200 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317172200 +0800" stop="20260317173700 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317173700 +0800" stop="20260317175200 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317175200 +0800" stop="20260317180300 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317180300 +0800" stop="20260317181400 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317181400 +0800" stop="20260317182900 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317182900 +0800" stop="20260317184400 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317184400 +0800" stop="20260317185500 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317185500 +0800" stop="20260317190600 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317190600 +0800" stop="20260317192100 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317192100 +0800" stop="20260317193600 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317193600 +0800" stop="20260317194700 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317194700 +0800" stop="20260317195800 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317195800 +0800" stop="20260317201300 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317201300 +0800" stop="20260317202800 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317202800 +0800" stop="20260317203900 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317203900 +0800" stop="20260317205000 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317205000 +0800" stop="20260317210500 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317210500 +0800" stop="20260317212000 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317212000 +0800" stop="20260317213100 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317213100 +0800" stop="20260317214200 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317214200 +0800" stop="20260317215700 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317215700 +0800" stop="20260317221200 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317221200 +0800" stop="20260317222300 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317222300 +0800" stop="20260317223400 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317223400 +0800" stop="20260317224900 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317224900 +0800" stop="20260317230400 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317230400 +0800" stop="20260317231500 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317231500 +0800" stop="20260317232600 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(4)耐心点巴巴布拉伯HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317232600 +0800" stop="20260317234100 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(3)新的家人HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317234100 +0800" stop="20260317235600 +0800">
-    <title lang="zh">喜羊羊与灰太狼之奇趣外星客HD喜羊羊与灰太狼之奇趣外星客(4)失忆风波HD</title>
-  </programme>
-  <programme channel="中华美食" start="20260317235600 +0800" stop="20260317235900 +0800">
-    <title lang="zh">新巴巴爸爸HD新巴巴爸爸(3)春季大扫除HD</title>
   </programme>
   <programme channel="黑莓电影" start="20260317000000 +0800" stop="20260317003656 +0800">
     <title lang="zh">精彩呈现</title>
@@ -40094,120 +39752,6 @@
   </programme>
   <programme channel="4K健身" start="20260317234007 +0800" stop="20260317235959 +0800">
     <title lang="zh">致真健身第28季塑造完美下肢线条之加强版瘦小腿运动</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317000000 +0800" stop="20260317000900 +0800">
-    <title lang="zh">紫藤树下</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317000901 +0800" stop="20260317005100 +0800">
-    <title lang="zh">艺鸣惊人</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317005101 +0800" stop="20260317012000 +0800">
-    <title lang="zh">杂技大舞台</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317012001 +0800" stop="20260317013500 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317013501 +0800" stop="20260317030200 +0800">
-    <title lang="zh">技惊四座</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317030201 +0800" stop="20260317033600 +0800">
-    <title lang="zh">我爱魔术</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317033601 +0800" stop="20260317042800 +0800">
-    <title lang="zh">技高一筹</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317042801 +0800" stop="20260317052300 +0800">
-    <title lang="zh">中国马戏节</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317052301 +0800" stop="20260317053300 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317053301 +0800" stop="20260317060200 +0800">
-    <title lang="zh">杂技大舞台</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317060201 +0800" stop="20260317063400 +0800">
-    <title lang="zh">我爱魔术</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317063401 +0800" stop="20260317074600 +0800">
-    <title lang="zh">艺鸣惊人</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317074601 +0800" stop="20260317084700 +0800">
-    <title lang="zh">杂技大舞台</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317084701 +0800" stop="20260317101100 +0800">
-    <title lang="zh">技高一筹</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317101101 +0800" stop="20260317102300 +0800">
-    <title lang="zh">杂技名家</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317102301 +0800" stop="20260317103000 +0800">
-    <title lang="zh">吴桥奇技汇</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317103001 +0800" stop="20260317104300 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317104301 +0800" stop="20260317111300 +0800">
-    <title lang="zh">我爱魔术</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317111301 +0800" stop="20260317112400 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317112401 +0800" stop="20260317120300 +0800">
-    <title lang="zh">艺鸣惊人</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317120301 +0800" stop="20260317140200 +0800">
-    <title lang="zh">吴桥杂技节</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317140201 +0800" stop="20260317152500 +0800">
-    <title lang="zh">技高一筹</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317152501 +0800" stop="20260317155700 +0800">
-    <title lang="zh">天天有戏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317155701 +0800" stop="20260317161000 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317161001 +0800" stop="20260317161700 +0800">
-    <title lang="zh">吴桥奇技汇</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317161701 +0800" stop="20260317163200 +0800">
-    <title lang="zh">杂技名家</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317163201 +0800" stop="20260317165900 +0800">
-    <title lang="zh">杂技大舞台</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317165901 +0800" stop="20260317171400 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317171401 +0800" stop="20260317180700 +0800">
-    <title lang="zh">技高一筹</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317180701 +0800" stop="20260317190300 +0800">
-    <title lang="zh">紫藤树下</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317190301 +0800" stop="20260317191500 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317191501 +0800" stop="20260317192200 +0800">
-    <title lang="zh">吴桥奇技汇</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317192201 +0800" stop="20260317193700 +0800">
-    <title lang="zh">杂技名家</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317193701 +0800" stop="20260317204000 +0800">
-    <title lang="zh">我爱魔术</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317204001 +0800" stop="20260317205000 +0800">
-    <title lang="zh">精彩欣赏</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317205001 +0800" stop="20260317210200 +0800">
-    <title lang="zh">吴桥奇技汇</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317210201 +0800" stop="20260317230000 +0800">
-    <title lang="zh">吴桥杂技节</title>
-  </programme>
-  <programme channel="收藏天下" start="20260317230001 +0800" stop="20260317235959 +0800">
-    <title lang="zh">国际杂技节</title>
   </programme>
   <programme channel="超级综艺" start="20260317000000 +0800" stop="20260317003703 +0800">
     <title lang="zh">精彩呈现</title>
