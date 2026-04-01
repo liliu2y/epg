@@ -46236,10 +46236,10 @@
   <programme channel="财富天下" start="20260401105000 +0800" stop="20260401113000 +0800">
     <title>财富e视界</title>
   </programme>
-  <programme channel="财富天下" start="20260401113000 +0800" stop="202604011200                                     正在播出00 +0800">
+  <programme channel="财富天下" start="20260401113000 +0800" stop="20260401120000 +0800">
     <title>主力第一线</title>
   </programme>
-  <programme channel="财富天下" start="202604011200                                     正在播出00 +0800" stop="20260401123000 +0800">
+  <programme channel="财富天下" start="20260401120000 +0800" stop="20260401123000 +0800">
     <title>资金为王</title>
   </programme>
   <programme channel="财富天下" start="20260401123000 +0800" stop="20260401130000 +0800">
@@ -46266,10 +46266,10 @@
   <programme channel="财富天下" start="20260401163000 +0800" stop="20260401170000 +0800">
     <title>资金为王</title>
   </programme>
-  <programme channel="财富天下" start="20260401170000 +0800" stop="20260401173000 +0800">
+  <programme channel="财富天下" start="20260401170000 +0800" stop="202604011730                                     正在播出00 +0800">
     <title>聚焦涨幅榜</title>
   </programme>
-  <programme channel="财富天下" start="20260401173000 +0800" stop="20260401180000 +0800">
+  <programme channel="财富天下" start="202604011730                                     正在播出00 +0800" stop="20260401180000 +0800">
     <title>牛眼寻金</title>
   </programme>
   <programme channel="财富天下" start="20260401180000 +0800" stop="20260401183000 +0800">
@@ -58830,6 +58830,84 @@
   <channel id="凤凰电影">
     <display-name lang="zh">凤凰电影</display-name>
   </channel>
+  <programme channel="凤凰电影" start="20260401001500 +0800" stop="20260401023500 +0800">
+    <title lang="zh">推销员之死 Death Of A Salesman</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401023500 +0800" stop="20260401042500 +0800">
+    <title lang="zh">独行杀手 The Godson</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401042500 +0800" stop="20260401064500 +0800">
+    <title lang="zh">舞台春秋 Limelight</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401064500 +0800" stop="20260401083500 +0800">
+    <title lang="zh">时光倒流七十年 Somewhere In Time</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401083500 +0800" stop="20260401102000 +0800">
+    <title lang="zh">地铁 Subway</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401102000 +0800" stop="20260401121000 +0800">
+    <title lang="zh">黑狱亡魂 The Third Man</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401121000 +0800" stop="20260401140000 +0800">
+    <title lang="zh">环球电影大观：束胸 Corsage</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401140000 +0800" stop="20260401155500 +0800">
+    <title lang="zh">纵横四海 Once A Thief</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401155500 +0800" stop="20260401173000 +0800">
+    <title lang="zh">孤独的阿曼达 Amanda</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401173000 +0800" stop="20260401190500 +0800">
+    <title lang="zh">缘份 Behind the Yellow Line</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401190500 +0800" stop="20260401211500 +0800">
+    <title lang="zh">心灵小屋 The Shack</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401211500 +0800" stop="20260401230000 +0800">
+    <title lang="zh">缘份的天空：奈莉与阿诺先生 Nelly And Mr. Arnaud</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260401230000 +0800" stop="20260401235900 +0800">
+    <title lang="zh">寰宇国际影院：血迷宫 Blood Simple</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402003500 +0800" stop="20260402031500 +0800">
+    <title lang="zh">同命象 Haathi Mere Saathi</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402031500 +0800" stop="20260402044500 +0800">
+    <title lang="zh">暗恋桃花源 The Peach Blossom Land</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402044500 +0800" stop="20260402063000 +0800">
+    <title lang="zh">大眼睛 Big Eyes</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402063000 +0800" stop="20260402080500 +0800">
+    <title lang="zh">预见未来 Next</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402080500 +0800" stop="20260402095000 +0800">
+    <title lang="zh">小公女 Microhabitat</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402095000 +0800" stop="20260402114500 +0800">
+    <title lang="zh">龙虾 The Lobster</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402114500 +0800" stop="20260402135000 +0800">
+    <title lang="zh">环球电影大观：莫迪里阿尼 Modigliani</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402135000 +0800" stop="20260402155000 +0800">
+    <title lang="zh">朋友再见 Farewell, Friend</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402155000 +0800" stop="20260402180000 +0800">
+    <title lang="zh">被嫌弃的松子的一生 Memories Of Matsuko</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402180000 +0800" stop="20260402192500 +0800">
+    <title lang="zh">福冈 Fukuoka</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402192500 +0800" stop="20260402211500 +0800">
+    <title lang="zh">海蒂和爷爷 Heidi</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402211500 +0800" stop="20260402233500 +0800">
+    <title lang="zh">奇幻世界：巴西 Brazil</title>
+  </programme>
+  <programme channel="凤凰电影" start="20260402233500 +0800" stop="20260402235900 +0800">
+    <title lang="zh">寰宇国际影院：末日之路 The Road</title>
+  </programme>
   <channel id="生态环境">
     <display-name lang="zh">生态环境</display-name>
   </channel>
