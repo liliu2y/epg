@@ -930,17 +930,14 @@
   <channel id="河北都市">
     <display-name>河北都市</display-name>
   </channel>
-  <channel id="河北文旅公共">
-    <display-name>河北文旅公共</display-name>
-  </channel>
   <channel id="河北三农">
     <display-name>河北三农</display-name>
   </channel>
   <channel id="广西综艺旅游">
     <display-name>广西综艺旅游</display-name>
   </channel>
-  <channel id="河北影视剧">
-    <display-name>河北影视剧</display-name>
+  <channel id="河北文旅体育">
+    <display-name>河北文旅体育</display-name>
   </channel>
   <channel id="河北少儿科教">
     <display-name>河北少儿科教</display-name>
@@ -1067,9 +1064,6 @@
   </channel>
   <channel id="汉语经济生活">
     <display-name>汉语经济生活</display-name>
-  </channel>
-  <channel id="星空卫视">
-    <display-name>星空卫视</display-name>
   </channel>
   <channel id="澳视澳门">
     <display-name>澳视澳门</display-name>
@@ -1323,11 +1317,8 @@
   <channel id="iHOT爱旅行">
     <display-name lang="zh">iHOT爱旅行</display-name>
   </channel>
-  <channel id="睛彩河北">
-    <display-name lang="zh">睛彩河北</display-name>
-  </channel>
-  <channel id="河北杂技">
-    <display-name lang="zh">河北杂技</display-name>
+  <channel id="睛彩天下">
+    <display-name lang="zh">睛彩天下</display-name>
   </channel>
   <channel id="羽球精品赛事">
     <display-name lang="zh">羽球精品赛事</display-name>
@@ -36927,51 +36918,6 @@
   <programme channel="河北都市" start="20260507222001 +0800" stop="20260507235959 +0800">
     <title lang="zh">非常大牌</title>
   </programme>
-  <programme channel="河北文旅公共" start="20260507000000 +0800" stop="20260507002000 +0800">
-    <title lang="zh">激战</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507002001 +0800" stop="20260507005000 +0800">
-    <title lang="zh">你好京津冀</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507005001 +0800" stop="20260507053500 +0800">
-    <title lang="zh">纪录片</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507053501 +0800" stop="20260507060500 +0800">
-    <title lang="zh">新闻6号线</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507060501 +0800" stop="20260507070000 +0800">
-    <title lang="zh">飞哥大英雄</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507070001 +0800" stop="20260507090000 +0800">
-    <title lang="zh">美丽河北</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507090001 +0800" stop="20260507113000 +0800">
-    <title lang="zh">飞哥大英雄</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507113001 +0800" stop="20260507120000 +0800">
-    <title lang="zh">乐享河北</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507120001 +0800" stop="20260507130500 +0800">
-    <title lang="zh">美丽河北</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507130501 +0800" stop="20260507180000 +0800">
-    <title lang="zh">飞哥大英雄</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507180001 +0800" stop="20260507190000 +0800">
-    <title lang="zh">新闻6号线</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507190001 +0800" stop="20260507193500 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507193501 +0800" stop="20260507200500 +0800">
-    <title lang="zh">河北新闻联播</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507200501 +0800" stop="20260507203500 +0800">
-    <title lang="zh">乐享河北</title>
-  </programme>
-  <programme channel="河北文旅公共" start="20260507203501 +0800" stop="20260507235959 +0800">
-    <title lang="zh">激战</title>
-  </programme>
   <programme channel="河北三农" start="20260507000000 +0800" stop="20260507000500 +0800">
     <title lang="zh">农博士在行动</title>
   </programme>
@@ -37200,46 +37146,46 @@
   <programme channel="广西综艺旅游" start="20260507222500 +0800" stop="20260507235959 +0800">
     <title lang="zh">铁血征途(810)</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507000000 +0800" stop="20260507022000 +0800">
+  <programme channel="河北文旅体育" start="20260507000000 +0800" stop="20260507022000 +0800">
     <title lang="zh">午夜剧场</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507022001 +0800" stop="20260507063500 +0800">
+  <programme channel="河北文旅体育" start="20260507022001 +0800" stop="20260507063500 +0800">
     <title lang="zh">电影</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507063501 +0800" stop="20260507081000 +0800">
+  <programme channel="河北文旅体育" start="20260507063501 +0800" stop="20260507081000 +0800">
     <title lang="zh">电影</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507081001 +0800" stop="20260507084000 +0800">
+  <programme channel="河北文旅体育" start="20260507081001 +0800" stop="20260507084000 +0800">
     <title lang="zh">养心殿</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507084001 +0800" stop="20260507085000 +0800">
+  <programme channel="河北文旅体育" start="20260507084001 +0800" stop="20260507085000 +0800">
     <title lang="zh">老有乐</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507085001 +0800" stop="20260507114000 +0800">
+  <programme channel="河北文旅体育" start="20260507085001 +0800" stop="20260507114000 +0800">
     <title lang="zh">幸福剧场</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507114001 +0800" stop="20260507120000 +0800">
+  <programme channel="河北文旅体育" start="20260507114001 +0800" stop="20260507120000 +0800">
     <title lang="zh">影视欢乐送</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507120001 +0800" stop="20260507124000 +0800">
+  <programme channel="河北文旅体育" start="20260507120001 +0800" stop="20260507124000 +0800">
     <title lang="zh">有缘天空</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507124001 +0800" stop="20260507144500 +0800">
+  <programme channel="河北文旅体育" start="20260507124001 +0800" stop="20260507144500 +0800">
     <title lang="zh">电影</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507144501 +0800" stop="20260507171500 +0800">
+  <programme channel="河北文旅体育" start="20260507144501 +0800" stop="20260507171500 +0800">
     <title lang="zh">幸福剧场</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507171501 +0800" stop="20260507173500 +0800">
+  <programme channel="河北文旅体育" start="20260507171501 +0800" stop="20260507173500 +0800">
     <title lang="zh">老有乐</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507173501 +0800" stop="20260507181000 +0800">
+  <programme channel="河北文旅体育" start="20260507173501 +0800" stop="20260507181000 +0800">
     <title lang="zh">幸福剧场</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507181001 +0800" stop="20260507230300 +0800">
+  <programme channel="河北文旅体育" start="20260507181001 +0800" stop="20260507230300 +0800">
     <title lang="zh">精彩剧场</title>
   </programme>
-  <programme channel="河北影视剧" start="20260507230301 +0800" stop="20260507235959 +0800">
+  <programme channel="河北文旅体育" start="20260507230301 +0800" stop="20260507235959 +0800">
     <title lang="zh">午夜剧场</title>
   </programme>
   <programme channel="河北少儿科教" start="20260507000000 +0800" stop="20260507043500 +0800">
@@ -42063,93 +42009,6 @@
   <programme channel="汉语经济生活" start="20260507223500 +0800" stop="20260507235959 +0800">
     <title lang="zh">202526赛季CBA联赛14决赛上海—山东</title>
   </programme>
-  <programme channel="星空卫视" start="20260507000000 +0800" stop="20260507000200 +0800">
-    <title lang="zh">精彩呈现</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507000200 +0800" stop="20260507010300 +0800">
-    <title lang="zh">剧场</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507010300 +0800" stop="20260507013400 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507013400 +0800" stop="20260507020400 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507020400 +0800" stop="20260507023300 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507023300 +0800" stop="20260507042300 +0800">
-    <title lang="zh">中国达人秀</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507042300 +0800" stop="20260507044200 +0800">
-    <title lang="zh">益起向未来</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507044200 +0800" stop="20260507054700 +0800">
-    <title lang="zh">金星秀</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507054700 +0800" stop="20260507060500 +0800">
-    <title lang="zh">星空直播间</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507060500 +0800" stop="20260507080300 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507080300 +0800" stop="20260507090500 +0800">
-    <title lang="zh">剧场</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507090500 +0800" stop="20260507093500 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507093500 +0800" stop="20260507100600 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507100600 +0800" stop="20260507103400 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507103400 +0800" stop="20260507122400 +0800">
-    <title lang="zh">中国达人秀</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507122400 +0800" stop="20260507124300 +0800">
-    <title lang="zh">益起向未来</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507124300 +0800" stop="20260507134800 +0800">
-    <title lang="zh">金星秀</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507134800 +0800" stop="20260507140600 +0800">
-    <title lang="zh">星空直播间</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507140600 +0800" stop="20260507160400 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507160400 +0800" stop="20260507170200 +0800">
-    <title lang="zh">剧场</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507170200 +0800" stop="20260507173200 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507173200 +0800" stop="20260507180200 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507180200 +0800" stop="20260507183300 +0800">
-    <title lang="zh">动画片</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507183300 +0800" stop="20260507202200 +0800">
-    <title lang="zh">中国达人秀</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507202200 +0800" stop="20260507202700 +0800">
-    <title lang="zh">陇上江南仙境文县</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507202700 +0800" stop="20260507203700 +0800">
-    <title lang="zh">益起向未来</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507203700 +0800" stop="20260507214100 +0800">
-    <title lang="zh">金星秀</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507214100 +0800" stop="20260507220200 +0800">
-    <title lang="zh">星空直播间</title>
-  </programme>
-  <programme channel="星空卫视" start="20260507220200 +0800" stop="20260507235959 +0800">
-    <title lang="zh">电影</title>
-  </programme>
   <programme channel="澳视澳门" start="20260507000100 +0800" stop="20260507002700 +0800">
     <title lang="zh">湾区全媒睇</title>
   </programme>
@@ -44886,10 +44745,10 @@
   <programme channel="生态环境" start="20260507110500 +0800" stop="20260507113500 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="20260507113500 +0800" stop="202605071200                                     正在播出00 +0800">
+  <programme channel="生态环境" start="20260507113500 +0800" stop="20260507120000 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="202605071200                                     正在播出00 +0800" stop="20260507123500 +0800">
+  <programme channel="生态环境" start="20260507120000 +0800" stop="20260507123500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260507123500 +0800" stop="20260507130000 +0800">
@@ -44910,10 +44769,10 @@
   <programme channel="生态环境" start="20260507160000 +0800" stop="20260507163500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="20260507163500 +0800" stop="20260507170000 +0800">
+  <programme channel="生态环境" start="20260507163500 +0800" stop="202605071700                                     正在播出00 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="20260507170000 +0800" stop="20260507183000 +0800">
+  <programme channel="生态环境" start="202605071700                                     正在播出00 +0800" stop="20260507183000 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260507183000 +0800" stop="20260507190500 +0800">
@@ -45924,10 +45783,10 @@
   <programme channel="财富天下" start="20260507105000 +0800" stop="20260507113000 +0800">
     <title>财富e视界</title>
   </programme>
-  <programme channel="财富天下" start="20260507113000 +0800" stop="202605071200                                     正在播出00 +0800">
+  <programme channel="财富天下" start="20260507113000 +0800" stop="20260507120000 +0800">
     <title>主力第一线</title>
   </programme>
-  <programme channel="财富天下" start="202605071200                                     正在播出00 +0800" stop="20260507123000 +0800">
+  <programme channel="财富天下" start="20260507120000 +0800" stop="20260507123000 +0800">
     <title>资金为王</title>
   </programme>
   <programme channel="财富天下" start="20260507123000 +0800" stop="20260507130000 +0800">
@@ -45957,10 +45816,10 @@
   <programme channel="财富天下" start="20260507170000 +0800" stop="20260507173000 +0800">
     <title>聚焦涨幅榜</title>
   </programme>
-  <programme channel="财富天下" start="20260507173000 +0800" stop="20260507180000 +0800">
+  <programme channel="财富天下" start="20260507173000 +0800" stop="202605071800                                     正在播出00 +0800">
     <title>牛眼寻金</title>
   </programme>
-  <programme channel="财富天下" start="20260507180000 +0800" stop="20260507183000 +0800">
+  <programme channel="财富天下" start="202605071800                                     正在播出00 +0800" stop="20260507183000 +0800">
     <title>投资100问</title>
   </programme>
   <programme channel="财富天下" start="20260507183000 +0800" stop="20260507190000 +0800">
@@ -47663,6 +47522,519 @@
   </programme>
   <programme channel="爱大剧" start="20260508232200 +0800" stop="20260508235900 +0800">
     <title>暖暖的幸福HD-《暖暖的幸福》 第20集HD</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507000000 +0800" stop="20260507002000 +0800">
+    <title>壮丁也是兵(13)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507002000 +0800" stop="20260507010000 +0800">
+    <title>壮丁也是兵(14)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507010000 +0800" stop="20260507014200 +0800">
+    <title>壮丁也是兵(15)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507014200 +0800" stop="20260507022300 +0800">
+    <title>壮丁也是兵(16)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507022300 +0800" stop="20260507030300 +0800">
+    <title>壮丁也是兵(17)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507030300 +0800" stop="20260507034500 +0800">
+    <title>壮丁也是兵(18)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507034500 +0800" stop="20260507040000 +0800">
+    <title>节目结束</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507040000 +0800" stop="20260507044300 +0800">
+    <title>双枪李向阳之再战松井(26)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507044300 +0800" stop="20260507052500 +0800">
+    <title>傻根进城(1)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507052500 +0800" stop="20260507060700 +0800">
+    <title>傻根进城(2)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507060700 +0800" stop="20260507064800 +0800">
+    <title>傻根进城(3)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507064800 +0800" stop="20260507073900 +0800">
+    <title>缘来不晚(6)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507073900 +0800" stop="20260507082000 +0800">
+    <title>为爱转身(28)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507082000 +0800" stop="20260507085600 +0800">
+    <title>为爱转身(28)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507085600 +0800" stop="20260507093900 +0800">
+    <title>为爱转身(29)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507093900 +0800" stop="20260507101500 +0800">
+    <title>为爱转身(29)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507101500 +0800" stop="20260507110000 +0800">
+    <title>欢乐喜剧人Ⅱ(13)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507110000 +0800" stop="20260507115000 +0800">
+    <title>欢乐喜剧人Ⅱ(13)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507115000 +0800" stop="20260507123400 +0800">
+    <title>欢乐喜剧人Ⅱ(14)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507123400 +0800" stop="20260507132000 +0800">
+    <title>欢乐喜剧人Ⅱ(14)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507132000 +0800" stop="20260507140000 +0800">
+    <title>为爱转身(30)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507140000 +0800" stop="20260507144000 +0800">
+    <title>为爱转身(30)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507144000 +0800" stop="20260507152000 +0800">
+    <title>为爱转身(31)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507152000 +0800" stop="20260507155900 +0800">
+    <title>为爱转身(31)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507155900 +0800" stop="20260507163800 +0800">
+    <title>为爱转身(32)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507163800 +0800" stop="20260507171700 +0800">
+    <title>为爱转身(32)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507171700 +0800" stop="20260507175700 +0800">
+    <title>为爱转身(33)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507175700 +0800" stop="20260507183800 +0800">
+    <title>为爱转身(33)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507183800 +0800" stop="20260507192800 +0800">
+    <title>缘来不晚(7)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507192800 +0800" stop="20260507200600 +0800">
+    <title>欢乐喜剧人Ⅱ(15)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507200600 +0800" stop="20260507210000 +0800">
+    <title>欢乐喜剧人Ⅱ(15)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507210000 +0800" stop="20260507214700 +0800">
+    <title>欢乐喜剧人Ⅱ(16)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507214700 +0800" stop="20260507221700 +0800">
+    <title>欢乐喜剧人Ⅱ(16)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507221700 +0800" stop="20260507225800 +0800">
+    <title>壮丁也是兵(19)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507225800 +0800" stop="20260507233800 +0800">
+    <title>壮丁也是兵(20)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260507233800 +0800" stop="20260508000000 +0800">
+    <title>壮丁也是兵(21)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508000000 +0800" stop="20260508002000 +0800">
+    <title>壮丁也是兵(21)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508002000 +0800" stop="20260508010000 +0800">
+    <title>壮丁也是兵(22)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508010000 +0800" stop="20260508014200 +0800">
+    <title>壮丁也是兵(23)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508014200 +0800" stop="20260508022300 +0800">
+    <title>壮丁也是兵(24)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508022300 +0800" stop="20260508030300 +0800">
+    <title>壮丁也是兵(25)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508030300 +0800" stop="20260508034500 +0800">
+    <title>壮丁也是兵(26)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508034500 +0800" stop="20260508040000 +0800">
+    <title>节目结束</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508040000 +0800" stop="20260508044300 +0800">
+    <title>傻根进城(4)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508044300 +0800" stop="20260508052500 +0800">
+    <title>傻根进城(5)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508052500 +0800" stop="20260508060700 +0800">
+    <title>傻根进城(6)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508060700 +0800" stop="20260508064800 +0800">
+    <title>傻根进城(7)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508064800 +0800" stop="20260508073900 +0800">
+    <title>缘来不晚(8)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508073900 +0800" stop="20260508082000 +0800">
+    <title>为爱转身(34)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508082000 +0800" stop="20260508085600 +0800">
+    <title>为爱转身(34)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508085600 +0800" stop="20260508093900 +0800">
+    <title>为爱转身(35)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508093900 +0800" stop="20260508101500 +0800">
+    <title>为爱转身(35)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508101500 +0800" stop="20260508110000 +0800">
+    <title>欢乐喜剧人Ⅱ(17)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508110000 +0800" stop="20260508115000 +0800">
+    <title>欢乐喜剧人Ⅱ(17)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508115000 +0800" stop="20260508123400 +0800">
+    <title>欢乐喜剧人Ⅱ(18)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508123400 +0800" stop="20260508132000 +0800">
+    <title>欢乐喜剧人Ⅱ(18)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508132000 +0800" stop="20260508140000 +0800">
+    <title>为爱转身(36)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508140000 +0800" stop="20260508144000 +0800">
+    <title>为爱转身(36)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508144000 +0800" stop="20260508152000 +0800">
+    <title>为爱转身(37)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508152000 +0800" stop="20260508155900 +0800">
+    <title>为爱转身(37)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508155900 +0800" stop="20260508163800 +0800">
+    <title>为爱转身(38)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508163800 +0800" stop="20260508171700 +0800">
+    <title>为爱转身(38)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508171700 +0800" stop="20260508175700 +0800">
+    <title>为爱转身(39)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508175700 +0800" stop="20260508183800 +0800">
+    <title>为爱转身(39)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508183800 +0800" stop="20260508192800 +0800">
+    <title>缘来不晚(9)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508192800 +0800" stop="20260508200600 +0800">
+    <title>欢乐喜剧人Ⅱ(19)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508200600 +0800" stop="20260508210000 +0800">
+    <title>欢乐喜剧人Ⅱ(19)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508210000 +0800" stop="20260508214700 +0800">
+    <title>欢乐喜剧人Ⅲ(1)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508214700 +0800" stop="20260508221700 +0800">
+    <title>欢乐喜剧人Ⅲ(1)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508221700 +0800" stop="20260508225800 +0800">
+    <title>壮丁也是兵(27)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508225800 +0800" stop="20260508233800 +0800">
+    <title>壮丁也是兵(28)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260508233800 +0800" stop="20260509000000 +0800">
+    <title>壮丁也是兵(29)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509000000 +0800" stop="20260509002000 +0800">
+    <title>壮丁也是兵(29)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509002000 +0800" stop="20260509010000 +0800">
+    <title>壮丁也是兵(30)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509010000 +0800" stop="20260509014200 +0800">
+    <title>壮丁也是兵(31)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509014200 +0800" stop="20260509022300 +0800">
+    <title>壮丁也是兵(32)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509022300 +0800" stop="20260509030300 +0800">
+    <title>壮丁也是兵(33)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509030300 +0800" stop="20260509034500 +0800">
+    <title>壮丁也是兵(34)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509034500 +0800" stop="20260509040000 +0800">
+    <title>节目结束</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509040000 +0800" stop="20260509044300 +0800">
+    <title>傻根进城(8)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509044300 +0800" stop="20260509052500 +0800">
+    <title>傻根进城(9)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509052500 +0800" stop="20260509060700 +0800">
+    <title>傻根进城(10)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509060700 +0800" stop="20260509064800 +0800">
+    <title>傻根进城(11)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509064800 +0800" stop="20260509073900 +0800">
+    <title>缘来不晚(10)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509073900 +0800" stop="20260509082000 +0800">
+    <title>为爱转身(40)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509082000 +0800" stop="20260509085600 +0800">
+    <title>为爱转身(40)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509085600 +0800" stop="20260509093900 +0800">
+    <title>为爱转身(41)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509093900 +0800" stop="20260509101500 +0800">
+    <title>为爱转身(41)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509101500 +0800" stop="20260509110000 +0800">
+    <title>欢乐喜剧人Ⅲ(2)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509110000 +0800" stop="20260509115000 +0800">
+    <title>欢乐喜剧人Ⅲ(2)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509115000 +0800" stop="20260509123400 +0800">
+    <title>欢乐喜剧人Ⅲ(3)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509123400 +0800" stop="20260509132000 +0800">
+    <title>欢乐喜剧人Ⅲ(3)</title>
+  </programme>
+  <programme channel="睛彩天下" start="20260509132000 +0800" stop="20260509140000 +0800">
+    <title>为爱转身(42)</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507000000 +0800" stop="20260507000100 +0800">
+    <title>精彩赛事集锦</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507000100 +0800" stop="20260507010200 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507010200 +0800" stop="20260507013000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507013000 +0800" stop="20260507021000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507021000 +0800" stop="20260507024100 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507024100 +0800" stop="20260507034300 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507034300 +0800" stop="20260507045000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507045000 +0800" stop="20260507060900 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507060900 +0800" stop="20260507074300 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507074300 +0800" stop="20260507083700 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507083700 +0800" stop="20260507090000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507090000 +0800" stop="20260507100000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507100000 +0800" stop="20260507110000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507110000 +0800" stop="20260507120000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507120000 +0800" stop="20260507130000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507130000 +0800" stop="20260507140000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507140000 +0800" stop="20260507150000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507150000 +0800" stop="20260507150900 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507150900 +0800" stop="20260507154600 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507154600 +0800" stop="20260507164000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507164000 +0800" stop="20260507173900 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507173900 +0800" stop="20260507181800 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507181800 +0800" stop="20260507191200 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507191200 +0800" stop="20260507195000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507195000 +0800" stop="20260507203000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507203000 +0800" stop="20260507215200 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507215200 +0800" stop="20260507224000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507224000 +0800" stop="20260507232400 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507232400 +0800" stop="20260507235400 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260507235400 +0800" stop="20260508000000 +0800">
+    <title>精彩赛事集锦</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508000000 +0800" stop="20260508000100 +0800">
+    <title>精彩赛事集锦</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508000100 +0800" stop="20260508013300 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508013300 +0800" stop="20260508021700 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508021700 +0800" stop="20260508033500 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508033500 +0800" stop="20260508041800 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508041800 +0800" stop="20260508050000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508050000 +0800" stop="20260508053200 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508053200 +0800" stop="20260508060800 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508060800 +0800" stop="20260508065100 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508065100 +0800" stop="20260508073400 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508073400 +0800" stop="20260508085500 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508085500 +0800" stop="20260508090000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508090000 +0800" stop="20260508100000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508100000 +0800" stop="20260508110100 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508110100 +0800" stop="20260508121000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508121000 +0800" stop="20260508133200 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508133200 +0800" stop="20260508140800 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508140800 +0800" stop="20260508145600 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508145600 +0800" stop="20260508150000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508150000 +0800" stop="20260508160000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508160000 +0800" stop="20260508170000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508170000 +0800" stop="20260508180000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508180000 +0800" stop="20260508190000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508190000 +0800" stop="20260508200000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508200000 +0800" stop="20260508201300 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508201300 +0800" stop="20260508205600 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508205600 +0800" stop="20260508222000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508222000 +0800" stop="20260508232100 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508232100 +0800" stop="20260508234100 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508234100 +0800" stop="20260508235600 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260508235600 +0800" stop="20260509000000 +0800">
+    <title>精彩赛事集锦</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509000000 +0800" stop="20260509000100 +0800">
+    <title>精彩赛事集锦</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509000100 +0800" stop="20260509004700 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509004700 +0800" stop="20260509014400 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509014400 +0800" stop="20260509022800 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509022800 +0800" stop="20260509032900 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509032900 +0800" stop="20260509041800 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509041800 +0800" stop="20260509051300 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509051300 +0800" stop="20260509062500 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509062500 +0800" stop="20260509070100 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509070100 +0800" stop="20260509074100 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509074100 +0800" stop="20260509083900 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509083900 +0800" stop="20260509095300 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509095300 +0800" stop="20260509100000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509100000 +0800" stop="20260509110000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509110000 +0800" stop="20260509120000 +0800">
+    <title>体育节目</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509120000 +0800" stop="20260509130000 +0800">
+    <title>体育赛事</title>
+  </programme>
+  <programme channel="羽球精品赛事" start="20260509130000 +0800" stop="20260509140000 +0800">
+    <title>体育节目</title>
   </programme>
   <programme channel="欧美影院" start="20260507002200 +0800" stop="20260507020200 +0800">
     <title>怪兽大学(普通话版)</title>
@@ -57813,11 +58185,11 @@
   <programme channel="生态环境" start="20260506235900 +0800" stop="20260507000000 +0800">
     <title lang="zh">节目结束</title>
   </programme>
-  <programme channel="生态环境" start="20260507113500 +0800" stop="20260507120000 +0800">
-    <title lang="zh">钱币里的中国,科普好书</title>
+  <programme channel="生态环境" start="20260507163500 +0800" stop="20260507170000 +0800">
+    <title lang="zh">华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="20260507120000 +0800" stop="20260507123500 +0800">
-    <title lang="zh">绿水青山中国行,科普好书</title>
+  <programme channel="生态环境" start="20260507170000 +0800" stop="20260507183000 +0800">
+    <title lang="zh">钱币里的中国,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260507235900 +0800" stop="20260508000000 +0800">
     <title lang="zh">节目结束</title>
