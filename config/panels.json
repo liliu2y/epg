@@ -1,10 +1,10 @@
 {
-    "total_channels": 490,
-    "cn_channels": 0,
+    "total_channels": 969,
+    "cn_channels": 479,
     "hk_channels": 490,
-    "cn_programs": 0,
+    "cn_programs": 20408,
     "hk_programs": 22057,
-    "epg_time": "2026-05-09 22:19:46",
+    "epg_time": "2026-05-09 22:28:34",
     "phoenix_included": true,
     "eetv_included": true
 }
