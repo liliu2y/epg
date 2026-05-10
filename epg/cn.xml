@@ -930,6 +930,12 @@
   <channel id="河北都市">
     <display-name>河北都市</display-name>
   </channel>
+  <channel id="河北文旅体育">
+    <display-name>河北文旅体育</display-name>
+  </channel>
+  <channel id="河北三农">
+    <display-name>河北三农</display-name>
+  </channel>
   <channel id="广西综艺旅游">
     <display-name>广西综艺旅游</display-name>
   </channel>
@@ -36258,6 +36264,189 @@
   <programme channel="河北都市" start="20260510221001 +0800" stop="20260510235959 +0800">
     <title lang="zh">非常大牌</title>
   </programme>
+  <programme channel="河北文旅体育" start="20260510000000 +0800" stop="20260510001000 +0800">
+    <title lang="zh">经典剧场</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510001001 +0800" stop="20260510004000 +0800">
+    <title lang="zh">你好京津冀</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510004001 +0800" stop="20260510053500 +0800">
+    <title lang="zh">纪录片</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510053501 +0800" stop="20260510060500 +0800">
+    <title lang="zh">新闻6号线</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510060501 +0800" stop="20260510070000 +0800">
+    <title lang="zh">白天剧场</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510070001 +0800" stop="20260510090000 +0800">
+    <title lang="zh">美丽河北</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510090001 +0800" stop="20260510113000 +0800">
+    <title lang="zh">白天剧场</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510113001 +0800" stop="20260510120000 +0800">
+    <title lang="zh">乐享河北</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510120001 +0800" stop="20260510130500 +0800">
+    <title lang="zh">美丽河北</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510130501 +0800" stop="20260510180000 +0800">
+    <title lang="zh">白天剧场</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510180001 +0800" stop="20260510182000 +0800">
+    <title lang="zh">新闻6号线</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510182001 +0800" stop="20260510190000 +0800">
+    <title lang="zh">手语新闻</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510190001 +0800" stop="20260510193500 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510193501 +0800" stop="20260510200500 +0800">
+    <title lang="zh">河北新闻联播</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510200501 +0800" stop="20260510203500 +0800">
+    <title lang="zh">乐享河北</title>
+  </programme>
+  <programme channel="河北文旅体育" start="20260510203501 +0800" stop="20260510235959 +0800">
+    <title lang="zh">经典剧场</title>
+  </programme>
+  <programme channel="河北三农" start="20260510000000 +0800" stop="20260510041000 +0800">
+    <title lang="zh">星光剧场</title>
+  </programme>
+  <programme channel="河北三农" start="20260510041001 +0800" stop="20260510044000 +0800">
+    <title lang="zh">非常大中医</title>
+  </programme>
+  <programme channel="河北三农" start="20260510044001 +0800" stop="20260510045000 +0800">
+    <title lang="zh">冀农精品</title>
+  </programme>
+  <programme channel="河北三农" start="20260510045001 +0800" stop="20260510052000 +0800">
+    <title lang="zh">非常大中医</title>
+  </programme>
+  <programme channel="河北三农" start="20260510052001 +0800" stop="20260510055000 +0800">
+    <title lang="zh">非常大中医</title>
+  </programme>
+  <programme channel="河北三农" start="20260510055001 +0800" stop="20260510055500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510055501 +0800" stop="20260510065500 +0800">
+    <title lang="zh">勇敢的心</title>
+  </programme>
+  <programme channel="河北三农" start="20260510065501 +0800" stop="20260510070000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510070001 +0800" stop="20260510080000 +0800">
+    <title lang="zh">勇敢的心</title>
+  </programme>
+  <programme channel="河北三农" start="20260510080001 +0800" stop="20260510080500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510080501 +0800" stop="20260510083500 +0800">
+    <title lang="zh">勇敢的心</title>
+  </programme>
+  <programme channel="河北三农" start="20260510083501 +0800" stop="20260510084000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510084001 +0800" stop="20260510094000 +0800">
+    <title lang="zh">勇敢的心</title>
+  </programme>
+  <programme channel="河北三农" start="20260510094001 +0800" stop="20260510094500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510094501 +0800" stop="20260510101500 +0800">
+    <title lang="zh">勇敢的心</title>
+  </programme>
+  <programme channel="河北三农" start="20260510101501 +0800" stop="20260510102000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510102001 +0800" stop="20260510112000 +0800">
+    <title lang="zh">勇敢的心</title>
+  </programme>
+  <programme channel="河北三农" start="20260510112001 +0800" stop="20260510112500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510112501 +0800" stop="20260510122500 +0800">
+    <title lang="zh">勇敢的心</title>
+  </programme>
+  <programme channel="河北三农" start="20260510122501 +0800" stop="20260510123000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510123001 +0800" stop="20260510123500 +0800">
+    <title lang="zh">冀农精品</title>
+  </programme>
+  <programme channel="河北三农" start="20260510123501 +0800" stop="20260510124500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510124501 +0800" stop="20260510135000 +0800">
+    <title lang="zh">倾城之约</title>
+  </programme>
+  <programme channel="河北三农" start="20260510135001 +0800" stop="20260510135500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510135501 +0800" stop="20260510143000 +0800">
+    <title lang="zh">春草</title>
+  </programme>
+  <programme channel="河北三农" start="20260510143001 +0800" stop="20260510143500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510143501 +0800" stop="20260510154000 +0800">
+    <title lang="zh">春草</title>
+  </programme>
+  <programme channel="河北三农" start="20260510154001 +0800" stop="20260510155000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510155001 +0800" stop="20260510170000 +0800">
+    <title lang="zh">春草</title>
+  </programme>
+  <programme channel="河北三农" start="20260510170001 +0800" stop="20260510170500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510170501 +0800" stop="20260510181500 +0800">
+    <title lang="zh">春草</title>
+  </programme>
+  <programme channel="河北三农" start="20260510181501 +0800" stop="20260510182000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510182001 +0800" stop="20260510185500 +0800">
+    <title lang="zh">春草</title>
+  </programme>
+  <programme channel="河北三农" start="20260510185501 +0800" stop="20260510190000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510190001 +0800" stop="20260510195000 +0800">
+    <title lang="zh">绝对有戏</title>
+  </programme>
+  <programme channel="河北三农" start="20260510195001 +0800" stop="20260510200000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510200001 +0800" stop="20260510204000 +0800">
+    <title lang="zh">千金(24)</title>
+  </programme>
+  <programme channel="河北三农" start="20260510204001 +0800" stop="20260510205000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510205001 +0800" stop="20260510213000 +0800">
+    <title lang="zh">千金(25)</title>
+  </programme>
+  <programme channel="河北三农" start="20260510213001 +0800" stop="20260510213500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510213501 +0800" stop="20260510220500 +0800">
+    <title lang="zh">非常大中医</title>
+  </programme>
+  <programme channel="河北三农" start="20260510220501 +0800" stop="20260510221000 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510221001 +0800" stop="20260510221500 +0800">
+    <title lang="zh">冀农精品</title>
+  </programme>
+  <programme channel="河北三农" start="20260510221501 +0800" stop="20260510222500 +0800">
+    <title lang="zh">宣传段</title>
+  </programme>
+  <programme channel="河北三农" start="20260510222501 +0800" stop="20260510235959 +0800">
+    <title lang="zh">星光剧场</title>
+  </programme>
   <programme channel="广西综艺旅游" start="20260510010000 +0800" stop="20260510015500 +0800">
     <title lang="zh">法治最前线(5月9日)</title>
   </programme>
@@ -43827,9 +44016,6 @@
   <channel id="iHOT爱旅行">
     <display-name lang="zh">iHOT爱旅行</display-name>
   </channel>
-  <channel id="河北三农">
-    <display-name lang="zh">河北三农</display-name>
-  </channel>
   <channel id="睛彩天下">
     <display-name lang="zh">睛彩天下</display-name>
   </channel>
@@ -43869,10 +44055,10 @@
   <programme channel="生态环境" start="20260510040000 +0800" stop="20260510043500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="20260510043500 +0800" stop="202605100500                                     正在播出00 +0800">
+  <programme channel="生态环境" start="20260510043500 +0800" stop="20260510050000 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="202605100500                                     正在播出00 +0800" stop="20260510063000 +0800">
+  <programme channel="生态环境" start="20260510050000 +0800" stop="20260510063000 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260510063000 +0800" stop="20260510070500 +0800">
@@ -43899,10 +44085,10 @@
   <programme channel="生态环境" start="20260510110500 +0800" stop="20260510113500 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="20260510113500 +0800" stop="20260510120000 +0800">
+  <programme channel="生态环境" start="20260510113500 +0800" stop="202605101200                                     正在播出00 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="20260510120000 +0800" stop="20260510123500 +0800">
+  <programme channel="生态环境" start="202605101200                                     正在播出00 +0800" stop="20260510123500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260510123500 +0800" stop="20260510130000 +0800">
@@ -48738,10 +48924,10 @@
   <programme channel="财富天下" start="20260510010000 +0800" stop="20260510013000 +0800">
     <title>赢在收盘后</title>
   </programme>
-  <programme channel="财富天下" start="20260510013000 +0800" stop="202605100200                                     正在播出00 +0800">
+  <programme channel="财富天下" start="20260510013000 +0800" stop="20260510020000 +0800">
     <title>牛眼寻金</title>
   </programme>
-  <programme channel="财富天下" start="202605100200                                     正在播出00 +0800" stop="20260510070000 +0800">
+  <programme channel="财富天下" start="20260510020000 +0800" stop="20260510070000 +0800">
     <title>全天节目结束</title>
   </programme>
   <programme channel="财富天下" start="20260510070000 +0800" stop="20260510073000 +0800">
@@ -48768,10 +48954,10 @@
   <programme channel="财富天下" start="20260510103000 +0800" stop="20260510110000 +0800">
     <title>财富全攻略</title>
   </programme>
-  <programme channel="财富天下" start="20260510110000 +0800" stop="20260510113000 +0800">
+  <programme channel="财富天下" start="20260510110000 +0800" stop="202605101130                                     正在播出00 +0800">
     <title>牛眼寻金</title>
   </programme>
-  <programme channel="财富天下" start="20260510113000 +0800" stop="20260510120000 +0800">
+  <programme channel="财富天下" start="202605101130                                     正在播出00 +0800" stop="20260510120000 +0800">
     <title>聚焦涨幅榜</title>
   </programme>
   <programme channel="财富天下" start="20260510120000 +0800" stop="20260510123000 +0800">
@@ -50816,408 +51002,6 @@
   </programme>
   <programme channel="爱大剧" start="20260511232200 +0800" stop="20260511235900 +0800">
     <title>暖暖的幸福HD-《暖暖的幸福》 第26集HD</title>
-  </programme>
-  <programme channel="河北三农" start="20260510000000 +0800" stop="20260510041000 +0800">
-    <title>星光剧场</title>
-  </programme>
-  <programme channel="河北三农" start="20260510041000 +0800" stop="20260510044000 +0800">
-    <title>非常大中医</title>
-  </programme>
-  <programme channel="河北三农" start="20260510044000 +0800" stop="20260510045000 +0800">
-    <title>冀农精品</title>
-  </programme>
-  <programme channel="河北三农" start="20260510045000 +0800" stop="20260510052000 +0800">
-    <title>非常大中医</title>
-  </programme>
-  <programme channel="河北三农" start="20260510052000 +0800" stop="20260510055000 +0800">
-    <title>非常大中医</title>
-  </programme>
-  <programme channel="河北三农" start="20260510055000 +0800" stop="20260510055500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510062500 +0800" stop="20260510064500 +0800">
-    <title>专临</title>
-  </programme>
-  <programme channel="河北三农" start="20260510064500 +0800" stop="20260510065000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510065500 +0800" stop="20260510070000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510072000 +0800" stop="20260510073500 +0800">
-    <title>专临</title>
-  </programme>
-  <programme channel="河北三农" start="20260510073500 +0800" stop="20260510074000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510080000 +0800" stop="20260510080500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510081000 +0800" stop="20260510083000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260510083000 +0800" stop="20260510083500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510083500 +0800" stop="20260510084000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510090500 +0800" stop="20260510092500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260510092500 +0800" stop="20260510093000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510094000 +0800" stop="20260510094500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510101500 +0800" stop="20260510102000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510102000 +0800" stop="20260510103000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510110000 +0800" stop="20260510112000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260510112000 +0800" stop="20260510112500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510120000 +0800" stop="20260510122000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260510122500 +0800" stop="20260510123000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510123000 +0800" stop="20260510123500 +0800">
-    <title>冀农精品</title>
-  </programme>
-  <programme channel="河北三农" start="20260510123500 +0800" stop="20260510124500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510124500 +0800" stop="20260510135000 +0800">
-    <title>倾城之约</title>
-  </programme>
-  <programme channel="河北三农" start="20260510135000 +0800" stop="20260510135500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510135500 +0800" stop="20260510143000 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260510143000 +0800" stop="20260510143500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510143500 +0800" stop="20260510154000 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260510154000 +0800" stop="20260510155000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510155000 +0800" stop="20260510170000 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260510170000 +0800" stop="20260510170500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510170500 +0800" stop="20260510181500 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260510181500 +0800" stop="20260510182000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510182000 +0800" stop="20260510185500 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260510185500 +0800" stop="20260510190000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510190000 +0800" stop="20260510195000 +0800">
-    <title>绝对有戏</title>
-  </programme>
-  <programme channel="河北三农" start="20260510195000 +0800" stop="20260510200000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510200000 +0800" stop="20260510204000 +0800">
-    <title>千金(24)</title>
-  </programme>
-  <programme channel="河北三农" start="20260510204000 +0800" stop="20260510205000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510205000 +0800" stop="20260510213000 +0800">
-    <title>千金(25)</title>
-  </programme>
-  <programme channel="河北三农" start="20260510213000 +0800" stop="20260510213500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510213500 +0800" stop="20260510220500 +0800">
-    <title>非常大中医</title>
-  </programme>
-  <programme channel="河北三农" start="20260510220500 +0800" stop="20260510221000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510221000 +0800" stop="20260510221500 +0800">
-    <title>冀农精品</title>
-  </programme>
-  <programme channel="河北三农" start="20260510221500 +0800" stop="20260510222500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260510222500 +0800" stop="20260511000000 +0800">
-    <title>星光剧场</title>
-  </programme>
-  <programme channel="河北三农" start="20260511000000 +0800" stop="20260511024000 +0800">
-    <title>星光剧场</title>
-  </programme>
-  <programme channel="河北三农" start="20260511024000 +0800" stop="20260511031000 +0800">
-    <title>非常大中医</title>
-  </programme>
-  <programme channel="河北三农" start="20260511031000 +0800" stop="20260511040000 +0800">
-    <title>绝对有戏</title>
-  </programme>
-  <programme channel="河北三农" start="20260511040000 +0800" stop="20260511041000 +0800">
-    <title>冀农精品</title>
-  </programme>
-  <programme channel="河北三农" start="20260511041000 +0800" stop="20260511044000 +0800">
-    <title>非常大中医</title>
-  </programme>
-  <programme channel="河北三农" start="20260511044000 +0800" stop="20260511053000 +0800">
-    <title>绝对有戏</title>
-  </programme>
-  <programme channel="河北三农" start="20260511053000 +0800" stop="20260511053500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511053500 +0800" stop="20260511060500 +0800">
-    <title>刘巧儿(1)</title>
-  </programme>
-  <programme channel="河北三农" start="20260511060500 +0800" stop="20260511062500 +0800">
-    <title>专临</title>
-  </programme>
-  <programme channel="河北三农" start="20260511062500 +0800" stop="20260511065500 +0800">
-    <title>刘巧儿(2)</title>
-  </programme>
-  <programme channel="河北三农" start="20260511065500 +0800" stop="20260511071500 +0800">
-    <title>专临</title>
-  </programme>
-  <programme channel="河北三农" start="20260511071500 +0800" stop="20260511072000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511075000 +0800" stop="20260511081000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511081000 +0800" stop="20260511081500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511084500 +0800" stop="20260511090500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511090500 +0800" stop="20260511091000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511094000 +0800" stop="20260511100000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511100000 +0800" stop="20260511100500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511103500 +0800" stop="20260511105500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511105500 +0800" stop="20260511110000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511113000 +0800" stop="20260511115000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511115000 +0800" stop="20260511120000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511120000 +0800" stop="20260511123000 +0800">
-    <title>非常帮助</title>
-  </programme>
-  <programme channel="河北三农" start="20260511123000 +0800" stop="20260511123500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511123500 +0800" stop="20260511124500 +0800">
-    <title>农博士在行动</title>
-  </programme>
-  <programme channel="河北三农" start="20260511124500 +0800" stop="20260511125000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511125000 +0800" stop="20260511132500 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260511132500 +0800" stop="20260511134500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511134500 +0800" stop="20260511135000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511135000 +0800" stop="20260511142500 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260511142500 +0800" stop="20260511144500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511144500 +0800" stop="20260511145000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511145000 +0800" stop="20260511152500 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260511152500 +0800" stop="20260511154500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511154500 +0800" stop="20260511155000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511155000 +0800" stop="20260511162500 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260511162500 +0800" stop="20260511164500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511164500 +0800" stop="20260511165000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511165000 +0800" stop="20260511173000 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260511173000 +0800" stop="20260511175000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260511175000 +0800" stop="20260511180000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511180000 +0800" stop="20260511185000 +0800">
-    <title>非常关注</title>
-  </programme>
-  <programme channel="河北三农" start="20260511185000 +0800" stop="20260511190000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511190000 +0800" stop="20260511194000 +0800">
-    <title>千金(26)</title>
-  </programme>
-  <programme channel="河北三农" start="20260511194000 +0800" stop="20260511195500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511195500 +0800" stop="20260511203500 +0800">
-    <title>千金(27)</title>
-  </programme>
-  <programme channel="河北三农" start="20260511203500 +0800" stop="20260511205000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511205000 +0800" stop="20260511213000 +0800">
-    <title>千金(28)</title>
-  </programme>
-  <programme channel="河北三农" start="20260511213000 +0800" stop="20260511215000 +0800">
-    <title>农民健康</title>
-  </programme>
-  <programme channel="河北三农" start="20260511215000 +0800" stop="20260511215500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511215500 +0800" stop="20260511221000 +0800">
-    <title>三农最前线</title>
-  </programme>
-  <programme channel="河北三农" start="20260511221000 +0800" stop="20260511224000 +0800">
-    <title>非常帮助</title>
-  </programme>
-  <programme channel="河北三农" start="20260511224000 +0800" stop="20260511230000 +0800">
-    <title>专临</title>
-  </programme>
-  <programme channel="河北三农" start="20260511230000 +0800" stop="20260511230500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260511230500 +0800" stop="20260511235500 +0800">
-    <title>非常关注</title>
-  </programme>
-  <programme channel="河北三农" start="20260511235500 +0800" stop="20260512000000 +0800">
-    <title>农博士在行动</title>
-  </programme>
-  <programme channel="河北三农" start="20260512000000 +0800" stop="20260512000500 +0800">
-    <title>农博士在行动</title>
-  </programme>
-  <programme channel="河北三农" start="20260512000500 +0800" stop="20260512001500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512001500 +0800" stop="20260512032500 +0800">
-    <title>星光剧场</title>
-  </programme>
-  <programme channel="河北三农" start="20260512032500 +0800" stop="20260512034000 +0800">
-    <title>三农最前线</title>
-  </programme>
-  <programme channel="河北三农" start="20260512034000 +0800" stop="20260512041000 +0800">
-    <title>非常帮助</title>
-  </programme>
-  <programme channel="河北三农" start="20260512041000 +0800" stop="20260512050000 +0800">
-    <title>非常关注</title>
-  </programme>
-  <programme channel="河北三农" start="20260512050000 +0800" stop="20260512051500 +0800">
-    <title>农博士在行动</title>
-  </programme>
-  <programme channel="河北三农" start="20260512051500 +0800" stop="20260512053000 +0800">
-    <title>三农最前线</title>
-  </programme>
-  <programme channel="河北三农" start="20260512053000 +0800" stop="20260512053500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512053500 +0800" stop="20260512060500 +0800">
-    <title>刘巧儿(3)</title>
-  </programme>
-  <programme channel="河北三农" start="20260512060500 +0800" stop="20260512062500 +0800">
-    <title>专临</title>
-  </programme>
-  <programme channel="河北三农" start="20260512062500 +0800" stop="20260512065500 +0800">
-    <title>刘巧儿(4)</title>
-  </programme>
-  <programme channel="河北三农" start="20260512065500 +0800" stop="20260512071500 +0800">
-    <title>专临</title>
-  </programme>
-  <programme channel="河北三农" start="20260512071500 +0800" stop="20260512072000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512075000 +0800" stop="20260512081000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260512081000 +0800" stop="20260512081500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512084500 +0800" stop="20260512091000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260512094000 +0800" stop="20260512100000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260512100000 +0800" stop="20260512100500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512103500 +0800" stop="20260512105500 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260512105500 +0800" stop="20260512110000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512113000 +0800" stop="20260512115000 +0800">
-    <title>广告专题</title>
-  </programme>
-  <programme channel="河北三农" start="20260512115000 +0800" stop="20260512120000 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512120000 +0800" stop="20260512123000 +0800">
-    <title>非常帮助</title>
-  </programme>
-  <programme channel="河北三农" start="20260512123000 +0800" stop="20260512123500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512123500 +0800" stop="20260512124500 +0800">
-    <title>农博士在行动</title>
-  </programme>
-  <programme channel="河北三农" start="20260512124500 +0800" stop="20260512125500 +0800">
-    <title>宣传段</title>
-  </programme>
-  <programme channel="河北三农" start="20260512125500 +0800" stop="20260512133000 +0800">
-    <title>春草</title>
-  </programme>
-  <programme channel="河北三农" start="20260512133000 +0800" stop="20260512135000 +0800">
-    <title>广告专题</title>
   </programme>
   <programme channel="睛彩天下" start="20260510000000 +0800" stop="20260510002000 +0800">
     <title>大浴堂(2)</title>
