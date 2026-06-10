@@ -1050,14 +1050,8 @@
   <channel id="天津教育">
     <display-name>天津教育</display-name>
   </channel>
-  <channel id="宁夏经济">
-    <display-name>宁夏经济</display-name>
-  </channel>
   <channel id="宁夏文旅">
     <display-name>宁夏文旅</display-name>
-  </channel>
-  <channel id="宁夏少儿">
-    <display-name>宁夏少儿</display-name>
   </channel>
   <channel id="汉语经济生活">
     <display-name>汉语经济生活</display-name>
@@ -41421,42 +41415,6 @@
   <programme channel="天津教育" start="20260610233000 +0800" stop="20260610235959 +0800">
     <title lang="zh">传奇</title>
   </programme>
-  <programme channel="宁夏经济" start="20260610000000 +0800" stop="20260610003000 +0800">
-    <title lang="zh">都市经典剧场</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610003000 +0800" stop="20260610070000 +0800">
-    <title lang="zh">结束曲</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610070000 +0800" stop="20260610080500 +0800">
-    <title lang="zh">都市阳光</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610080500 +0800" stop="20260610120000 +0800">
-    <title lang="zh">都市晨风剧场</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610120000 +0800" stop="20260610130300 +0800">
-    <title lang="zh">都市阳光</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610130300 +0800" stop="20260610132500 +0800">
-    <title lang="zh">宁夏经济报道</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610132500 +0800" stop="20260610185000 +0800">
-    <title lang="zh">都市阳光剧场</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610185000 +0800" stop="20260610195200 +0800">
-    <title lang="zh">都市阳光</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610195200 +0800" stop="20260610213000 +0800">
-    <title lang="zh">都市黄金剧场</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610213000 +0800" stop="20260610220000 +0800">
-    <title lang="zh">宁夏经济报道</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610220000 +0800" stop="20260610230200 +0800">
-    <title lang="zh">都市阳光</title>
-  </programme>
-  <programme channel="宁夏经济" start="20260610230200 +0800" stop="20260610235959 +0800">
-    <title lang="zh">都市经典剧场</title>
-  </programme>
   <programme channel="宁夏文旅" start="20260610000000 +0800" stop="20260610023000 +0800">
     <title lang="zh">星空影院</title>
   </programme>
@@ -41495,45 +41453,6 @@
   </programme>
   <programme channel="宁夏文旅" start="20260610221000 +0800" stop="20260610235959 +0800">
     <title lang="zh">星空影院</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610000000 +0800" stop="20260610074000 +0800">
-    <title lang="zh">青春剧场</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610074000 +0800" stop="20260610110000 +0800">
-    <title lang="zh">动画连连看</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610110000 +0800" stop="20260610115000 +0800">
-    <title lang="zh">传奇</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610115000 +0800" stop="20260610120000 +0800">
-    <title lang="zh">成长帮帮堂</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610120000 +0800" stop="20260610123500 +0800">
-    <title lang="zh">PK先锋551</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610123500 +0800" stop="20260610174000 +0800">
-    <title lang="zh">电视剧剧场</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610174000 +0800" stop="20260610192000 +0800">
-    <title lang="zh">欢乐影院</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610192000 +0800" stop="20260610195000 +0800">
-    <title lang="zh">动画片剧场</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610195000 +0800" stop="20260610200000 +0800">
-    <title lang="zh">成长帮帮堂</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610200000 +0800" stop="20260610202500 +0800">
-    <title lang="zh">PK先锋</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610202500 +0800" stop="20260610205000 +0800">
-    <title lang="zh">丁点真相</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610205000 +0800" stop="20260610215000 +0800">
-    <title lang="zh">欢乐影院</title>
-  </programme>
-  <programme channel="宁夏少儿" start="20260610215000 +0800" stop="20260610235959 +0800">
-    <title lang="zh">青春剧场</title>
   </programme>
   <programme channel="汉语经济生活" start="20260610000000 +0800" stop="20260610001000 +0800">
     <title lang="zh">精彩呈现</title>
