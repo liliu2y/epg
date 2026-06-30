@@ -45405,11 +45405,8 @@
 	<programme channel="爱尔达体育1台" start="20260630070000 +0800" stop="20260630073000 +0800">
 		<title>体坛最前线 6/29(普)</title>
 	</programme>
-	<programme channel="爱尔达体育1台" start="20260630073000 +0800" stop="20260630080000 +0800">
-		<title>30分钟看个GOAL 6/27 G/H/I组第三轮回顾(普)</title>
-	</programme>
-	<programme channel="爱尔达体育1台" start="20260630080000 +0800" stop="20260630083000 +0800">
-		<title>30分钟看个GOAL 6/28 J/K/L组第三轮回顾(普)</title>
+	<programme channel="爱尔达体育1台" start="20260630073000 +0800" stop="20260630083000 +0800">
+		<title>FIFA世界杯™ 巴西 VS 日本 32强 (下半场精华)(普)</title>
 	</programme>
 	<programme channel="爱尔达体育1台" start="20260630083000 +0800" stop="20260630113000 +0800">
 		<title>LIVE FIFA世界杯™ 荷兰 VS 摩洛哥 32强 6/30 #75(普)</title>
@@ -45565,7 +45562,7 @@
 		<title>MLB 海盗 VS 费城人 例行赛 6/30(普)</title>
 	</programme>
 	<programme channel="爱尔达体育2台" start="20260630150000 +0800" stop="20260630170000 +0800">
-		<title>WTT大满贯赛 美国站 第二日回顾(普)</title>
+		<title>WTT大满贯赛 美国站 第二日回顾 郑怡静/叶伊恬(普)</title>
 	</programme>
 	<programme channel="爱尔达体育2台" start="20260630170000 +0800" stop="20260630192000 +0800">
 		<title>FIFA世界杯™ 巴西 VS 日本 32强 6/30 #76(普)</title>
@@ -45598,7 +45595,7 @@
 		<title>体坛最前线 6/30(普)</title>
 	</programme>
 	<programme channel="爱尔达体育2台" start="20260701130000 +0800" stop="20260701133000 +0800">
-		<title>英超名人堂 #4 (新)(普)</title>
+		<title>英超名人堂 #4 我们是布莱顿 (新)(普)</title>
 	</programme>
 	<programme channel="爱尔达体育2台" start="20260701133000 +0800" stop="20260701140000 +0800">
 		<title>30分钟看个GOAL 7/1 32强回顾 (新)(普)</title>
@@ -45664,7 +45661,7 @@
 		<title>WTT大满贯赛 美国站 精彩赛况回顾(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260630090000 +0800" stop="20260630130000 +0800">
-		<title>LIVE WTT大满贯赛 美国站 第二日(下) 6/30(普)</title>
+		<title>LIVE WTT大满贯赛 美国站 郑怡静/叶伊恬 第二日(下) 6/30(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260630130000 +0800" stop="20260630160000 +0800">
 		<title>温网 单打第一轮#2 6/30(普)</title>
@@ -45676,7 +45673,7 @@
 		<title>LIVE 中华职棒 统一 VS 富邦 例行赛 6/30(原6/12延赛)(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260630220000 +0800" stop="20260701000000 +0800">
-		<title>WTT大满贯赛 美国站 第二日回顾(普)</title>
+		<title>WTT大满贯赛 美国站 第二日回顾 郑怡静/叶伊恬(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260701000000 +0800" stop="20260701003000 +0800">
 		<title>体坛最前线 6/30 (新)(普)</title>
@@ -45700,13 +45697,13 @@
 		<title>体坛最前线 6/30(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260701143000 +0800" stop="20260701170000 +0800">
-		<title>MLB 游骑兵 VS 守护者 例行赛 7/1(普)</title>
+		<title>MLB 海盗 VS 费城人 例行赛 7/1(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260701170000 +0800" stop="20260701193000 +0800">
 		<title>MLB 道奇 VS 运动家 例行赛 7/1(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260701193000 +0800" stop="20260701220000 +0800">
-		<title>FIFA世界杯™ 象牙海岸 VS I组第二 32强 7/1 #78(普)</title>
+		<title>FIFA世界杯™ 墨西哥 VS 厄瓜多 32强 7/1 #79(普)</title>
 	</programme>
 	<programme channel="爱尔达体育3台" start="20260701220000 +0800" stop="20260702000000 +0800">
 		<title>WTT大满贯赛 美国站 单打32强/双打16强回顾(普)</title>
@@ -45768,80 +45765,98 @@
 	<programme channel="爱尔达体育4台" start="20260630070000 +0800" stop="20260630100000 +0800">
 		<title>LIVE MLB 老虎 VS 洋基 例行赛 6/30(原音)(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260630100000 +0800" stop="20260630123000 +0800">
-		<title>LLB U13亚洲杯棒球 印尼 VS 中华 6/22(普)</title>
+	<programme channel="爱尔达体育4台" start="20260630100000 +0800" stop="20260630101500 +0800">
+		<title>电动方程式 赛道零距离S2 #5 家人没得选(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260630123000 +0800" stop="20260630153000 +0800">
-		<title>LLB U13亚洲杯棒球 中华 VS 南韩 6/23(普)</title>
+	<programme channel="爱尔达体育4台" start="20260630101500 +0800" stop="20260630103000 +0800">
+		<title>电动方程式 赛道零距离S3 #6 力挽狂澜(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260630153000 +0800" stop="20260630180000 +0800">
-		<title>LLB U13亚洲杯棒球 菲律宾 VS 中华 6/24(普)</title>
+	<programme channel="爱尔达体育4台" start="20260630103000 +0800" stop="20260630110000 +0800">
+		<title>体育班#2(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260630110000 +0800" stop="20260630133000 +0800">
+		<title>玉山杯青棒 屏东县 VS 苗栗县  6/12(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260630133000 +0800" stop="20260630161500 +0800">
+		<title>玉山杯青棒 台中市 VS 嘉义县 6/12(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260630161500 +0800" stop="20260630180000 +0800">
+		<title>玉山杯青棒 云林县 VS  嘉义市 6/12(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260630180000 +0800" stop="20260630200000 +0800">
 		<title>日本职业橄榄球 久保田长矛 VS 东芝猛狼东京 八强(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260630200000 +0800" stop="20260630220000 +0800">
+	<programme channel="爱尔达体育4台" start="20260630200000 +0800" stop="20260630214500 +0800">
 		<title>日本职业橄榄球 神户制钢 VS 东京三得利日星 四强(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260630220000 +0800" stop="20260630223000 +0800">
-		<title>英超名人堂 #1(普)</title>
+	<programme channel="爱尔达体育4台" start="20260630214500 +0800" stop="20260630234500 +0800">
+		<title>LLB U13亚洲杯棒球 印尼 VS 中华 6/22(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260630223000 +0800" stop="20260630230000 +0800">
-		<title>电动方程式 赛道零距离S3 #4 筑梦先锋(普)</title>
+	<programme channel="爱尔达体育4台" start="20260630234500 +0800" stop="20260701020000 +0800">
+		<title>LLB U13亚洲杯棒球 菲律宾 VS 香港 6/23(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260630230000 +0800" stop="20260701000000 +0800">
-		<title>2026 WEC世界耐久锦标赛特辑#3 - 利曼24小时(原音)(普)</title>
+	<programme channel="爱尔达体育4台" start="20260630234500 +0800" stop="20260701020000 +0800">
+		<title>LLB U13亚洲杯棒球 菲律宾 VS 香港 6/23(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701000000 +0800" stop="20260701033000 +0800">
+	<programme channel="爱尔达体育4台" start="20260701020000 +0800" stop="20260701050000 +0800">
 		<title>WBC棒球经典赛 中华 VS 南韩 3/8 C组预赛(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701033000 +0800" stop="20260701040000 +0800">
-		<title>电动方程式 赛道零距离S3 #3 新势力崛起(普)</title>
+	<programme channel="爱尔达体育4台" start="20260701050000 +0800" stop="20260701053000 +0800">
+		<title>2026 BWF世界羽球杂志#5 冠军基因 金慧贞/金元昊(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701040000 +0800" stop="20260701063000 +0800">
-		<title>LLB U13亚洲杯棒球 香港 VS 南韩 冠军战 6/27(普)</title>
-	</programme>
-	<programme channel="爱尔达体育4台" start="20260701063000 +0800" stop="20260701070500 +0800">
-		<title>电动方程式 赛道零距离S3 #3 新势力崛起(普)</title>
-	</programme>
-	<programme channel="爱尔达体育4台" start="20260701070500 +0800" stop="20260701073000 +0800">
-		<title>电动方程式 赛道零距离S3 #1 美国梦(普)</title>
-	</programme>
-	<programme channel="爱尔达体育4台" start="20260701073000 +0800" stop="20260701080000 +0800">
-		<title>电动方程式 赛道零距离S3 #2 德国雄心(普)</title>
+	<programme channel="爱尔达体育4台" start="20260701053000 +0800" stop="20260701080000 +0800">
+		<title>IFSC世界运动攀登系列赛 先锋赛 吴江站 决赛(原音)(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260701080000 +0800" stop="20260701110000 +0800">
 		<title>LIVE MLB 教士 VS 小熊 例行赛 7/1(原音)(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701110000 +0800" stop="20260701120000 +0800">
-		<title>2026 WEC世界耐久锦标赛特辑#3 - 利曼24小时(原音)(普)</title>
+	<programme channel="爱尔达体育4台" start="20260701110000 +0800" stop="20260701111500 +0800">
+		<title>2026 BWF世界羽球周报#21 澳门公开赛回顾(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701120000 +0800" stop="20260701143000 +0800">
-		<title>LLB U13亚洲杯棒球 印尼 VS 中华 6/22(普)</title>
+	<programme channel="爱尔达体育4台" start="20260701111500 +0800" stop="20260701113000 +0800">
+		<title>体育班#2(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701143000 +0800" stop="20260701153000 +0800">
-		<title>2026 WEC世界耐久锦标赛特辑#3 - 利曼24小时(原音)(普)</title>
+	<programme channel="爱尔达体育4台" start="20260701113000 +0800" stop="20260701123000 +0800">
+		<title>欧冠足球志#36 赛季回顾(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701153000 +0800" stop="20260701180000 +0800">
-		<title>LLB U13亚洲杯棒球 中华 VS 南韩 6/23(普)</title>
+	<programme channel="爱尔达体育4台" start="20260701123000 +0800" stop="20260701130000 +0800">
+		<title>英超名人堂 #1(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260701180000 +0800" stop="20260701200000 +0800">
+	<programme channel="爱尔达体育4台" start="20260701130000 +0800" stop="20260701131500 +0800">
+		<title>电动方程式 赛道零距离S1 #1 新纪元的序幕(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260701131500 +0800" stop="20260701133000 +0800">
+		<title>电动方程式 赛道零距离S1 #2 起伏跌宕(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260701133000 +0800" stop="20260701134500 +0800">
+		<title>电动方程式 赛道零距离S1 #3 条条大路通罗马(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260701134500 +0800" stop="20260701140000 +0800">
+		<title>电动方程式 赛道零距离S1#4 重返巅峰(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260701140000 +0800" stop="20260701160000 +0800">
+		<title>玉山杯青棒 新竹市 VS 嘉义市 6/13(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260701160000 +0800" stop="20260701181500 +0800">
+		<title>玉山杯青棒 南投县 VS 台北市 6/13(普)</title>
+	</programme>
+	<programme channel="爱尔达体育4台" start="20260701181500 +0800" stop="20260701200000 +0800">
 		<title>日本职业橄榄球 神户制钢 VS 东京三得利日星 四强(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260701200000 +0800" stop="20260701220000 +0800">
 		<title>日本职业橄榄球 久保田长矛 VS 埼玉狂野武士 四强(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260701220000 +0800" stop="20260702000000 +0800">
-		<title>IFSC世界运动攀登系列赛 抱石赛 柯桥站 男子组准决赛(原音)(普)</title>
+		<title>LLB U13亚洲杯棒球 菲律宾 VS 中华 6/24(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260702000000 +0800" stop="20260702023000 +0800">
-		<title>LLB U13亚洲杯棒球 香港 VS 南韩 冠军战 6/27(普)</title>
+		<title>LLB U13亚洲杯棒球 日本 VS 香港 6/24(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260702023000 +0800" stop="20260702053000 +0800">
+	<programme channel="爱尔达体育4台" start="20260702023000 +0800" stop="20260702050000 +0800">
 		<title>WBC棒球经典赛 中华 VS 南韩 3/8 C组预赛(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260702053000 +0800" stop="20260702080500 +0800">
-		<title>IFSC世界运动攀登系列赛 速度赛 吴江站 决赛(原音)(普)</title>
+	<programme channel="爱尔达体育4台" start="20260702050000 +0800" stop="20260702080500 +0800">
+		<title>IFSC世界运动攀登系列赛 抱石赛 柯桥站 女子组准决赛(原音)(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260702080500 +0800" stop="20260702110000 +0800">
 		<title>LIVE MLB 红人 VS 酿酒人 例行赛 7/2(原音)(普)</title>
@@ -45849,17 +45864,14 @@
 	<programme channel="爱尔达体育4台" start="20260702110000 +0800" stop="20260702113000 +0800">
 		<title>电动方程式 赛道零距离S3 #2 德国雄心(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260702113000 +0800" stop="20260702120000 +0800">
-		<title>电动方程式 赛道零距离S3 #3 新势力崛起(普)</title>
+	<programme channel="爱尔达体育4台" start="20260702113000 +0800" stop="20260702133000 +0800">
+		<title>2026 亚洲大学羽球锦标赛 团体决赛 6/11(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260702120000 +0800" stop="20260702143000 +0800">
-		<title>LLB U13亚洲杯棒球 菲律宾 VS 中华 6/24(普)</title>
+	<programme channel="爱尔达体育4台" start="20260702133000 +0800" stop="20260702160000 +0800">
+		<title>玉山杯青棒 桃园市 VS 高雄市 6/14(普)</title>
 	</programme>
-	<programme channel="爱尔达体育4台" start="20260702143000 +0800" stop="20260702153000 +0800">
-		<title>2026 WEC世界耐久锦标赛特辑#3 - 利曼24小时(原音)(普)</title>
-	</programme>
-	<programme channel="爱尔达体育4台" start="20260702153000 +0800" stop="20260702180000 +0800">
-		<title>LLB U13亚洲杯棒球 中华 VS 香港 6/25(普)</title>
+	<programme channel="爱尔达体育4台" start="20260702160000 +0800" stop="20260702180000 +0800">
+		<title>玉山杯青棒 台南市 VS 台中市 6/14(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260702180000 +0800" stop="20260702200000 +0800">
 		<title>日本职业橄榄球 久保田长矛 VS 埼玉狂野武士 四强(普)</title>
@@ -45868,7 +45880,7 @@
 		<title>日本职业橄榄球 埼玉狂野武士 VS 东京三得利日星 季军赛(普)</title>
 	</programme>
 	<programme channel="爱尔达体育4台" start="20260702220000 +0800" stop="20260703000000 +0800">
-		<title>IFSC世界运动攀登系列赛 抱石赛 柯桥站 男子组决赛(原音)(普)</title>
+		<title>LLB U13亚洲杯棒球 日本 VS 中华 6/26(普)</title>
 	</programme>
 	<programme channel="东森新闻台" start="20260630000000 +0800" stop="20260630005000 +0800">
 		<title>东森夜线新闻</title>
@@ -57150,30 +57162,6 @@
 	<programme channel="龙华电影" start="20260702233000 +0800" stop="20260703012500 +0800">
 		<title>我是一个贼(辅12)</title>
 	</programme>
-	<programme channel="iQIYI" start="20260630003000 +0800" stop="20260630012000 +0800">
-		<title>我是刑警 第25集</title>
-	</programme>
-	<programme channel="iQIYI" start="20260630012000 +0800" stop="20260630024000 +0800">
-		<title>沙海怪兽</title>
-	</programme>
-	<programme channel="iQIYI" start="20260630024000 +0800" stop="20260630033000 +0800">
-		<title>四方馆 第10集</title>
-	</programme>
-	<programme channel="iQIYI" start="20260630033000 +0800" stop="20260630042000 +0800">
-		<title>四方馆 第11集</title>
-	</programme>
-	<programme channel="iQIYI" start="20260630042000 +0800" stop="20260630051000 +0800">
-		<title>正当防卫 第10集</title>
-	</programme>
-	<programme channel="iQIYI" start="20260630051000 +0800" stop="20260630060000 +0800">
-		<title>正当防卫 第11集</title>
-	</programme>
-	<programme channel="iQIYI" start="20260630060000 +0800" stop="20260630070000 +0800">
-		<title>幻乐森林 第9集</title>
-	</programme>
-	<programme channel="iQIYI" start="20260630070000 +0800" stop="20260630080000 +0800">
-		<title>幻乐森林 第10集</title>
-	</programme>
 	<programme channel="iQIYI" start="20260630080000 +0800" stop="20260630090000 +0800">
 		<title>孤舟 第17集</title>
 	</programme>
@@ -57384,27 +57372,6 @@
 	<programme channel="iQIYI" start="20260702234000 +0800" stop="20260703003000 +0800">
 		<title>我是刑警 第30集</title>
 	</programme>
-	<programme channel="QJ" start="20260630000000 +0800" stop="20260630010000 +0800">
-		<title>你好1983 第30集</title>
-	</programme>
-	<programme channel="QJ" start="20260630010000 +0800" stop="20260630020000 +0800">
-		<title>特战荣耀 第5集</title>
-	</programme>
-	<programme channel="QJ" start="20260630020000 +0800" stop="20260630030000 +0800">
-		<title>蜀锦人家 第29集</title>
-	</programme>
-	<programme channel="QJ" start="20260630030000 +0800" stop="20260630040000 +0800">
-		<title>蜀锦人家 第30集</title>
-	</programme>
-	<programme channel="QJ" start="20260630040000 +0800" stop="20260630050000 +0800">
-		<title>动物园 第8集</title>
-	</programme>
-	<programme channel="QJ" start="20260630050000 +0800" stop="20260630060000 +0800">
-		<title>老是常出现 第5集</title>
-	</programme>
-	<programme channel="QJ" start="20260630060000 +0800" stop="20260630070000 +0800">
-		<title>特战荣耀 第5集</title>
-	</programme>
 	<programme channel="QJ" start="20260630070000 +0800" stop="20260630083500 +0800">
 		<title>我们的宿舍 第1集</title>
 	</programme>
@@ -57581,45 +57548,6 @@
 	</programme>
 	<programme channel="QJ" start="20260702231500 +0800" stop="20260703000000 +0800">
 		<title>黑夜告白 第1集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630000000 +0800" stop="20260630001000 +0800">
-		<title>世界观 第21集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630001000 +0800" stop="20260630004000 +0800">
-		<title>兄弟帮 第2166集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630004000 +0800" stop="20260630014100 +0800">
-		<title>女神蒙上眼 第5集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630014100 +0800" stop="20260630023600 +0800">
-		<title>非份之罪 第1集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630023600 +0800" stop="20260630024100 +0800">
-		<title>今日知多D</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630024100 +0800" stop="20260630031000 +0800">
-		<title>爱.回家之开心速递 第2839集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630031000 +0800" stop="20260630034000 +0800">
-		<title>东张西望 第180集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630034000 +0800" stop="20260630041000 +0800">
-		<title>江湖见 第1集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630041000 +0800" stop="20260630051000 +0800">
-		<title>又见逍遥 第32集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630051000 +0800" stop="20260630055500 +0800">
-		<title>流行都市 第2011集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630055500 +0800" stop="20260630061000 +0800">
-		<title>快乐长门人 第65集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630061000 +0800" stop="20260630064000 +0800">
-		<title>新闻掏宝 第308集</title>
-	</programme>
-	<programme channel="TVBJ" start="20260630064000 +0800" stop="20260630070900 +0800">
-		<title>东张西望 第180集</title>
 	</programme>
 	<programme channel="TVBJ" start="20260630070900 +0800" stop="20260630081300 +0800">
 		<title>香港早晨 及 世界观 第30集</title>
@@ -57960,33 +57888,6 @@
 	<programme channel="TVBJ" start="20260702232500 +0800" stop="20260703000000 +0800">
 		<title>晚间新闻 第2集</title>
 	</programme>
-	<programme channel="AOD" start="20260630003000 +0800" stop="20260630012000 +0800">
-		<title>非份之罪 第1集</title>
-	</programme>
-	<programme channel="AOD" start="20260630012000 +0800" stop="20260630021000 +0800">
-		<title>女神蒙上眼 第5集</title>
-	</programme>
-	<programme channel="AOD" start="20260630021000 +0800" stop="20260630030000 +0800">
-		<title>非份之罪 第1集</title>
-	</programme>
-	<programme channel="AOD" start="20260630030000 +0800" stop="20260630035000 +0800">
-		<title>女神蒙上眼 第5集</title>
-	</programme>
-	<programme channel="AOD" start="20260630035000 +0800" stop="20260630044000 +0800">
-		<title>非份之罪 第1集</title>
-	</programme>
-	<programme channel="AOD" start="20260630044000 +0800" stop="20260630053000 +0800">
-		<title>女神蒙上眼 第5集</title>
-	</programme>
-	<programme channel="AOD" start="20260630053000 +0800" stop="20260630062000 +0800">
-		<title>飞常日志II 第10集</title>
-	</programme>
-	<programme channel="AOD" start="20260630062000 +0800" stop="20260630071000 +0800">
-		<title>非份之罪 第1集</title>
-	</programme>
-	<programme channel="AOD" start="20260630071000 +0800" stop="20260630080000 +0800">
-		<title>女神蒙上眼 第5集</title>
-	</programme>
 	<programme channel="AOD" start="20260630080000 +0800" stop="20260630085000 +0800">
 		<title>非份之罪 第1集</title>
 	</programme>
@@ -58212,24 +58113,6 @@
 	<programme channel="AOD" start="20260702233000 +0800" stop="20260703003000 +0800">
 		<title>女神蒙上眼 第8集</title>
 	</programme>
-	<programme channel="TVBS ASIA" start="20260630000300 +0800" stop="20260630020300 +0800">
-		<title>少康战情室</title>
-	</programme>
-	<programme channel="TVBS ASIA" start="20260630020300 +0800" stop="20260630030300 +0800">
-		<title>地球黄金线</title>
-	</programme>
-	<programme channel="TVBS ASIA" start="20260630030300 +0800" stop="20260630040300 +0800">
-		<title>11点热吵店</title>
-	</programme>
-	<programme channel="TVBS ASIA" start="20260630040300 +0800" stop="20260630050300 +0800">
-		<title>国民大会</title>
-	</programme>
-	<programme channel="TVBS ASIA" start="20260630050300 +0800" stop="20260630060300 +0800">
-		<title>女人我最大</title>
-	</programme>
-	<programme channel="TVBS ASIA" start="20260630060300 +0800" stop="20260630070300 +0800">
-		<title>FOCUS全球新闻</title>
-	</programme>
 	<programme channel="TVBS ASIA" start="20260630070300 +0800" stop="20260630080300 +0800">
 		<title>健康2.0</title>
 	</programme>
@@ -58419,18 +58302,6 @@
 	<programme channel="TVBS ASIA" start="20260702230300 +0800" stop="20260703000300 +0800">
 		<title>11点热吵店</title>
 	</programme>
-	<programme channel="CCM" start="20260630000000 +0800" stop="20260630015000 +0800">
-		<title>请帖</title>
-	</programme>
-	<programme channel="CCM" start="20260630015000 +0800" stop="20260630035000 +0800">
-		<title>西游记</title>
-	</programme>
-	<programme channel="CCM" start="20260630035000 +0800" stop="20260630053500 +0800">
-		<title>方世玉与胡惠干</title>
-	</programme>
-	<programme channel="CCM" start="20260630053500 +0800" stop="20260630071000 +0800">
-		<title>杀手三分半钟</title>
-	</programme>
 	<programme channel="CCM" start="20260630071000 +0800" stop="20260630085500 +0800">
 		<title>鱼美人</title>
 	</programme>
@@ -58556,33 +58427,6 @@
 	</programme>
 	<programme channel="CCM" start="20260702235500 +0800" stop="20260703013000 +0800">
 		<title>一乐也</title>
-	</programme>
-	<programme channel="CNN" start="20260630000200 +0800" stop="20260630004700 +0800">
-		<title>One World</title>
-	</programme>
-	<programme channel="CNN" start="20260630004700 +0800" stop="20260630010200 +0800">
-		<title>African Voices</title>
-	</programme>
-	<programme channel="CNN" start="20260630010200 +0800" stop="20260630020200 +0800">
-		<title>Amanpour</title>
-	</programme>
-	<programme channel="CNN" start="20260630020200 +0800" stop="20260630030200 +0800">
-		<title>Isa Soares Tonight</title>
-	</programme>
-	<programme channel="CNN" start="20260630030200 +0800" stop="20260630040200 +0800">
-		<title>What We Know With Max Foster</title>
-	</programme>
-	<programme channel="CNN" start="20260630040200 +0800" stop="20260630050200 +0800">
-		<title>Quest Means Business</title>
-	</programme>
-	<programme channel="CNN" start="20260630050200 +0800" stop="20260630053200 +0800">
-		<title>The Lead With Jake Tapper</title>
-	</programme>
-	<programme channel="CNN" start="20260630053200 +0800" stop="20260630060200 +0800">
-		<title>World Sport</title>
-	</programme>
-	<programme channel="CNN" start="20260630060200 +0800" stop="20260630070200 +0800">
-		<title>The Brief With Jim Sciutto</title>
 	</programme>
 	<programme channel="CNN" start="20260630070200 +0800" stop="20260630080200 +0800">
 		<title>Erin Burnett OutFront</title>
@@ -58818,27 +58662,6 @@
 	<programme channel="CNN" start="20260702233200 +0800" stop="20260703000200 +0800">
 		<title>CNN Creators</title>
 	</programme>
-	<programme channel="CNA" start="20260630000500 +0800" stop="20260630010200 +0800">
-		<title>East Asia Tonight</title>
-	</programme>
-	<programme channel="CNA" start="20260630010200 +0800" stop="20260630020200 +0800">
-		<title>Singapore Hour</title>
-	</programme>
-	<programme channel="CNA" start="20260630020200 +0800" stop="20260630030200 +0800">
-		<title>Singapore Tonight</title>
-	</programme>
-	<programme channel="CNA" start="20260630030200 +0800" stop="20260630040200 +0800">
-		<title>Insight</title>
-	</programme>
-	<programme channel="CNA" start="20260630040200 +0800" stop="20260630050200 +0800">
-		<title>Asia Tonight</title>
-	</programme>
-	<programme channel="CNA" start="20260630050200 +0800" stop="20260630060200 +0800">
-		<title>Echoes of Change</title>
-	</programme>
-	<programme channel="CNA" start="20260630060200 +0800" stop="20260630070200 +0800">
-		<title>Singapore Tonight</title>
-	</programme>
 	<programme channel="CNA" start="20260630070200 +0800" stop="20260630100200 +0800">
 		<title>Asia First</title>
 	</programme>
@@ -59018,111 +58841,6 @@
 	</programme>
 	<programme channel="CNA" start="20260702233200 +0800" stop="20260703000500 +0800">
 		<title>CNA Correspondent</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630000000 +0800" stop="20260630001500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630001500 +0800" stop="20260630003000 +0800">
-		<title>Spotlight</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630003000 +0800" stop="20260630004500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630004500 +0800" stop="20260630005100 +0800">
-		<title>Business</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630005100 +0800" stop="20260630010000 +0800">
-		<title>World Cup 2026</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630010000 +0800" stop="20260630011000 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630011000 +0800" stop="20260630015300 +0800">
-		<title>The Debate</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630015300 +0800" stop="20260630020000 +0800">
-		<title>Short Cuts</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630020000 +0800" stop="20260630022000 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630022000 +0800" stop="20260630023000 +0800">
-		<title>World Cup 2026</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630023000 +0800" stop="20260630024500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630024500 +0800" stop="20260630025100 +0800">
-		<title>Truth or Fake</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630025100 +0800" stop="20260630030000 +0800">
-		<title>Focus</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630030000 +0800" stop="20260630032000 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630032000 +0800" stop="20260630033000 +0800">
-		<title>Business</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630033000 +0800" stop="20260630034000 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630034000 +0800" stop="20260630040000 +0800">
-		<title>Eye on Africa</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630040000 +0800" stop="20260630041500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630041500 +0800" stop="20260630042100 +0800">
-		<title>Business</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630042100 +0800" stop="20260630043200 +0800">
-		<title>Truth or Fake</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630043200 +0800" stop="20260630044400 +0800">
-		<title>A PROPOS</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630044400 +0800" stop="20260630050000 +0800">
-		<title>Eye on Africa</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630050000 +0800" stop="20260630051500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630051500 +0800" stop="20260630053000 +0800">
-		<title>Business + Truth or Fake</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630053000 +0800" stop="20260630054500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630054500 +0800" stop="20260630055100 +0800">
-		<title>World Cup 2026</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630055100 +0800" stop="20260630060000 +0800">
-		<title>Focus</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630060000 +0800" stop="20260630061000 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630061000 +0800" stop="20260630065300 +0800">
-		<title>The Debate</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630065300 +0800" stop="20260630070000 +0800">
-		<title>Short Cuts</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630070000 +0800" stop="20260630071500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630071500 +0800" stop="20260630072000 +0800">
-		<title>Business</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630072000 +0800" stop="20260630073000 +0800">
-		<title>Focus</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630073000 +0800" stop="20260630074500 +0800">
-		<title>News</title>
-	</programme>
-	<programme channel="FRANCE24" start="20260630074500 +0800" stop="20260630080000 +0800">
-		<title>Arts24</title>
 	</programme>
 	<programme channel="FRANCE24" start="20260630080000 +0800" stop="20260630081500 +0800">
 		<title>News</title>
@@ -60012,30 +59730,6 @@
 	<programme channel="FRANCE24" start="20260702235200 +0800" stop="20260703000000 +0800">
 		<title>The Observers</title>
 	</programme>
-	<programme channel="DISCOVERY" start="20260630004300 +0800" stop="20260630013800 +0800">
-		<title>Gold Rush Ep16</title>
-	</programme>
-	<programme channel="DISCOVERY" start="20260630013800 +0800" stop="20260630023300 +0800">
-		<title>Outback Opal Hunters Ep9</title>
-	</programme>
-	<programme channel="DISCOVERY" start="20260630023300 +0800" stop="20260630032800 +0800">
-		<title>Filthy Fortunes Ep15</title>
-	</programme>
-	<programme channel="DISCOVERY" start="20260630032800 +0800" stop="20260630042300 +0800">
-		<title>Bering Sea Gold Ep1</title>
-	</programme>
-	<programme channel="DISCOVERY" start="20260630042300 +0800" stop="20260630051300 +0800">
-		<title>Dual Survival Ep11</title>
-	</programme>
-	<programme channel="DISCOVERY" start="20260630051300 +0800" stop="20260630060300 +0800">
-		<title>Otto Bulletproof - Facing the Unknown Ep3</title>
-	</programme>
-	<programme channel="DISCOVERY" start="20260630060300 +0800" stop="20260630070300 +0800">
-		<title>Dual Survival Ep7</title>
-	</programme>
-	<programme channel="DISCOVERY" start="20260630070300 +0800" stop="20260630075300 +0800">
-		<title>Expedition X : Malpelo Monster Shark (SW Special) Ep1</title>
-	</programme>
 	<programme channel="DISCOVERY" start="20260630075300 +0800" stop="20260630084300 +0800">
 		<title>Ant Anstead: Born Mechanic Ep7</title>
 	</programme>
@@ -60263,39 +59957,6 @@
 	</programme>
 	<programme channel="DISCOVERY" start="20260702234800 +0800" stop="20260703004300 +0800">
 		<title>Kindig Customs Ep16</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630002500 +0800" stop="20260630005000 +0800">
-		<title>Orangutan Island Ep1</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630005000 +0800" stop="20260630011500 +0800">
-		<title>Orangutan Island Ep2</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630011500 +0800" stop="20260630020500 +0800">
-		<title>The Mass Extinction Ep2</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630020500 +0800" stop="20260630025500 +0800">
-		<title>Kui Buri - Thailand's Hidden Eden</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630025500 +0800" stop="20260630034500 +0800">
-		<title>One Year in the Gardens Ep2</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630034500 +0800" stop="20260630043500 +0800">
-		<title>The Mass Extinction Ep1</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630043500 +0800" stop="20260630053500 +0800">
-		<title>Breaking Point: Belgaum Commando School Ep3</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630053500 +0800" stop="20260630060500 +0800">
-		<title>India's Best Job Ep7</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630060500 +0800" stop="20260630063100 +0800">
-		<title>Dare to Ride Ep3</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630063100 +0800" stop="20260630065500 +0800">
-		<title>Handmade in Asia Ep13</title>
-	</programme>
-	<programme channel="DISCOVERY ASIA" start="20260630065500 +0800" stop="20260630074500 +0800">
-		<title>Pia's Postcards Ep8</title>
 	</programme>
 	<programme channel="DISCOVERY ASIA" start="20260630074500 +0800" stop="20260630083500 +0800">
 		<title>Pia's Postcards Ep5</title>
@@ -60567,18 +60228,6 @@
 	<programme channel="DISCOVERY ASIA" start="20260702233500 +0800" stop="20260703000000 +0800">
 		<title>Next Stop Ep1</title>
 	</programme>
-	<programme channel="Astro Grandstand" start="20260630003000 +0800" stop="20260630010000 +0800">
-		<title>Tour Of Oman 2026 Daily Hls: Stage 1</title>
-	</programme>
-	<programme channel="Astro Grandstand" start="20260630010000 +0800" stop="20260630030000 +0800">
-		<title>Tournoi: China v Saudi Arabia</title>
-	</programme>
-	<programme channel="Astro Grandstand" start="20260630030000 +0800" stop="20260630051000 +0800">
-		<title>Tournoi: DR Congo v Tunisia</title>
-	</programme>
-	<programme channel="Astro Grandstand" start="20260630051000 +0800" stop="20260630060000 +0800">
-		<title>MotoGP 2026: France Highlights</title>
-	</programme>
 	<programme channel="Astro Grandstand" start="20260630060000 +0800" stop="20260630090000 +0800">
 		<title>MotoGP Netherlands: Moto3, Moto2 &amp; MotoGP-FP1</title>
 	</programme>
@@ -60622,7 +60271,7 @@
 		<title>VNL Men's: Week 2: BRA vs ITA</title>
 	</programme>
 	<programme channel="Astro Grandstand" start="20260701203000 +0800" stop="20260701213000 +0800">
-		<title>W2RC: Desafío Ruta 40 YPF Final Program Hls</title>
+		<title>W2RC: Desafio Ruta 40 YPF Final Program Hls</title>
 	</programme>
 	<programme channel="Astro Grandstand" start="20260701213000 +0800" stop="20260701223000 +0800">
 		<title>Schneider Electric Marathon de Paris Final Prog Hls</title>
@@ -60665,15 +60314,6 @@
 	</programme>
 	<programme channel="Astro Grandstand" start="20260702233000 +0800" stop="20260703000000 +0800">
 		<title>Tour Of Oman 2026 Daily Hls: Stage 2</title>
-	</programme>
-	<programme channel="Astro Premier League" start="20260630000000 +0800" stop="20260630025000 +0800">
-		<title>PL: Liverpool vs Tottenham</title>
-	</programme>
-	<programme channel="Astro Premier League" start="20260630025000 +0800" stop="20260630050000 +0800">
-		<title>PL: West Ham vs Leeds</title>
-	</programme>
-	<programme channel="Astro Premier League" start="20260630050000 +0800" stop="20260630060000 +0800">
-		<title>Review Of The Season 25/26</title>
 	</programme>
 	<programme channel="Astro Premier League" start="20260630060000 +0800" stop="20260630081000 +0800">
 		<title>PL: Nottm Forest vs Fulham</title>
@@ -60803,42 +60443,6 @@
 	</programme>
 	<programme channel="Astro Premier League" start="20260702220000 +0800" stop="20260703000000 +0800">
 		<title>Final Whistle: Season 2025/26</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630000000 +0800" stop="20260630003000 +0800">
-		<title>PL Stories: Ep52: the Great North London Divide Ep52</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630003000 +0800" stop="20260630010000 +0800">
-		<title>Netbusters: Ep38</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630010000 +0800" stop="20260630013000 +0800">
-		<title>PL World Beaters: Ep1</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630013000 +0800" stop="20260630020000 +0800">
-		<title>PL World Beaters: Ep2</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630020000 +0800" stop="20260630023000 +0800">
-		<title>PL World Beaters: Ep3</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630023000 +0800" stop="20260630030000 +0800">
-		<title>PL World Beaters: Ep4</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630030000 +0800" stop="20260630033000 +0800">
-		<title>PL World Beaters: Ep5</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630033000 +0800" stop="20260630043000 +0800">
-		<title>PL Masterclass: Ep3</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630043000 +0800" stop="20260630050000 +0800">
-		<title>PL Stories: Ep52: the Great North London Divide Ep4</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630050000 +0800" stop="20260630053000 +0800">
-		<title>PL Stories: Ep52: the Great North London Divide Ep3</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630053000 +0800" stop="20260630060000 +0800">
-		<title>PL Stories: Ep52: the Great North London Divide Ep52</title>
-	</programme>
-	<programme channel="Astro Premier League 2" start="20260630060000 +0800" stop="20260630080000 +0800">
-		<title>Review of the Season: 2025/2026 (ars)</title>
 	</programme>
 	<programme channel="Astro Premier League 2" start="20260630080000 +0800" stop="20260630090000 +0800">
 		<title>Review</title>
@@ -61116,18 +60720,6 @@
 	<programme channel="Astro Premier League 2" start="20260702233000 +0800" stop="20260703000000 +0800">
 		<title>PL World Beaters: Ep1</title>
 	</programme>
-	<programme channel="Astro Football" start="20260630000000 +0800" stop="20260630020000 +0800">
-		<title>EFL: Leicester vs Coventry</title>
-	</programme>
-	<programme channel="Astro Football" start="20260630020000 +0800" stop="20260630040000 +0800">
-		<title>EFL: Sheffield Utd vs Charlton</title>
-	</programme>
-	<programme channel="Astro Football" start="20260630040000 +0800" stop="20260630060000 +0800">
-		<title>EFL: Millwall vs Watford</title>
-	</programme>
-	<programme channel="Astro Football" start="20260630060000 +0800" stop="20260630080000 +0800">
-		<title>EFL: West Brom vs Leicester</title>
-	</programme>
 	<programme channel="Astro Football" start="20260630080000 +0800" stop="20260630100000 +0800">
 		<title>EFL: Coventry vs Birmingham</title>
 	</programme>
@@ -61232,9 +60824,6 @@
 	</programme>
 	<programme channel="Astro Football" start="20260702220000 +0800" stop="20260703000000 +0800">
 		<title>Serie A: Cagliari vs Sassuolo</title>
-	</programme>
-	<programme channel="Astro Badminton" start="20260630012800 +0800" stop="20260630020200 +0800">
-		<title>Uber Cup: CHN vs MAS</title>
 	</programme>
 	<programme channel="Astro Badminton" start="20260630020200 +0800" stop="20260630100000 +0800">
 		<title>BWF Malaysia Masters: Rd16</title>
@@ -61350,35 +60939,20 @@
 	<programme channel="Astro Sports Plus" start="20260702103000 +0800" stop="20260702130000 +0800">
 		<title>VNL Women's: Week 2: JPN vs CZE</title>
 	</programme>
-	<programme channel="Astro Sports Plus" start="20260702130000 +0800" stop="20260702153000 +0800">
+	<programme channel="Astro Sports Plus" start="20260702130000 +0800" stop="20260702150000 +0800">
 		<title>VNL Women's: Week 2: FRA vs CHN</title>
 	</programme>
-	<programme channel="Astro Sports Plus" start="20260702153000 +0800" stop="20260702180000 +0800">
+	<programme channel="Astro Sports Plus" start="20260702150000 +0800" stop="20260702170000 +0800">
 		<title>VNL Women's: Week 2: USA vs ITA</title>
+	</programme>
+	<programme channel="Astro Sports Plus" start="20260702170000 +0800" stop="20260702173000 +0800">
+		<title>WDSC 2026: Erzincan: HL 2</title>
+	</programme>
+	<programme channel="Astro Sports Plus" start="20260702173000 +0800" stop="20260702180000 +0800">
+		<title>FIBA World Basketball 2026: Episode 3</title>
 	</programme>
 	<programme channel="Astro Sports Plus" start="20260702180000 +0800" stop="20260703000000 +0800">
 		<title>Zuffa Boxing 08: De Los Santos vs Valenzuela 2</title>
-	</programme>
-	<programme channel="beIN SPORTS" start="20260630001000 +0800" stop="20260630004500 +0800">
-		<title>Formula 1 Highlights 2026</title>
-	</programme>
-	<programme channel="beIN SPORTS" start="20260630004500 +0800" stop="20260630024500 +0800">
-		<title>LaLiga : Girona Vs Valencia</title>
-	</programme>
-	<programme channel="beIN SPORTS" start="20260630024500 +0800" stop="20260630043500 +0800">
-		<title>UYL : Dortmund Vs Villarreal - MD5</title>
-	</programme>
-	<programme channel="beIN SPORTS" start="20260630043500 +0800" stop="20260630050500 +0800">
-		<title>FIA European Rally Championship Highlights 2026</title>
-	</programme>
-	<programme channel="beIN SPORTS" start="20260630050500 +0800" stop="20260630053500 +0800">
-		<title>Mini Match - LaLiga : Valencia Vs Real Betis</title>
-	</programme>
-	<programme channel="beIN SPORTS" start="20260630053500 +0800" stop="20260630060500 +0800">
-		<title>Mini Match - LaLiga : Celta Vigo Vs Barcelona</title>
-	</programme>
-	<programme channel="beIN SPORTS" start="20260630060500 +0800" stop="20260630070500 +0800">
-		<title>FIA World Rally Championship Highlights 2026</title>
 	</programme>
 	<programme channel="beIN SPORTS" start="20260630070500 +0800" stop="20260630080500 +0800">
 		<title>DTM Highlights 2026</title>
@@ -61584,27 +61158,6 @@
 	<programme channel="beIN SPORTS" start="20260702215100 +0800" stop="20260703000000 +0800">
 		<title>(L) World Rugby Junior World Championship : England Vs USA</title>
 	</programme>
-	<programme channel="bEIN SPORTS 3" start="20260630000000 +0800" stop="20260630020000 +0800">
-		<title>Total Women's Africa Cup of Nations, Morocco : Tanzania Vs South Africa</title>
-	</programme>
-	<programme channel="bEIN SPORTS 3" start="20260630020000 +0800" stop="20260630040000 +0800">
-		<title>TotalEnergies CAF Champions League : ES Tunis Vs Simba SC</title>
-	</programme>
-	<programme channel="bEIN SPORTS 3" start="20260630040000 +0800" stop="20260630050000 +0800">
-		<title>Longines League of Nations Highlights 2026</title>
-	</programme>
-	<programme channel="bEIN SPORTS 3" start="20260630050000 +0800" stop="20260630060000 +0800">
-		<title>Dakar Rally Highlights 2026</title>
-	</programme>
-	<programme channel="bEIN SPORTS 3" start="20260630060000 +0800" stop="20260630063000 +0800">
-		<title>MINI MATCH - UCL : Napoli Vs Frankfurt - MD4</title>
-	</programme>
-	<programme channel="bEIN SPORTS 3" start="20260630063000 +0800" stop="20260630070000 +0800">
-		<title>MINI MATCH - UCL : Liverpool Vs Real Madrid - MD4</title>
-	</programme>
-	<programme channel="bEIN SPORTS 3" start="20260630070000 +0800" stop="20260630080000 +0800">
-		<title>MUTV: Specials</title>
-	</programme>
 	<programme channel="bEIN SPORTS 3" start="20260630080000 +0800" stop="20260630090000 +0800">
 		<title>MUTV: Specials</title>
 	</programme>
@@ -61755,21 +61308,6 @@
 	<programme channel="bEIN SPORTS 3" start="20260702214800 +0800" stop="20260703000000 +0800">
 		<title>(L) World Rugby Junior World Championship : New Zealand Vs Scotland</title>
 	</programme>
-	<programme channel="W-Sport" start="20260630003000 +0800" stop="20260630020000 +0800">
-		<title>Netball Super League 26</title>
-	</programme>
-	<programme channel="W-Sport" start="20260630020000 +0800" stop="20260630035500 +0800">
-		<title>USL 25/26</title>
-	</programme>
-	<programme channel="W-Sport" start="20260630035500 +0800" stop="20260630051500 +0800">
-		<title>Malaysia Regional Cup 26</title>
-	</programme>
-	<programme channel="W-Sport" start="20260630051500 +0800" stop="20260630073000 +0800">
-		<title>Volta Catalunya 26</title>
-	</programme>
-	<programme channel="W-Sport" start="20260630073000 +0800" stop="20260630080000 +0800">
-		<title>MP Series 25</title>
-	</programme>
 	<programme channel="W-Sport" start="20260630080000 +0800" stop="20260630093000 +0800">
 		<title>Jump Saudi 25</title>
 	</programme>
@@ -61914,21 +61452,6 @@
 	<programme channel="W-Sport" start="20260702230000 +0800" stop="20260703003500 +0800">
 		<title>Jump Saudi 25</title>
 	</programme>
-	<programme channel="GOLF CHANNEL" start="20260630010000 +0800" stop="20260630020000 +0800">
-		<title>RBC Heritage 2026 Hls</title>
-	</programme>
-	<programme channel="GOLF CHANNEL" start="20260630020000 +0800" stop="20260630030000 +0800">
-		<title>BMW Charity Pro-Am Hls</title>
-	</programme>
-	<programme channel="GOLF CHANNEL" start="20260630030000 +0800" stop="20260630053000 +0800">
-		<title>Kroger Queen City Championship Day 2</title>
-	</programme>
-	<programme channel="GOLF CHANNEL" start="20260630053000 +0800" stop="20260630060000 +0800">
-		<title>The CUT #20</title>
-	</programme>
-	<programme channel="GOLF CHANNEL" start="20260630060000 +0800" stop="20260630070000 +0800">
-		<title>American Family Insurance Championship Hls</title>
-	</programme>
 	<programme channel="GOLF CHANNEL" start="20260630070000 +0800" stop="20260630120000 +0800">
 		<title>Open d'Italia 2026 Day 2</title>
 	</programme>
@@ -61939,10 +61462,10 @@
 		<title>Travelers Championship Hls</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260630180000 +0800" stop="20260701010000 +0800">
-		<title>KPMG Women's PGA C'ship Day 3</title>
+		<title>(D) KPMG Women's PGA C'ship Day 3</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260630180000 +0800" stop="20260701010000 +0800">
-		<title>KPMG Women's PGA C'ship Day 3</title>
+		<title>(D) KPMG Women's PGA C'ship Day 3</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260701010000 +0800" stop="20260701020000 +0800">
 		<title>International Series Japan 2026 Hls</title>
@@ -61969,10 +61492,10 @@
 		<title>Open d'Italia 2026 Hls</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260701180000 +0800" stop="20260702010000 +0800">
-		<title>KPMG Women's PGA C'ship Day 4</title>
+		<title>(D) KPMG Women's PGA C'ship Day 4</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260701180000 +0800" stop="20260702010000 +0800">
-		<title>KPMG Women's PGA C'ship Day 4</title>
+		<title>(D) KPMG Women's PGA C'ship Day 4</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260702010000 +0800" stop="20260702020000 +0800">
 		<title>the Memorial Tournament Hls</title>
@@ -61993,7 +61516,7 @@
 		<title>Travelers Championship Hls</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260702130000 +0800" stop="20260702160000 +0800">
-		<title>The 16th LOTTE Open 2026 Day 1</title>
+		<title>(L) The 16th LOTTE Open 2026 Day 1</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260702160000 +0800" stop="20260702173000 +0800">
 		<title>On The Range: Travelers Championship</title>
@@ -62002,10 +61525,7 @@
 		<title>DICK's Open 2026 Hls</title>
 	</programme>
 	<programme channel="GOLF CHANNEL" start="20260702183000 +0800" stop="20260703000000 +0800">
-		<title>BMW International Open Day 1</title>
-	</programme>
-	<programme channel="GOLF PLUS" start="20260630000000 +0800" stop="20260630060000 +0800">
-		<title>Thank You.</title>
+		<title>(L) BMW International Open Day 1</title>
 	</programme>
 	<programme channel="RTHK31" start="20260630000000 +0800" stop="20260630003000 +0800">
 		<title>凝聚香港</title>
@@ -64991,9 +64511,6 @@
 	</channel>
 	<channel id="GOLF CHANNEL">
 		<display-name>GOLF CHANNEL</display-name>
-	</channel>
-	<channel id="GOLF PLUS">
-		<display-name>GOLF PLUS</display-name>
 	</channel>
 	<channel id="RTHK31">
 		<display-name>RTHK31</display-name>
