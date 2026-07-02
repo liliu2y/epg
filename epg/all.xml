@@ -44688,10 +44688,10 @@
   <programme channel="生态环境" start="20260702040000 +0800" stop="20260702043500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="20260702043500 +0800" stop="202607020500                                     正在播出00 +0800">
+  <programme channel="生态环境" start="20260702043500 +0800" stop="20260702050000 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="202607020500                                     正在播出00 +0800" stop="20260702063000 +0800">
+  <programme channel="生态环境" start="20260702050000 +0800" stop="20260702063000 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260702063000 +0800" stop="20260702070500 +0800">
@@ -44718,10 +44718,10 @@
   <programme channel="生态环境" start="20260702110500 +0800" stop="20260702113500 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="20260702113500 +0800" stop="20260702120000 +0800">
+  <programme channel="生态环境" start="20260702113500 +0800" stop="202607021200                                     正在播出00 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="20260702120000 +0800" stop="20260702123500 +0800">
+  <programme channel="生态环境" start="202607021200                                     正在播出00 +0800" stop="20260702123500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260702123500 +0800" stop="20260702130000 +0800">
@@ -62598,11 +62598,11 @@
   <programme channel="生态环境" start="20260701235900 +0800" stop="20260702000000 +0800">
     <title lang="zh">节目结束</title>
   </programme>
-  <programme channel="生态环境" start="20260702043500 +0800" stop="20260702050000 +0800">
-    <title lang="zh">华夏寻珍,寻钱记</title>
-  </programme>
-  <programme channel="生态环境" start="20260702050000 +0800" stop="20260702063000 +0800">
+  <programme channel="生态环境" start="20260702113500 +0800" stop="20260702120000 +0800">
     <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260702120000 +0800" stop="20260702123500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260702235900 +0800" stop="20260703000000 +0800">
     <title lang="zh">节目结束</title>
