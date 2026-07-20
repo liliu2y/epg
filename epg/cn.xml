@@ -44046,10 +44046,10 @@
   <programme channel="生态环境" start="20260720040000 +0800" stop="20260720043500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="20260720043500 +0800" stop="202607200500                                     正在播出00 +0800">
+  <programme channel="生态环境" start="20260720043500 +0800" stop="20260720050000 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="202607200500                                     正在播出00 +0800" stop="20260720063000 +0800">
+  <programme channel="生态环境" start="20260720050000 +0800" stop="20260720063000 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260720063000 +0800" stop="20260720070500 +0800">
@@ -44076,10 +44076,10 @@
   <programme channel="生态环境" start="20260720110500 +0800" stop="20260720113500 +0800">
     <title>华夏寻珍,寻钱记</title>
   </programme>
-  <programme channel="生态环境" start="20260720113500 +0800" stop="20260720120000 +0800">
+  <programme channel="生态环境" start="20260720113500 +0800" stop="202607201200                                     正在播出00 +0800">
     <title>钱币里的中国,科普好书</title>
   </programme>
-  <programme channel="生态环境" start="20260720120000 +0800" stop="20260720123500 +0800">
+  <programme channel="生态环境" start="202607201200                                     正在播出00 +0800" stop="20260720123500 +0800">
     <title>绿水青山中国行,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260720123500 +0800" stop="20260720130000 +0800">
@@ -49893,10 +49893,10 @@
   <programme channel="财富天下" start="20260720010000 +0800" stop="20260720013000 +0800">
     <title>聚焦涨幅榜</title>
   </programme>
-  <programme channel="财富天下" start="20260720013000 +0800" stop="202607200200                                     正在播出00 +0800">
+  <programme channel="财富天下" start="20260720013000 +0800" stop="20260720020000 +0800">
     <title>财富全攻略</title>
   </programme>
-  <programme channel="财富天下" start="202607200200                                     正在播出00 +0800" stop="20260720070000 +0800">
+  <programme channel="财富天下" start="20260720020000 +0800" stop="20260720070000 +0800">
     <title>全天节目结束</title>
   </programme>
   <programme channel="财富天下" start="20260720070000 +0800" stop="20260720073000 +0800">
@@ -49923,10 +49923,10 @@
   <programme channel="财富天下" start="20260720105000 +0800" stop="20260720113000 +0800">
     <title>财富e视界</title>
   </programme>
-  <programme channel="财富天下" start="20260720113000 +0800" stop="20260720120000 +0800">
+  <programme channel="财富天下" start="20260720113000 +0800" stop="202607201200                                     正在播出00 +0800">
     <title>主力第一线</title>
   </programme>
-  <programme channel="财富天下" start="20260720120000 +0800" stop="20260720123000 +0800">
+  <programme channel="财富天下" start="202607201200                                     正在播出00 +0800" stop="20260720123000 +0800">
     <title>资金为王</title>
   </programme>
   <programme channel="财富天下" start="20260720123000 +0800" stop="20260720130000 +0800">
@@ -63411,11 +63411,11 @@
   <channel id="证券服务">
     <display-name lang="zh">证券服务</display-name>
   </channel>
-  <programme channel="生态环境" start="20260720043500 +0800" stop="20260720050000 +0800">
-    <title lang="zh">华夏寻珍,寻钱记</title>
-  </programme>
-  <programme channel="生态环境" start="20260720050000 +0800" stop="20260720063000 +0800">
+  <programme channel="生态环境" start="20260720113500 +0800" stop="20260720120000 +0800">
     <title lang="zh">钱币里的中国,科普好书</title>
+  </programme>
+  <programme channel="生态环境" start="20260720120000 +0800" stop="20260720123500 +0800">
+    <title lang="zh">绿水青山中国行,科普好书</title>
   </programme>
   <programme channel="生态环境" start="20260720235900 +0800" stop="20260721000000 +0800">
     <title lang="zh">节目结束</title>
