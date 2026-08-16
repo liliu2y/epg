@@ -1278,6 +1278,12 @@
   <channel id="IPTV8+">
     <display-name lang="zh">IPTV8+</display-name>
   </channel>
+  <channel id="北京重温经典">
+    <display-name lang="zh">北京重温经典</display-name>
+  </channel>
+  <channel id="爱上4K">
+    <display-name lang="zh">爱上4K</display-name>
+  </channel>
   <channel id="湖南卫视4K">
     <display-name lang="zh">湖南卫视4K</display-name>
   </channel>
@@ -56346,300 +56352,6 @@
   <programme channel="黑莓影视" start="20260818000001 +0800" stop="20260818003005 +0800">
     <title>24_庆余年</title>
   </programme>
-  <programme channel="淘BABY" start="20260816000000 +0800" stop="20260816014000 +0800">
-    <title>我与大运河</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816014000 +0800" stop="20260816030900 +0800">
-    <title>我家城墙五千岁</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816030900 +0800" stop="20260816032100 +0800">
-    <title>山水诗话丽水人1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816032100 +0800" stop="20260816045500 +0800">
-    <title>发现南京</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816045500 +0800" stop="20260816054500 +0800">
-    <title>美丽乡村在“浙”里1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816054500 +0800" stop="20260816060000 +0800">
-    <title>不朽1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816060000 +0800" stop="20260816061000 +0800">
-    <title>在运河走出美</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816061000 +0800" stop="20260816070000 +0800">
-    <title>舌尖上的意大利6,7</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816070000 +0800" stop="20260816075000 +0800">
-    <title>同心协力救地球7</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816075000 +0800" stop="20260816084000 +0800">
-    <title>树屋大师6-8</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816084000 +0800" stop="20260816093000 +0800">
-    <title>终极旅馆4</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816093000 +0800" stop="20260816102000 +0800">
-    <title>行行出状元5-1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816102000 +0800" stop="20260816111000 +0800">
-    <title>当人类变成猎物2-12</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816111000 +0800" stop="20260816120000 +0800">
-    <title>汽车打造大对决2</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816120000 +0800" stop="20260816121000 +0800">
-    <title>在良渚看见光</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816121000 +0800" stop="20260816130000 +0800">
-    <title>舌尖上的意大利8，9</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816130000 +0800" stop="20260816135000 +0800">
-    <title>同心协力救地球8</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816135000 +0800" stop="20260816144000 +0800">
-    <title>树屋大师6-9</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816144000 +0800" stop="20260816153000 +0800">
-    <title>终极旅馆5</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816153000 +0800" stop="20260816162000 +0800">
-    <title>行行出状元5-2</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816162000 +0800" stop="20260816171000 +0800">
-    <title>当人类变成猎物2-13</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816171000 +0800" stop="20260816180000 +0800">
-    <title>汽车打造大对决3</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816180000 +0800" stop="20260816181000 +0800">
-    <title>四时城纪春</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816181000 +0800" stop="20260816190000 +0800">
-    <title>舌尖上的意大利10,11</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816190000 +0800" stop="20260816195000 +0800">
-    <title>同心协力救地球9</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816195000 +0800" stop="20260816204000 +0800">
-    <title>树屋大师6-10</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816204000 +0800" stop="20260816213000 +0800">
-    <title>战猿崛起1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816213000 +0800" stop="20260816222000 +0800">
-    <title>行行出状元5-3</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816222000 +0800" stop="20260816231000 +0800">
-    <title>烤箱好味道1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260816231000 +0800" stop="20260817000000 +0800">
-    <title>汽车打造大对决5</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817000000 +0800" stop="20260817001500 +0800">
-    <title>档案里的浙东运河</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817001500 +0800" stop="20260817002300 +0800">
-    <title>金塘水獭</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817002300 +0800" stop="20260817010400 +0800">
-    <title>我们为何居于此</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817010400 +0800" stop="20260817011000 +0800">
-    <title>开启我的“Z视代”</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817011000 +0800" stop="20260817021200 +0800">
-    <title>飞来峰</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817021200 +0800" stop="20260817022200 +0800">
-    <title>四时城纪春</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817022200 +0800" stop="20260817023000 +0800">
-    <title>新杭·穿阅记</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817023000 +0800" stop="20260817024500 +0800">
-    <title>大山里的合唱团</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817024500 +0800" stop="20260817025100 +0800">
-    <title>一所即将“消失”的幼儿园</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817025100 +0800" stop="20260817032200 +0800">
-    <title>廊桥的孩子</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817032200 +0800" stop="20260817035100 +0800">
-    <title>人生首百</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817035100 +0800" stop="20260817060000 +0800">
-    <title>江南有苕溪</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817060000 +0800" stop="20260817061000 +0800">
-    <title>在良渚看见光</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817061000 +0800" stop="20260817070000 +0800">
-    <title>舌尖上的意大利8，9</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817070000 +0800" stop="20260817075000 +0800">
-    <title>同心协力救地球8</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817075000 +0800" stop="20260817084000 +0800">
-    <title>树屋大师6-9</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817084000 +0800" stop="20260817093000 +0800">
-    <title>终极旅馆5</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817093000 +0800" stop="20260817102000 +0800">
-    <title>行行出状元5-2</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817102000 +0800" stop="20260817111000 +0800">
-    <title>当人类变成猎物2-13</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817111000 +0800" stop="20260817120000 +0800">
-    <title>汽车打造大对决3</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817120000 +0800" stop="20260817121000 +0800">
-    <title>四时城纪春</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817121000 +0800" stop="20260817130000 +0800">
-    <title>舌尖上的意大利10,11</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817130000 +0800" stop="20260817135000 +0800">
-    <title>同心协力救地球9</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817135000 +0800" stop="20260817144000 +0800">
-    <title>树屋大师6-10</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817144000 +0800" stop="20260817153000 +0800">
-    <title>战猿崛起1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817153000 +0800" stop="20260817162000 +0800">
-    <title>行行出状元5-3</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817162000 +0800" stop="20260817171000 +0800">
-    <title>烤箱好味道1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817171000 +0800" stop="20260817180000 +0800">
-    <title>汽车打造大对决5</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817180000 +0800" stop="20260817181000 +0800">
-    <title>四时城纪夏</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817181000 +0800" stop="20260817190000 +0800">
-    <title>舌尖上的意大利12,13</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817190000 +0800" stop="20260817195000 +0800">
-    <title>动物一家亲1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817195000 +0800" stop="20260817204000 +0800">
-    <title>树屋大师6-11</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817204000 +0800" stop="20260817213000 +0800">
-    <title>战猿崛起2</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817213000 +0800" stop="20260817222000 +0800">
-    <title>行行出状元5-4</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817222000 +0800" stop="20260817231000 +0800">
-    <title>烤箱好味道2</title>
-  </programme>
-  <programme channel="淘BABY" start="20260817231000 +0800" stop="20260818000000 +0800">
-    <title>汽车打造大对决6</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818000000 +0800" stop="20260818003500 +0800">
-    <title>昂首挑战</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818003500 +0800" stop="20260818015100 +0800">
-    <title>沈泽民</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818015100 +0800" stop="20260818034800 +0800">
-    <title>千万工程</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818034800 +0800" stop="20260818050300 +0800">
-    <title>我与大运河</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818050300 +0800" stop="20260818051600 +0800">
-    <title>不朽1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818051600 +0800" stop="20260818052700 +0800">
-    <title>袖珍妈妈圆梦记</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818052700 +0800" stop="20260818055000 +0800">
-    <title>找寻“橡皮擦”</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818055000 +0800" stop="20260818060000 +0800">
-    <title>泥巴女孩</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818060000 +0800" stop="20260818061000 +0800">
-    <title>四时城纪春</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818061000 +0800" stop="20260818070000 +0800">
-    <title>舌尖上的意大利10,11</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818070000 +0800" stop="20260818075000 +0800">
-    <title>同心协力救地球9</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818075000 +0800" stop="20260818084000 +0800">
-    <title>树屋大师6-10</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818084000 +0800" stop="20260818093000 +0800">
-    <title>战猿崛起1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818093000 +0800" stop="20260818102000 +0800">
-    <title>行行出状元5-3</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818102000 +0800" stop="20260818111000 +0800">
-    <title>烤箱好味道1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818111000 +0800" stop="20260818120000 +0800">
-    <title>汽车打造大对决5</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818120000 +0800" stop="20260818121000 +0800">
-    <title>四时城纪夏</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818121000 +0800" stop="20260818130000 +0800">
-    <title>舌尖上的意大利12,13</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818130000 +0800" stop="20260818135000 +0800">
-    <title>动物一家亲1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818135000 +0800" stop="20260818144000 +0800">
-    <title>树屋大师6-11</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818144000 +0800" stop="20260818153000 +0800">
-    <title>战猿崛起2</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818153000 +0800" stop="20260818162000 +0800">
-    <title>行行出状元5-4</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818162000 +0800" stop="20260818171000 +0800">
-    <title>烤箱好味道2</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818171000 +0800" stop="20260818180000 +0800">
-    <title>汽车打造大对决6</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818180000 +0800" stop="20260818181000 +0800">
-    <title>四时城纪秋</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818181000 +0800" stop="20260818190000 +0800">
-    <title>超级食人乌贼</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818190000 +0800" stop="20260818195000 +0800">
-    <title>同床异梦大装修1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818195000 +0800" stop="20260818204000 +0800">
-    <title>树屋大师6-12</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818204000 +0800" stop="20260818213000 +0800">
-    <title>再见灰熊1</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818213000 +0800" stop="20260818222000 +0800">
-    <title>行行出状元5-5</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818222000 +0800" stop="20260818231000 +0800">
-    <title>烤箱好味道3</title>
-  </programme>
-  <programme channel="淘BABY" start="20260818231000 +0800" stop="20260819000000 +0800">
-    <title>汽车打造大对决7</title>
-  </programme>
   <programme channel="淘剧场" start="20260816001800 +0800" stop="20260816010200 +0800">
     <title>杠杆12</title>
   </programme>
@@ -59021,6 +58733,477 @@
   </programme>
   <programme channel="萌宠TV" start="20260818232500 +0800" stop="20260819010600 +0800">
     <title>驯龙高手2</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816002600 +0800" stop="20260816011100 +0800">
+    <title>西游记</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816011100 +0800" stop="20260816031600 +0800">
+    <title>三国演义</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816031600 +0800" stop="20260816060400 +0800">
+    <title>长安三万里</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816060400 +0800" stop="20260816070000 +0800">
+    <title>数码宝贝02最初的召唤</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816070000 +0800" stop="20260816072700 +0800">
+    <title>宇宙护卫队之百变霸王龙第一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816072700 +0800" stop="20260816075500 +0800">
+    <title>咖宝车神之飞天战队</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816075500 +0800" stop="20260816081900 +0800">
+    <title>帮帮龙出动第八季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816081900 +0800" stop="20260816084500 +0800">
+    <title>量子战队之恐龙守护</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816084500 +0800" stop="20260816091100 +0800">
+    <title>棉花糖和云朵妈妈快乐生活</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816091100 +0800" stop="20260816093700 +0800">
+    <title>超级飞侠第十七季史前大救援</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816093700 +0800" stop="20260816102100 +0800">
+    <title>小马宝莉友谊魔法全集</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816102100 +0800" stop="20260816110600 +0800">
+    <title>喜羊羊与灰太狼之羊村守护者之六</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816110600 +0800" stop="20260816121300 +0800">
+    <title>汪汪队立大功第九季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816121300 +0800" stop="20260816135200 +0800">
+    <title>熊出没重返地球</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816135200 +0800" stop="20260816141500 +0800">
+    <title>舒克贝塔生命水之战</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816141500 +0800" stop="20260816143800 +0800">
+    <title>旋风赛车队</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816143800 +0800" stop="20260816151800 +0800">
+    <title>猪猪侠之功夫小英雄1</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816151800 +0800" stop="20260816160700 +0800">
+    <title>泽塔奥特曼</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816160700 +0800" stop="20260816163000 +0800">
+    <title>汤姆猫超能战队第一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816163000 +0800" stop="20260816175900 +0800">
+    <title>超级飞侠大电影乐迪加速</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816175900 +0800" stop="20260816184300 +0800">
+    <title>万物机甲英雄第一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816184300 +0800" stop="20260816191000 +0800">
+    <title>猪猪侠之竞速小英雄9</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816191000 +0800" stop="20260816193700 +0800">
+    <title>猪猪侠之竞速小英雄10</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816193700 +0800" stop="20260816202100 +0800">
+    <title>水晶岛守卫者</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816202100 +0800" stop="20260816204100 +0800">
+    <title>小猪佩奇第十一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816204100 +0800" stop="20260816221000 +0800">
+    <title>汪汪队立大功第九季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260816221000 +0800" stop="20260817002700 +0800">
+    <title>流浪地球飞跃2020特别版</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817002700 +0800" stop="20260817011700 +0800">
+    <title>西游记</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817011700 +0800" stop="20260817032100 +0800">
+    <title>三国演义</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817032100 +0800" stop="20260817051100 +0800">
+    <title>哆啦A梦大雄的月球探险记</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817051100 +0800" stop="20260817070000 +0800">
+    <title>航海王红发歌姬</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817070000 +0800" stop="20260817072700 +0800">
+    <title>宇宙护卫队之百变霸王龙第一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817072700 +0800" stop="20260817075500 +0800">
+    <title>咖宝车神之飞天战队</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817075500 +0800" stop="20260817081900 +0800">
+    <title>帮帮龙出动第八季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817081900 +0800" stop="20260817084500 +0800">
+    <title>量子战队之恐龙守护</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817084500 +0800" stop="20260817091100 +0800">
+    <title>棉花糖和云朵妈妈快乐生活第二季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817091100 +0800" stop="20260817093700 +0800">
+    <title>超级飞侠第十七季史前大救援</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817093700 +0800" stop="20260817102100 +0800">
+    <title>小马宝莉友谊魔法全集</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817102100 +0800" stop="20260817110600 +0800">
+    <title>喜羊羊与灰太狼之羊村守护者之六</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817110600 +0800" stop="20260817121200 +0800">
+    <title>汪汪队立大功第九季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817121200 +0800" stop="20260817133200 +0800">
+    <title>熊孩子探险熊兵</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817133200 +0800" stop="20260817135500 +0800">
+    <title>舒克贝塔生命水之战</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817135500 +0800" stop="20260817141800 +0800">
+    <title>旋风赛车队</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817141800 +0800" stop="20260817145800 +0800">
+    <title>猪猪侠之功夫小英雄1</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817145800 +0800" stop="20260817154700 +0800">
+    <title>泽塔奥特曼</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817154700 +0800" stop="20260817161000 +0800">
+    <title>汤姆猫超能战队第一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817161000 +0800" stop="20260817174600 +0800">
+    <title>贝肯熊火星任务</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817174600 +0800" stop="20260817183000 +0800">
+    <title>星际艾拉</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817183000 +0800" stop="20260817192400 +0800">
+    <title>猪猪侠之竞速小英雄10</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817192400 +0800" stop="20260817200800 +0800">
+    <title>水晶岛守卫者</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817200800 +0800" stop="20260817202800 +0800">
+    <title>小猪佩奇第八季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817202800 +0800" stop="20260817215700 +0800">
+    <title>汪汪队立大功第十季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817215700 +0800" stop="20260817233600 +0800">
+    <title>夏洛特烦恼</title>
+  </programme>
+  <programme channel="淘BABY" start="20260817233600 +0800" stop="20260818013900 +0800">
+    <title>三国演义</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818013900 +0800" stop="20260818030000 +0800">
+    <title>海底小纵队洞穴大冒险</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818030000 +0800" stop="20260818042300 +0800">
+    <title>猪猪侠大电影恐龙日记</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818042300 +0800" stop="20260818055300 +0800">
+    <title>新大头儿子和小头爸爸6迷你大冒险</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818055300 +0800" stop="20260818070000 +0800">
+    <title>精灵旅社4变身大冒险</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818070000 +0800" stop="20260818072700 +0800">
+    <title>宇宙护卫队之百变霸王龙第一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818072700 +0800" stop="20260818075500 +0800">
+    <title>咖宝车神之飞天战队</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818075500 +0800" stop="20260818081900 +0800">
+    <title>帮帮龙出动第八季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818081900 +0800" stop="20260818084500 +0800">
+    <title>量子战队之恐龙守护</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818084500 +0800" stop="20260818091100 +0800">
+    <title>棉花糖和云朵妈妈快乐生活第二季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818091100 +0800" stop="20260818093700 +0800">
+    <title>超级飞侠第十七季史前大救援</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818093700 +0800" stop="20260818102100 +0800">
+    <title>小马宝莉友谊魔法全集</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818102100 +0800" stop="20260818110600 +0800">
+    <title>喜羊羊与灰太狼之羊村守护者之六</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818110600 +0800" stop="20260818121200 +0800">
+    <title>汪汪队立大功第九季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818121200 +0800" stop="20260818135100 +0800">
+    <title>开心超人之逆世营救</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818135100 +0800" stop="20260818141300 +0800">
+    <title>舒克贝塔生命水之战</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818141300 +0800" stop="20260818143600 +0800">
+    <title>旋风赛车队</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818143600 +0800" stop="20260818151700 +0800">
+    <title>猪猪侠之功夫小英雄1</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818151700 +0800" stop="20260818160600 +0800">
+    <title>泽塔奥特曼</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818160600 +0800" stop="20260818162900 +0800">
+    <title>汤姆猫超能战队第一季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818162900 +0800" stop="20260818180800 +0800">
+    <title>小马宝莉大电影</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818180800 +0800" stop="20260818185200 +0800">
+    <title>星际艾拉</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818185200 +0800" stop="20260818194600 +0800">
+    <title>猪猪侠之竞速小英雄10</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818194600 +0800" stop="20260818203000 +0800">
+    <title>水晶岛守卫者</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818203000 +0800" stop="20260818205000 +0800">
+    <title>小猪佩奇第八季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818205000 +0800" stop="20260818221900 +0800">
+    <title>汪汪队立大功第十季</title>
+  </programme>
+  <programme channel="淘BABY" start="20260818221900 +0800" stop="20260819003200 +0800">
+    <title>三大队</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816013900 +0800" stop="20260816033300 +0800">
+    <title>侏罗纪世界2</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816033300 +0800" stop="20260816050300 +0800">
+    <title>天若有情</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816050300 +0800" stop="20260816070000 +0800">
+    <title>赤道</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816070000 +0800" stop="20260816092700 +0800">
+    <title>银河补习班</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816092700 +0800" stop="20260816112200 +0800">
+    <title>山楂树之恋</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816112200 +0800" stop="20260816133700 +0800">
+    <title>少年的你</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816133700 +0800" stop="20260816155500 +0800">
+    <title>红海行动</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816155500 +0800" stop="20260816172200 +0800">
+    <title>寻枪</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816172200 +0800" stop="20260816191900 +0800">
+    <title>缝纫机乐队</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816191900 +0800" stop="20260816210300 +0800">
+    <title>赌侠</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816210300 +0800" stop="20260816231900 +0800">
+    <title>唐人街探案3</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260816231900 +0800" stop="20260817010400 +0800">
+    <title>叶问3</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817010400 +0800" stop="20260817030300 +0800">
+    <title>记忆大师</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817030300 +0800" stop="20260817044500 +0800">
+    <title>大腕</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817044500 +0800" stop="20260817070000 +0800">
+    <title>邪不压正重传</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817070000 +0800" stop="20260817085300 +0800">
+    <title>满城尽带黄金甲</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817085300 +0800" stop="20260817103600 +0800">
+    <title>A计划</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817103600 +0800" stop="20260817122200 +0800">
+    <title>A计划续集</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817122200 +0800" stop="20260817135200 +0800">
+    <title>红番区</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817135200 +0800" stop="20260817153400 +0800">
+    <title>警察故事4</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817153400 +0800" stop="20260817173300 +0800">
+    <title>杀破狼2</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817173300 +0800" stop="20260817191800 +0800">
+    <title>金玉满堂</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817191800 +0800" stop="20260817210500 +0800">
+    <title>飞鹰计划</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817210500 +0800" stop="20260817224700 +0800">
+    <title>唐伯虎点秋香</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260817224700 +0800" stop="20260818005100 +0800">
+    <title>狄仁杰之通天帝国</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818005100 +0800" stop="20260818030600 +0800">
+    <title>唐人街探案</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818030600 +0800" stop="20260818050600 +0800">
+    <title>卧虎藏龙</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818050600 +0800" stop="20260818070000 +0800">
+    <title>杀破狼2</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818070000 +0800" stop="20260818090400 +0800">
+    <title>集结号</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818090400 +0800" stop="20260818104400 +0800">
+    <title>楚门的世界</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818104400 +0800" stop="20260818124200 +0800">
+    <title>罗马假日</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818124200 +0800" stop="20260818155600 +0800">
+    <title>七武士</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818155600 +0800" stop="20260818175500 +0800">
+    <title>风声</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818175500 +0800" stop="20260818192800 +0800">
+    <title>阿飞正传</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818192800 +0800" stop="20260818211000 +0800">
+    <title>乘风破浪</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818211000 +0800" stop="20260818232400 +0800">
+    <title>黄飞鸿</title>
+  </programme>
+  <programme channel="北京重温经典" start="20260818232400 +0800" stop="20260819011800 +0800">
+    <title>分手大师</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816000000 +0800" stop="20260816005900 +0800">
+    <title>速度与激情6 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816005900 +0800" stop="20260816023600 +0800">
+    <title>四兄弟</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816023600 +0800" stop="20260816040000 +0800">
+    <title>速度与激情6 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816040000 +0800" stop="20260816061500 +0800">
+    <title>速度与激情8 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816061500 +0800" stop="20260816081500 +0800">
+    <title>国王班底</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816081500 +0800" stop="20260816103000 +0800">
+    <title>速度与激情8 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816103000 +0800" stop="20260816123000 +0800">
+    <title>国王班底</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816123000 +0800" stop="20260816144500 +0800">
+    <title>速度与激情8 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816144500 +0800" stop="20260816164500 +0800">
+    <title>国王班底</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816164500 +0800" stop="20260816190100 +0800">
+    <title>速度与激情8 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816190100 +0800" stop="20260816210000 +0800">
+    <title>国王班底</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816210000 +0800" stop="20260816231600 +0800">
+    <title>速度与激情8 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260816231600 +0800" stop="20260816235900 +0800">
+    <title>国王班底</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817000000 +0800" stop="20260817011600 +0800">
+    <title>国王班底</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817011600 +0800" stop="20260817033100 +0800">
+    <title>速度与激情8 普通话版</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817033100 +0800" stop="20260817040000 +0800">
+    <title>国王班底</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817040000 +0800" stop="20260817061600 +0800">
+    <title>坚不可摧</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817061600 +0800" stop="20260817084600 +0800">
+    <title>变形金刚5：最后的骑士</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817084600 +0800" stop="20260817110200 +0800">
+    <title>坚不可摧</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817110200 +0800" stop="20260817133200 +0800">
+    <title>变形金刚5：最后的骑士</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817133200 +0800" stop="20260817154800 +0800">
+    <title>坚不可摧</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817154800 +0800" stop="20260817181800 +0800">
+    <title>变形金刚5：最后的骑士</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817181800 +0800" stop="20260817203400 +0800">
+    <title>坚不可摧</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817203400 +0800" stop="20260817230400 +0800">
+    <title>变形金刚5：最后的骑士</title>
+  </programme>
+  <programme channel="爱上4K" start="20260817230400 +0800" stop="20260817235900 +0800">
+    <title>坚不可摧</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818000000 +0800" stop="20260818012000 +0800">
+    <title>坚不可摧</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818012000 +0800" stop="20260818035000 +0800">
+    <title>变形金刚5：最后的骑士</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818035000 +0800" stop="20260818040000 +0800">
+    <title>坚不可摧</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818040000 +0800" stop="20260818053100 +0800">
+    <title>金钱怪兽</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818053100 +0800" stop="20260818073800 +0800">
+    <title>变形金刚：超能勇士崛起</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818073800 +0800" stop="20260818091000 +0800">
+    <title>金钱怪兽</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818091000 +0800" stop="20260818111700 +0800">
+    <title>变形金刚：超能勇士崛起</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818111700 +0800" stop="20260818124900 +0800">
+    <title>金钱怪兽</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818124900 +0800" stop="20260818145600 +0800">
+    <title>变形金刚：超能勇士崛起</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818145600 +0800" stop="20260818162700 +0800">
+    <title>金钱怪兽</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818162700 +0800" stop="20260818183500 +0800">
+    <title>变形金刚：超能勇士崛起</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818183500 +0800" stop="20260818200600 +0800">
+    <title>金钱怪兽</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818200600 +0800" stop="20260818221300 +0800">
+    <title>变形金刚：超能勇士崛起</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818221300 +0800" stop="20260818234500 +0800">
+    <title>金钱怪兽</title>
+  </programme>
+  <programme channel="爱上4K" start="20260818234500 +0800" stop="20260819000000 +0800">
+    <title>变形金刚：超能勇士崛起</title>
   </programme>
   <programme channel="湖南卫视4K" start="20260816000000 +0800" stop="20260816013000 +0800">
     <title>中餐厅·南洋拾光季</title>
