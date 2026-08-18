@@ -1146,6 +1146,246 @@
   <channel id="华数古装剧场">
     <display-name>华数古装剧场</display-name>
   </channel>
+  <channel id="CHC家庭影院">
+    <display-name lang="zh">CHC家庭影院</display-name>
+  </channel>
+  <channel id="CHC动作电影">
+    <display-name lang="zh">CHC动作电影</display-name>
+  </channel>
+  <channel id="财富天下">
+    <display-name lang="zh">财富天下</display-name>
+  </channel>
+  <channel id="IPTV野外">
+    <display-name lang="zh">IPTV野外</display-name>
+  </channel>
+  <channel id="IPTV法治">
+    <display-name lang="zh">IPTV法治</display-name>
+  </channel>
+  <channel id="爱体育">
+    <display-name lang="zh">爱体育</display-name>
+  </channel>
+  <channel id="爱综艺">
+    <display-name lang="zh">爱综艺</display-name>
+  </channel>
+  <channel id="爱电影">
+    <display-name lang="zh">爱电影</display-name>
+  </channel>
+  <channel id="爱大剧">
+    <display-name lang="zh">爱大剧</display-name>
+  </channel>
+  <channel id="爱生活">
+    <display-name lang="zh">爱生活</display-name>
+  </channel>
+  <channel id="华数精选">
+    <display-name lang="zh">华数精选</display-name>
+  </channel>
+  <channel id="家庭影院">
+    <display-name lang="zh">家庭影院</display-name>
+  </channel>
+  <channel id="谍战剧场">
+    <display-name lang="zh">谍战剧场</display-name>
+  </channel>
+  <channel id="魅力时尚">
+    <display-name lang="zh">魅力时尚</display-name>
+  </channel>
+  <channel id="少儿动画">
+    <display-name lang="zh">少儿动画</display-name>
+  </channel>
+  <channel id="动画">
+    <display-name lang="zh">动画</display-name>
+  </channel>
+  <channel id="音乐现场">
+    <display-name lang="zh">音乐现场</display-name>
+  </channel>
+  <channel id="红色影院">
+    <display-name lang="zh">红色影院</display-name>
+  </channel>
+  <channel id="经典剧场">
+    <display-name lang="zh">经典剧场</display-name>
+  </channel>
+  <channel id="相声小品">
+    <display-name lang="zh">相声小品</display-name>
+  </channel>
+  <channel id="军事">
+    <display-name lang="zh">军事</display-name>
+  </channel>
+  <channel id="地理">
+    <display-name lang="zh">地理</display-name>
+  </channel>
+  <channel id="墨宝">
+    <display-name lang="zh">墨宝</display-name>
+  </channel>
+  <channel id="戏曲">
+    <display-name lang="zh">戏曲</display-name>
+  </channel>
+  <channel id="解密">
+    <display-name lang="zh">解密</display-name>
+  </channel>
+  <channel id="武术">
+    <display-name lang="zh">武术</display-name>
+  </channel>
+  <channel id="美妆">
+    <display-name lang="zh">美妆</display-name>
+  </channel>
+  <channel id="美人">
+    <display-name lang="zh">美人</display-name>
+  </channel>
+  <channel id="鉴赏">
+    <display-name lang="zh">鉴赏</display-name>
+  </channel>
+  <channel id="早教">
+    <display-name lang="zh">早教</display-name>
+  </channel>
+  <channel id="好学生">
+    <display-name lang="zh">好学生</display-name>
+  </channel>
+  <channel id="黑莓影视">
+    <display-name lang="zh">黑莓影视</display-name>
+  </channel>
+  <channel id="纪实科教">
+    <display-name lang="zh">纪实科教</display-name>
+  </channel>
+  <channel id="萌宠TV">
+    <display-name lang="zh">萌宠TV</display-name>
+  </channel>
+  <channel id="淘BABY">
+    <display-name lang="zh">淘BABY</display-name>
+  </channel>
+  <channel id="淘剧场">
+    <display-name lang="zh">淘剧场</display-name>
+  </channel>
+  <channel id="淘电影">
+    <display-name lang="zh">淘电影</display-name>
+  </channel>
+  <channel id="淘娱乐">
+    <display-name lang="zh">淘娱乐</display-name>
+  </channel>
+  <channel id="淘4K">
+    <display-name lang="zh">淘4K</display-name>
+  </channel>
+  <channel id="IPTV3+">
+    <display-name lang="zh">IPTV3+</display-name>
+  </channel>
+  <channel id="IPTV5+">
+    <display-name lang="zh">IPTV5+</display-name>
+  </channel>
+  <channel id="IPTV6+">
+    <display-name lang="zh">IPTV6+</display-name>
+  </channel>
+  <channel id="IPTV8+">
+    <display-name lang="zh">IPTV8+</display-name>
+  </channel>
+  <channel id="北京重温经典">
+    <display-name lang="zh">北京重温经典</display-name>
+  </channel>
+  <channel id="爱上4K">
+    <display-name lang="zh">爱上4K</display-name>
+  </channel>
+  <channel id="湖南卫视4K">
+    <display-name lang="zh">湖南卫视4K</display-name>
+  </channel>
+  <channel id="广东卫视4K">
+    <display-name lang="zh">广东卫视4K</display-name>
+  </channel>
+  <channel id="江苏卫视4K">
+    <display-name lang="zh">江苏卫视4K</display-name>
+  </channel>
+  <channel id="深圳卫视4K">
+    <display-name lang="zh">深圳卫视4K</display-name>
+  </channel>
+  <channel id="东方卫视4K">
+    <display-name lang="zh">东方卫视4K</display-name>
+  </channel>
+  <channel id="浙江卫视4K">
+    <display-name lang="zh">浙江卫视4K</display-name>
+  </channel>
+  <channel id="山东卫视4K">
+    <display-name lang="zh">山东卫视4K</display-name>
+  </channel>
+  <channel id="四川卫视4K">
+    <display-name lang="zh">四川卫视4K</display-name>
+  </channel>
+  <channel id="北京卫视4K">
+    <display-name lang="zh">北京卫视4K</display-name>
+  </channel>
+  <channel id="欧美影院">
+    <display-name lang="zh">欧美影院</display-name>
+  </channel>
+  <channel id="亚洲影院">
+    <display-name lang="zh">亚洲影院</display-name>
+  </channel>
+  <channel id="探索纪实">
+    <display-name lang="zh">探索纪实</display-name>
+  </channel>
+  <channel id="精品剧场">
+    <display-name lang="zh">精品剧场</display-name>
+  </channel>
+  <channel id="iHOT爱赛车">
+    <display-name lang="zh">iHOT爱赛车</display-name>
+  </channel>
+  <channel id="iHOT爱喜剧">
+    <display-name lang="zh">iHOT爱喜剧</display-name>
+  </channel>
+  <channel id="iHOT爱科幻">
+    <display-name lang="zh">iHOT爱科幻</display-name>
+  </channel>
+  <channel id="iHOT爱玩具">
+    <display-name lang="zh">iHOT爱玩具</display-name>
+  </channel>
+  <channel id="iHOT爱浪漫">
+    <display-name lang="zh">iHOT爱浪漫</display-name>
+  </channel>
+  <channel id="iHOT爱体育">
+    <display-name lang="zh">iHOT爱体育</display-name>
+  </channel>
+  <channel id="iHOT爱院线">
+    <display-name lang="zh">iHOT爱院线</display-name>
+  </channel>
+  <channel id="iHOT爱谍战">
+    <display-name lang="zh">iHOT爱谍战</display-name>
+  </channel>
+  <channel id="iHOT爱幼教">
+    <display-name lang="zh">iHOT爱幼教</display-name>
+  </channel>
+  <channel id="iHOT爱历史">
+    <display-name lang="zh">iHOT爱历史</display-name>
+  </channel>
+  <channel id="iHOT爱科学">
+    <display-name lang="zh">iHOT爱科学</display-name>
+  </channel>
+  <channel id="iHOT爱旅行">
+    <display-name lang="zh">iHOT爱旅行</display-name>
+  </channel>
+  <channel id="睛彩天下">
+    <display-name lang="zh">睛彩天下</display-name>
+  </channel>
+  <channel id="羽球精品赛事">
+    <display-name lang="zh">羽球精品赛事</display-name>
+  </channel>
+  <channel id="陶瓷">
+    <display-name lang="zh">陶瓷</display-name>
+  </channel>
+  <channel id="滨海综艺">
+    <display-name lang="zh">滨海综艺</display-name>
+  </channel>
+  <channel id="滨海新闻">
+    <display-name lang="zh">滨海新闻</display-name>
+  </channel>
+  <channel id="游戏竞技">
+    <display-name lang="zh">游戏竞技</display-name>
+  </channel>
+  <channel id="凤凰电影">
+    <display-name lang="zh">凤凰电影</display-name>
+  </channel>
+  <channel id="CHC影迷电影">
+    <display-name lang="zh">CHC影迷电影</display-name>
+  </channel>
+  <channel id="中医药">
+    <display-name lang="zh">中医药</display-name>
+  </channel>
+  <channel id="证券服务">
+    <display-name lang="zh">证券服务</display-name>
+  </channel>
   <programme channel="CCTV1" start="20260818000000 +0800" stop="20260818001500 +0800">
     <title lang="zh">开始</title>
   </programme>
@@ -42885,234 +43125,6 @@
   <programme channel="华数古装剧场" start="20260818235700 +0800" stop="20260818235900 +0800">
     <title lang="zh">新醉打金枝(20)</title>
   </programme>
-  <channel id="CHC家庭影院">
-    <display-name lang="zh">CHC家庭影院</display-name>
-  </channel>
-  <channel id="CHC动作电影">
-    <display-name lang="zh">CHC动作电影</display-name>
-  </channel>
-  <channel id="财富天下">
-    <display-name lang="zh">财富天下</display-name>
-  </channel>
-  <channel id="IPTV野外">
-    <display-name lang="zh">IPTV野外</display-name>
-  </channel>
-  <channel id="IPTV法治">
-    <display-name lang="zh">IPTV法治</display-name>
-  </channel>
-  <channel id="爱体育">
-    <display-name lang="zh">爱体育</display-name>
-  </channel>
-  <channel id="爱综艺">
-    <display-name lang="zh">爱综艺</display-name>
-  </channel>
-  <channel id="爱电影">
-    <display-name lang="zh">爱电影</display-name>
-  </channel>
-  <channel id="爱大剧">
-    <display-name lang="zh">爱大剧</display-name>
-  </channel>
-  <channel id="爱生活">
-    <display-name lang="zh">爱生活</display-name>
-  </channel>
-  <channel id="华数精选">
-    <display-name lang="zh">华数精选</display-name>
-  </channel>
-  <channel id="家庭影院">
-    <display-name lang="zh">家庭影院</display-name>
-  </channel>
-  <channel id="谍战剧场">
-    <display-name lang="zh">谍战剧场</display-name>
-  </channel>
-  <channel id="魅力时尚">
-    <display-name lang="zh">魅力时尚</display-name>
-  </channel>
-  <channel id="少儿动画">
-    <display-name lang="zh">少儿动画</display-name>
-  </channel>
-  <channel id="动画">
-    <display-name lang="zh">动画</display-name>
-  </channel>
-  <channel id="音乐现场">
-    <display-name lang="zh">音乐现场</display-name>
-  </channel>
-  <channel id="红色影院">
-    <display-name lang="zh">红色影院</display-name>
-  </channel>
-  <channel id="经典剧场">
-    <display-name lang="zh">经典剧场</display-name>
-  </channel>
-  <channel id="相声小品">
-    <display-name lang="zh">相声小品</display-name>
-  </channel>
-  <channel id="军事">
-    <display-name lang="zh">军事</display-name>
-  </channel>
-  <channel id="地理">
-    <display-name lang="zh">地理</display-name>
-  </channel>
-  <channel id="墨宝">
-    <display-name lang="zh">墨宝</display-name>
-  </channel>
-  <channel id="戏曲">
-    <display-name lang="zh">戏曲</display-name>
-  </channel>
-  <channel id="解密">
-    <display-name lang="zh">解密</display-name>
-  </channel>
-  <channel id="武术">
-    <display-name lang="zh">武术</display-name>
-  </channel>
-  <channel id="美妆">
-    <display-name lang="zh">美妆</display-name>
-  </channel>
-  <channel id="美人">
-    <display-name lang="zh">美人</display-name>
-  </channel>
-  <channel id="鉴赏">
-    <display-name lang="zh">鉴赏</display-name>
-  </channel>
-  <channel id="早教">
-    <display-name lang="zh">早教</display-name>
-  </channel>
-  <channel id="好学生">
-    <display-name lang="zh">好学生</display-name>
-  </channel>
-  <channel id="黑莓影视">
-    <display-name lang="zh">黑莓影视</display-name>
-  </channel>
-  <channel id="纪实科教">
-    <display-name lang="zh">纪实科教</display-name>
-  </channel>
-  <channel id="萌宠TV">
-    <display-name lang="zh">萌宠TV</display-name>
-  </channel>
-  <channel id="淘BABY">
-    <display-name lang="zh">淘BABY</display-name>
-  </channel>
-  <channel id="淘剧场">
-    <display-name lang="zh">淘剧场</display-name>
-  </channel>
-  <channel id="淘电影">
-    <display-name lang="zh">淘电影</display-name>
-  </channel>
-  <channel id="淘娱乐">
-    <display-name lang="zh">淘娱乐</display-name>
-  </channel>
-  <channel id="淘4K">
-    <display-name lang="zh">淘4K</display-name>
-  </channel>
-  <channel id="IPTV3+">
-    <display-name lang="zh">IPTV3+</display-name>
-  </channel>
-  <channel id="IPTV5+">
-    <display-name lang="zh">IPTV5+</display-name>
-  </channel>
-  <channel id="IPTV6+">
-    <display-name lang="zh">IPTV6+</display-name>
-  </channel>
-  <channel id="IPTV8+">
-    <display-name lang="zh">IPTV8+</display-name>
-  </channel>
-  <channel id="北京重温经典">
-    <display-name lang="zh">北京重温经典</display-name>
-  </channel>
-  <channel id="爱上4K">
-    <display-name lang="zh">爱上4K</display-name>
-  </channel>
-  <channel id="湖南卫视4K">
-    <display-name lang="zh">湖南卫视4K</display-name>
-  </channel>
-  <channel id="广东卫视4K">
-    <display-name lang="zh">广东卫视4K</display-name>
-  </channel>
-  <channel id="江苏卫视4K">
-    <display-name lang="zh">江苏卫视4K</display-name>
-  </channel>
-  <channel id="深圳卫视4K">
-    <display-name lang="zh">深圳卫视4K</display-name>
-  </channel>
-  <channel id="东方卫视4K">
-    <display-name lang="zh">东方卫视4K</display-name>
-  </channel>
-  <channel id="浙江卫视4K">
-    <display-name lang="zh">浙江卫视4K</display-name>
-  </channel>
-  <channel id="山东卫视4K">
-    <display-name lang="zh">山东卫视4K</display-name>
-  </channel>
-  <channel id="四川卫视4K">
-    <display-name lang="zh">四川卫视4K</display-name>
-  </channel>
-  <channel id="北京卫视4K">
-    <display-name lang="zh">北京卫视4K</display-name>
-  </channel>
-  <channel id="欧美影院">
-    <display-name lang="zh">欧美影院</display-name>
-  </channel>
-  <channel id="亚洲影院">
-    <display-name lang="zh">亚洲影院</display-name>
-  </channel>
-  <channel id="探索纪实">
-    <display-name lang="zh">探索纪实</display-name>
-  </channel>
-  <channel id="精品剧场">
-    <display-name lang="zh">精品剧场</display-name>
-  </channel>
-  <channel id="iHOT爱赛车">
-    <display-name lang="zh">iHOT爱赛车</display-name>
-  </channel>
-  <channel id="iHOT爱喜剧">
-    <display-name lang="zh">iHOT爱喜剧</display-name>
-  </channel>
-  <channel id="iHOT爱科幻">
-    <display-name lang="zh">iHOT爱科幻</display-name>
-  </channel>
-  <channel id="iHOT爱玩具">
-    <display-name lang="zh">iHOT爱玩具</display-name>
-  </channel>
-  <channel id="iHOT爱浪漫">
-    <display-name lang="zh">iHOT爱浪漫</display-name>
-  </channel>
-  <channel id="iHOT爱体育">
-    <display-name lang="zh">iHOT爱体育</display-name>
-  </channel>
-  <channel id="iHOT爱院线">
-    <display-name lang="zh">iHOT爱院线</display-name>
-  </channel>
-  <channel id="iHOT爱谍战">
-    <display-name lang="zh">iHOT爱谍战</display-name>
-  </channel>
-  <channel id="iHOT爱幼教">
-    <display-name lang="zh">iHOT爱幼教</display-name>
-  </channel>
-  <channel id="iHOT爱历史">
-    <display-name lang="zh">iHOT爱历史</display-name>
-  </channel>
-  <channel id="iHOT爱科学">
-    <display-name lang="zh">iHOT爱科学</display-name>
-  </channel>
-  <channel id="iHOT爱旅行">
-    <display-name lang="zh">iHOT爱旅行</display-name>
-  </channel>
-  <channel id="睛彩天下">
-    <display-name lang="zh">睛彩天下</display-name>
-  </channel>
-  <channel id="羽球精品赛事">
-    <display-name lang="zh">羽球精品赛事</display-name>
-  </channel>
-  <channel id="陶瓷">
-    <display-name lang="zh">陶瓷</display-name>
-  </channel>
-  <channel id="滨海综艺">
-    <display-name lang="zh">滨海综艺</display-name>
-  </channel>
-  <channel id="滨海新闻">
-    <display-name lang="zh">滨海新闻</display-name>
-  </channel>
-  <channel id="游戏竞技">
-    <display-name lang="zh">游戏竞技</display-name>
-  </channel>
   <programme channel="谍战剧场" start="20260818000000 +0800" stop="20260818003100 +0800">
     <title>预支未来HD-《预支未来》 第6集（大结局）HD</title>
   </programme>
@@ -62646,9 +62658,6 @@
   <programme channel="滨海新闻" start="20260819235800 +0800" stop="20260819235900 +0800">
     <title>社会主义核心价值观</title>
   </programme>
-  <channel id="凤凰电影">
-    <display-name lang="zh">凤凰电影</display-name>
-  </channel>
   <programme channel="凤凰电影" start="20260818003000 +0800" stop="20260818020000 +0800">
     <title lang="zh">暗恋桃花源</title>
   </programme>
@@ -62727,15 +62736,6 @@
   <programme channel="凤凰电影" start="20260819230500 +0800" stop="20260819235900 +0800">
     <title lang="zh">寰宇国际影院：十二日的夜晚</title>
   </programme>
-  <channel id="CHC影迷电影">
-    <display-name lang="zh">CHC影迷电影</display-name>
-  </channel>
-  <channel id="中医药">
-    <display-name lang="zh">中医药</display-name>
-  </channel>
-  <channel id="证券服务">
-    <display-name lang="zh">证券服务</display-name>
-  </channel>
   <programme channel="CHC影迷电影" start="20260818011100 +0800" stop="20260818060000 +0800">
     <title lang="zh">战火中的芭蕾</title>
   </programme>

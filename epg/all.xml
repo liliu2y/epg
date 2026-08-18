@@ -1386,6 +1386,678 @@
   <channel id="证券服务">
     <display-name lang="zh">证券服务</display-name>
   </channel>
+  <channel id="翡翠台">
+    <display-name>翡翠台</display-name>
+  </channel>
+  <channel id="TVB Plus">
+    <display-name>TVB Plus</display-name>
+  </channel>
+  <channel id="无线新闻台">
+    <display-name>无线新闻台</display-name>
+  </channel>
+  <channel id="明珠台">
+    <display-name>明珠台</display-name>
+  </channel>
+  <channel id="黄金华剧台">
+    <display-name>黄金华剧台</display-name>
+  </channel>
+  <channel id="娱乐新闻台">
+    <display-name>娱乐新闻台</display-name>
+  </channel>
+  <channel id="SUPER Kids Channel">
+    <display-name>SUPER Kids Channel</display-name>
+  </channel>
+  <channel id="ZooMoo">
+    <display-name>ZooMoo</display-name>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name>Nickelodeon</display-name>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name>Nick Jr</display-name>
+  </channel>
+  <channel id="美亚电影台">
+    <display-name>美亚电影台</display-name>
+  </channel>
+  <channel id="Thrill">
+    <display-name>Thrill</display-name>
+  </channel>
+  <channel id="天映经典频道">
+    <display-name>天映经典频道</display-name>
+  </channel>
+  <channel id="中国电影频道">
+    <display-name>中国电影频道</display-name>
+  </channel>
+  <channel id="ROCK Action">
+    <display-name>ROCK Action</display-name>
+  </channel>
+  <channel id="PopC">
+    <display-name>PopC</display-name>
+  </channel>
+  <channel id="Action Hollywood Movies">
+    <display-name>Action Hollywood Movies</display-name>
+  </channel>
+  <channel id="Rialto Classic Movies">
+    <display-name>Rialto Classic Movies</display-name>
+  </channel>
+  <channel id="KIX">
+    <display-name>KIX</display-name>
+  </channel>
+  <channel id="TRACE Sport Stars">
+    <display-name>TRACE Sport Stars</display-name>
+  </channel>
+  <channel id="Love Nature 4K">
+    <display-name>Love Nature 4K</display-name>
+  </channel>
+  <channel id="Global Trekker">
+    <display-name>Global Trekker</display-name>
+  </channel>
+  <channel id="Pet Club TV">
+    <display-name>Pet Club TV</display-name>
+  </channel>
+  <channel id="Globetrotter">
+    <display-name>Globetrotter</display-name>
+  </channel>
+  <channel id="Docsville">
+    <display-name>Docsville</display-name>
+  </channel>
+  <channel id="ROCK综艺娱乐">
+    <display-name>ROCK综艺娱乐</display-name>
+  </channel>
+  <channel id="tvN">
+    <display-name>tvN</display-name>
+  </channel>
+  <channel id="无线卫星亚洲台">
+    <display-name>无线卫星亚洲台</display-name>
+  </channel>
+  <channel id="创世电视">
+    <display-name>创世电视</display-name>
+  </channel>
+  <channel id="FashionBox">
+    <display-name>FashionBox</display-name>
+  </channel>
+  <channel id="无线卫星新闻台">
+    <display-name>无线卫星新闻台</display-name>
+  </channel>
+  <channel id="亚洲新闻台">
+    <display-name>亚洲新闻台</display-name>
+  </channel>
+  <channel id="半岛电视台英语频道">
+    <display-name>半岛电视台英语频道</display-name>
+  </channel>
+  <channel id="France 24">
+    <display-name>France 24</display-name>
+  </channel>
+  <channel id="DW">
+    <display-name>DW</display-name>
+  </channel>
+  <channel id="NHK World-Japan">
+    <display-name>NHK World-Japan</display-name>
+  </channel>
+  <channel id="Arirang TV">
+    <display-name>Arirang TV</display-name>
+  </channel>
+  <channel id="NewsWorld">
+    <display-name>NewsWorld</display-name>
+  </channel>
+  <channel id="ViuTVsix">
+    <display-name>ViuTVsix</display-name>
+  </channel>
+  <channel id="ViuTV">
+    <display-name>ViuTV</display-name>
+  </channel>
+  <channel id="Viu 频道">
+    <display-name>Viu 频道</display-name>
+  </channel>
+  <channel id="Now华剧台">
+    <display-name>Now华剧台</display-name>
+  </channel>
+  <channel id="Now 影视点播站">
+    <display-name>Now 影视点播站</display-name>
+  </channel>
+  <channel id="NowJelli">
+    <display-name>NowJelli</display-name>
+  </channel>
+  <channel id="HBO Hits">
+    <display-name>HBO Hits</display-name>
+  </channel>
+  <channel id="HBO Family">
+    <display-name>HBO Family</display-name>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name>CINEMAX</display-name>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name>HBO Signature</display-name>
+  </channel>
+  <channel id="HBO">
+    <display-name>HBO</display-name>
+  </channel>
+  <channel id="MOVIE MOVIE">
+    <display-name>MOVIE MOVIE</display-name>
+  </channel>
+  <channel id="HITS MOVIES">
+    <display-name>HITS MOVIES</display-name>
+  </channel>
+  <channel id="Now 爆谷台">
+    <display-name>Now 爆谷台</display-name>
+  </channel>
+  <channel id="Now爆谷星影台">
+    <display-name>Now爆谷星影台</display-name>
+  </channel>
+  <channel id="Animax">
+    <display-name>Animax</display-name>
+  </channel>
+  <channel id="KBS World">
+    <display-name>KBS World</display-name>
+  </channel>
+  <channel id="MOOV 演唱会/MV台">
+    <display-name>MOOV 演唱会/MV台</display-name>
+  </channel>
+  <channel id="熊猫 TV">
+    <display-name>熊猫 TV</display-name>
+  </channel>
+  <channel id="Discovery Asia">
+    <display-name>Discovery Asia</display-name>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name>Discovery Channel</display-name>
+  </channel>
+  <channel id="动物星球频道">
+    <display-name>动物星球频道</display-name>
+  </channel>
+  <channel id="Discovery 科学频道">
+    <display-name>Discovery 科学频道</display-name>
+  </channel>
+  <channel id="DMAX">
+    <display-name>DMAX</display-name>
+  </channel>
+  <channel id="TLC旅游生活频道">
+    <display-name>TLC旅游生活频道</display-name>
+  </channel>
+  <channel id="Love Nature">
+    <display-name>Love Nature</display-name>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name>BBC Earth</display-name>
+  </channel>
+  <channel id="户外频道">
+    <display-name>户外频道</display-name>
+  </channel>
+  <channel id="罪案 + 侦缉">
+    <display-name>罪案 + 侦缉</display-name>
+  </channel>
+  <channel id="HISTORY">
+    <display-name>HISTORY</display-name>
+  </channel>
+  <channel id="CNN 国际新闻网络">
+    <display-name>CNN 国际新闻网络</display-name>
+  </channel>
+  <channel id="CNBC">
+    <display-name>CNBC</display-name>
+  </channel>
+  <channel id="BBC News">
+    <display-name>BBC News</display-name>
+  </channel>
+  <channel id="Bloomberg Television">
+    <display-name>Bloomberg Television</display-name>
+  </channel>
+  <channel id="Sky News">
+    <display-name>Sky News</display-name>
+  </channel>
+  <channel id="DW (English)">
+    <display-name>DW (English)</display-name>
+  </channel>
+  <channel id="euronews">
+    <display-name>euronews</display-name>
+  </channel>
+  <channel id="NHK WORLD-JAPAN">
+    <display-name>NHK WORLD-JAPAN</display-name>
+  </channel>
+  <channel id="RT">
+    <display-name>RT</display-name>
+  </channel>
+  <channel id="中国环球电视网">
+    <display-name>中国环球电视网</display-name>
+  </channel>
+  <channel id="Now直播台">
+    <display-name>Now直播台</display-name>
+  </channel>
+  <channel id="Now新闻台">
+    <display-name>Now新闻台</display-name>
+  </channel>
+  <channel id="Now财经台">
+    <display-name>Now财经台</display-name>
+  </channel>
+  <channel id="Now报价台">
+    <display-name>Now报价台</display-name>
+  </channel>
+  <channel id="智叻乐园">
+    <display-name>智叻乐园</display-name>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name>Cartoon Network</display-name>
+  </channel>
+  <channel id="CBeebies">
+    <display-name>CBeebies</display-name>
+  </channel>
+  <channel id="Moonbug">
+    <display-name>Moonbug</display-name>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name>Nick Jr.</display-name>
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name>BBC Lifestyle</display-name>
+  </channel>
+  <channel id="AXN">
+    <display-name>AXN</display-name>
+  </channel>
+  <channel id="HITS">
+    <display-name>HITS</display-name>
+  </channel>
+  <channel id="ROCK Entertainment">
+    <display-name>ROCK Entertainment</display-name>
+  </channel>
+  <channel id="Lifetime">
+    <display-name>Lifetime</display-name>
+  </channel>
+  <channel id="Food Network">
+    <display-name>Food Network</display-name>
+  </channel>
+  <channel id="亚洲美食台">
+    <display-name>亚洲美食台</display-name>
+  </channel>
+  <channel id="Netflix">
+    <display-name>Netflix</display-name>
+  </channel>
+  <channel id="中天亚洲台">
+    <display-name>中天亚洲台</display-name>
+  </channel>
+  <channel id="曼联电视频道">
+    <display-name>曼联电视频道</display-name>
+  </channel>
+  <channel id="NBA TV">
+    <display-name>NBA TV</display-name>
+  </channel>
+  <channel id="amc电影台">
+    <display-name>amc电影台</display-name>
+  </channel>
+  <channel id="Bloomberg TV">
+    <display-name>Bloomberg TV</display-name>
+  </channel>
+  <channel id="CARTOONITO">
+    <display-name>CARTOONITO</display-name>
+  </channel>
+  <channel id="CATCHPLAY电影台">
+    <display-name>CATCHPLAY电影台</display-name>
+  </channel>
+  <channel id="CinemaWorld频道">
+    <display-name>CinemaWorld频道</display-name>
+  </channel>
+  <channel id="CNEX纪实频道">
+    <display-name>CNEX纪实频道</display-name>
+  </channel>
+  <channel id="CNN国际新闻台">
+    <display-name>CNN国际新闻台</display-name>
+  </channel>
+  <channel id="CN卡通频道">
+    <display-name>CN卡通频道</display-name>
+  </channel>
+  <channel id="Discovery DMAX">
+    <display-name>Discovery DMAX</display-name>
+  </channel>
+  <channel id="Discovery EVE">
+    <display-name>Discovery EVE</display-name>
+  </channel>
+  <channel id="DreamWorks">
+    <display-name>DreamWorks</display-name>
+  </channel>
+  <channel id="EUROSPORT">
+    <display-name>EUROSPORT</display-name>
+  </channel>
+  <channel id="Ginx TV电竞频道">
+    <display-name>Ginx TV电竞频道</display-name>
+  </channel>
+  <channel id="Hami体育1台">
+    <display-name>Hami体育1台</display-name>
+  </channel>
+  <channel id="Hami体育2台">
+    <display-name>Hami体育2台</display-name>
+  </channel>
+  <channel id="HGTV居家乐活频道">
+    <display-name>HGTV居家乐活频道</display-name>
+  </channel>
+  <channel id="History">
+    <display-name>History</display-name>
+  </channel>
+  <channel id="INULTRA">
+    <display-name>INULTRA</display-name>
+  </channel>
+  <channel id="LiveABC互动英语频道">
+    <display-name>LiveABC互动英语频道</display-name>
+  </channel>
+  <channel id="LOVE NATURE">
+    <display-name>LOVE NATURE</display-name>
+  </channel>
+  <channel id="Mezzo Live">
+    <display-name>Mezzo Live</display-name>
+  </channel>
+  <channel id="momo综合台">
+    <display-name>momo综合台</display-name>
+  </channel>
+  <channel id="momo亲子台">
+    <display-name>momo亲子台</display-name>
+  </channel>
+  <channel id="NHK新闻资讯台">
+    <display-name>NHK新闻资讯台</display-name>
+  </channel>
+  <channel id="PET CLUB TV">
+    <display-name>PET CLUB TV</display-name>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name>Trace Urban</display-name>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name>Travel Channel</display-name>
+  </channel>
+  <channel id="TVBS">
+    <display-name>TVBS</display-name>
+  </channel>
+  <channel id="TVBS新闻台">
+    <display-name>TVBS新闻台</display-name>
+  </channel>
+  <channel id="TVBS欢乐台">
+    <display-name>TVBS欢乐台</display-name>
+  </channel>
+  <channel id="TVBS精采台">
+    <display-name>TVBS精采台</display-name>
+  </channel>
+  <channel id="Warner TV">
+    <display-name>Warner TV</display-name>
+  </channel>
+  <channel id="三立iNEWS">
+    <display-name>三立iNEWS</display-name>
+  </channel>
+  <channel id="三立新闻台">
+    <display-name>三立新闻台</display-name>
+  </channel>
+  <channel id="中天新闻台">
+    <display-name>中天新闻台</display-name>
+  </channel>
+  <channel id="中视主频">
+    <display-name>中视主频</display-name>
+  </channel>
+  <channel id="中视新闻台">
+    <display-name>中视新闻台</display-name>
+  </channel>
+  <channel id="中视经典台">
+    <display-name>中视经典台</display-name>
+  </channel>
+  <channel id="中视菁采台">
+    <display-name>中视菁采台</display-name>
+  </channel>
+  <channel id="亚洲旅游台">
+    <display-name>亚洲旅游台</display-name>
+  </channel>
+  <channel id="人间卫视">
+    <display-name>人间卫视</display-name>
+  </channel>
+  <channel id="八大精彩台">
+    <display-name>八大精彩台</display-name>
+  </channel>
+  <channel id="八大综艺台">
+    <display-name>八大综艺台</display-name>
+  </channel>
+  <channel id="公视戏剧">
+    <display-name>公视戏剧</display-name>
+  </channel>
+  <channel id="博斯无限二台">
+    <display-name>博斯无限二台</display-name>
+  </channel>
+  <channel id="博斯无限台">
+    <display-name>博斯无限台</display-name>
+  </channel>
+  <channel id="博斯网球台">
+    <display-name>博斯网球台</display-name>
+  </channel>
+  <channel id="博斯运动一台">
+    <display-name>博斯运动一台</display-name>
+  </channel>
+  <channel id="博斯高球一台">
+    <display-name>博斯高球一台</display-name>
+  </channel>
+  <channel id="博斯魅力网">
+    <display-name>博斯魅力网</display-name>
+  </channel>
+  <channel id="古典音乐台">
+    <display-name>古典音乐台</display-name>
+  </channel>
+  <channel id="台视主频">
+    <display-name>台视主频</display-name>
+  </channel>
+  <channel id="台视新闻台">
+    <display-name>台视新闻台</display-name>
+  </channel>
+  <channel id="台视综合台">
+    <display-name>台视综合台</display-name>
+  </channel>
+  <channel id="台视财经台">
+    <display-name>台视财经台</display-name>
+  </channel>
+  <channel id="国会频道1">
+    <display-name>国会频道1</display-name>
+  </channel>
+  <channel id="国会频道2">
+    <display-name>国会频道2</display-name>
+  </channel>
+  <channel id="大爱电视">
+    <display-name>大爱电视</display-name>
+  </channel>
+  <channel id="寰宇新闻">
+    <display-name>寰宇新闻</display-name>
+  </channel>
+  <channel id="尼克儿童频道">
+    <display-name>尼克儿童频道</display-name>
+  </channel>
+  <channel id="影迷数位电影台">
+    <display-name>影迷数位电影台</display-name>
+  </channel>
+  <channel id="爱尔达影剧台">
+    <display-name>爱尔达影剧台</display-name>
+  </channel>
+  <channel id="爱尔达日韩台">
+    <display-name>爱尔达日韩台</display-name>
+  </channel>
+  <channel id="爱尔达综合台">
+    <display-name>爱尔达综合台</display-name>
+  </channel>
+  <channel id="爱尔达体育1台">
+    <display-name>爱尔达体育1台</display-name>
+  </channel>
+  <channel id="爱尔达体育2台">
+    <display-name>爱尔达体育2台</display-name>
+  </channel>
+  <channel id="爱尔达体育3台">
+    <display-name>爱尔达体育3台</display-name>
+  </channel>
+  <channel id="爱尔达体育4台">
+    <display-name>爱尔达体育4台</display-name>
+  </channel>
+  <channel id="东森新闻台">
+    <display-name>东森新闻台</display-name>
+  </channel>
+  <channel id="东森财经台">
+    <display-name>东森财经台</display-name>
+  </channel>
+  <channel id="民视台湾台">
+    <display-name>民视台湾台</display-name>
+  </channel>
+  <channel id="民视影剧台">
+    <display-name>民视影剧台</display-name>
+  </channel>
+  <channel id="民视新闻台">
+    <display-name>民视新闻台</display-name>
+  </channel>
+  <channel id="民视无线台">
+    <display-name>民视无线台</display-name>
+  </channel>
+  <channel id="民视第一台">
+    <display-name>民视第一台</display-name>
+  </channel>
+  <channel id="民视综艺台">
+    <display-name>民视综艺台</display-name>
+  </channel>
+  <channel id="空中英语教室">
+    <display-name>空中英语教室</display-name>
+  </channel>
+  <channel id="罪案侦缉频道">
+    <display-name>罪案侦缉频道</display-name>
+  </channel>
+  <channel id="华艺中文台">
+    <display-name>华艺中文台</display-name>
+  </channel>
+  <channel id="华视主频">
+    <display-name>华视主频</display-name>
+  </channel>
+  <channel id="华视新闻资讯台">
+    <display-name>华视新闻资讯台</display-name>
+  </channel>
+  <channel id="猪哥亮歌厅秀">
+    <display-name>猪哥亮歌厅秀</display-name>
+  </channel>
+  <channel id="达文西频道">
+    <display-name>达文西频道</display-name>
+  </channel>
+  <channel id="采昌影剧台">
+    <display-name>采昌影剧台</display-name>
+  </channel>
+  <channel id="金光布袋戏">
+    <display-name>金光布袋戏</display-name>
+  </channel>
+  <channel id="镜电视新闻台">
+    <display-name>镜电视新闻台</display-name>
+  </channel>
+  <channel id="电影原声台CMusic">
+    <display-name>电影原声台CMusic</display-name>
+  </channel>
+  <channel id="靖天日本台">
+    <display-name>靖天日本台</display-name>
+  </channel>
+  <channel id="靖天育乐台">
+    <display-name>靖天育乐台</display-name>
+  </channel>
+  <channel id="靖洋戏剧台">
+    <display-name>靖洋戏剧台</display-name>
+  </channel>
+  <channel id="非凡商业台">
+    <display-name>非凡商业台</display-name>
+  </channel>
+  <channel id="非凡新闻台">
+    <display-name>非凡新闻台</display-name>
+  </channel>
+  <channel id="麦哲伦频道">
+    <display-name>麦哲伦频道</display-name>
+  </channel>
+  <channel id="龙华偶像">
+    <display-name>龙华偶像</display-name>
+  </channel>
+  <channel id="龙华影剧">
+    <display-name>龙华影剧</display-name>
+  </channel>
+  <channel id="龙华戏剧">
+    <display-name>龙华戏剧</display-name>
+  </channel>
+  <channel id="龙华洋片台">
+    <display-name>龙华洋片台</display-name>
+  </channel>
+  <channel id="龙华电影">
+    <display-name>龙华电影</display-name>
+  </channel>
+  <channel id="iQIYI">
+    <display-name>iQIYI</display-name>
+  </channel>
+  <channel id="QJ">
+    <display-name>QJ</display-name>
+  </channel>
+  <channel id="TVBJ">
+    <display-name>TVBJ</display-name>
+  </channel>
+  <channel id="AOD">
+    <display-name>AOD</display-name>
+  </channel>
+  <channel id="TVBS ASIA">
+    <display-name>TVBS ASIA</display-name>
+  </channel>
+  <channel id="CCM">
+    <display-name>CCM</display-name>
+  </channel>
+  <channel id="CNN">
+    <display-name>CNN</display-name>
+  </channel>
+  <channel id="CNA">
+    <display-name>CNA</display-name>
+  </channel>
+  <channel id="FRANCE24">
+    <display-name>FRANCE24</display-name>
+  </channel>
+  <channel id="DISCOVERY">
+    <display-name>DISCOVERY</display-name>
+  </channel>
+  <channel id="DISCOVERY ASIA">
+    <display-name>DISCOVERY ASIA</display-name>
+  </channel>
+  <channel id="Astro Grandstand">
+    <display-name>Astro Grandstand</display-name>
+  </channel>
+  <channel id="Astro Premier League">
+    <display-name>Astro Premier League</display-name>
+  </channel>
+  <channel id="Astro Premier League 2">
+    <display-name>Astro Premier League 2</display-name>
+  </channel>
+  <channel id="Astro Football">
+    <display-name>Astro Football</display-name>
+  </channel>
+  <channel id="Astro Badminton">
+    <display-name>Astro Badminton</display-name>
+  </channel>
+  <channel id="Astro Sports Plus">
+    <display-name>Astro Sports Plus</display-name>
+  </channel>
+  <channel id="beIN SPORTS">
+    <display-name>beIN SPORTS</display-name>
+  </channel>
+  <channel id="bEIN SPORTS 3">
+    <display-name>bEIN SPORTS 3</display-name>
+  </channel>
+  <channel id="W-Sport">
+    <display-name>W-Sport</display-name>
+  </channel>
+  <channel id="GOLF CHANNEL">
+    <display-name>GOLF CHANNEL</display-name>
+  </channel>
+  <channel id="RTHK31">
+    <display-name>RTHK31</display-name>
+  </channel>
+  <channel id="RTHK32">
+    <display-name>RTHK32</display-name>
+  </channel>
+  <channel id="RTHK33">
+    <display-name>RTHK33</display-name>
+  </channel>
+  <channel id="RTHK34">
+    <display-name>RTHK34</display-name>
+  </channel>
+  <channel id="RTHK35">
+    <display-name>RTHK35</display-name>
+  </channel>
+  <channel id="SPOTV">
+    <display-name>SPOTV</display-name>
+  </channel>
+  <channel id="SPOTV2">
+    <display-name>SPOTV2</display-name>
+  </channel>
   <programme channel="CCTV1" start="20260818000000 +0800" stop="20260818001500 +0800">
     <title lang="zh">开始</title>
   </programme>
@@ -63243,678 +63915,6 @@
   <programme channel="证券服务" start="20260819234500 +0800" stop="20260820083000 +0800">
     <title lang="zh">技术派</title>
   </programme>
-  <channel id="翡翠台">
-    <display-name>翡翠台</display-name>
-  </channel>
-  <channel id="TVB Plus">
-    <display-name>TVB Plus</display-name>
-  </channel>
-  <channel id="无线新闻台">
-    <display-name>无线新闻台</display-name>
-  </channel>
-  <channel id="明珠台">
-    <display-name>明珠台</display-name>
-  </channel>
-  <channel id="黄金华剧台">
-    <display-name>黄金华剧台</display-name>
-  </channel>
-  <channel id="娱乐新闻台">
-    <display-name>娱乐新闻台</display-name>
-  </channel>
-  <channel id="SUPER Kids Channel">
-    <display-name>SUPER Kids Channel</display-name>
-  </channel>
-  <channel id="ZooMoo">
-    <display-name>ZooMoo</display-name>
-  </channel>
-  <channel id="Nickelodeon">
-    <display-name>Nickelodeon</display-name>
-  </channel>
-  <channel id="Nick Jr">
-    <display-name>Nick Jr</display-name>
-  </channel>
-  <channel id="美亚电影台">
-    <display-name>美亚电影台</display-name>
-  </channel>
-  <channel id="Thrill">
-    <display-name>Thrill</display-name>
-  </channel>
-  <channel id="天映经典频道">
-    <display-name>天映经典频道</display-name>
-  </channel>
-  <channel id="中国电影频道">
-    <display-name>中国电影频道</display-name>
-  </channel>
-  <channel id="ROCK Action">
-    <display-name>ROCK Action</display-name>
-  </channel>
-  <channel id="PopC">
-    <display-name>PopC</display-name>
-  </channel>
-  <channel id="Action Hollywood Movies">
-    <display-name>Action Hollywood Movies</display-name>
-  </channel>
-  <channel id="Rialto Classic Movies">
-    <display-name>Rialto Classic Movies</display-name>
-  </channel>
-  <channel id="KIX">
-    <display-name>KIX</display-name>
-  </channel>
-  <channel id="TRACE Sport Stars">
-    <display-name>TRACE Sport Stars</display-name>
-  </channel>
-  <channel id="Love Nature 4K">
-    <display-name>Love Nature 4K</display-name>
-  </channel>
-  <channel id="Global Trekker">
-    <display-name>Global Trekker</display-name>
-  </channel>
-  <channel id="Pet Club TV">
-    <display-name>Pet Club TV</display-name>
-  </channel>
-  <channel id="Globetrotter">
-    <display-name>Globetrotter</display-name>
-  </channel>
-  <channel id="Docsville">
-    <display-name>Docsville</display-name>
-  </channel>
-  <channel id="ROCK综艺娱乐">
-    <display-name>ROCK综艺娱乐</display-name>
-  </channel>
-  <channel id="tvN">
-    <display-name>tvN</display-name>
-  </channel>
-  <channel id="无线卫星亚洲台">
-    <display-name>无线卫星亚洲台</display-name>
-  </channel>
-  <channel id="创世电视">
-    <display-name>创世电视</display-name>
-  </channel>
-  <channel id="FashionBox">
-    <display-name>FashionBox</display-name>
-  </channel>
-  <channel id="无线卫星新闻台">
-    <display-name>无线卫星新闻台</display-name>
-  </channel>
-  <channel id="亚洲新闻台">
-    <display-name>亚洲新闻台</display-name>
-  </channel>
-  <channel id="半岛电视台英语频道">
-    <display-name>半岛电视台英语频道</display-name>
-  </channel>
-  <channel id="France 24">
-    <display-name>France 24</display-name>
-  </channel>
-  <channel id="DW">
-    <display-name>DW</display-name>
-  </channel>
-  <channel id="NHK World-Japan">
-    <display-name>NHK World-Japan</display-name>
-  </channel>
-  <channel id="Arirang TV">
-    <display-name>Arirang TV</display-name>
-  </channel>
-  <channel id="NewsWorld">
-    <display-name>NewsWorld</display-name>
-  </channel>
-  <channel id="ViuTVsix">
-    <display-name>ViuTVsix</display-name>
-  </channel>
-  <channel id="ViuTV">
-    <display-name>ViuTV</display-name>
-  </channel>
-  <channel id="Viu 频道">
-    <display-name>Viu 频道</display-name>
-  </channel>
-  <channel id="Now华剧台">
-    <display-name>Now华剧台</display-name>
-  </channel>
-  <channel id="Now 影视点播站">
-    <display-name>Now 影视点播站</display-name>
-  </channel>
-  <channel id="NowJelli">
-    <display-name>NowJelli</display-name>
-  </channel>
-  <channel id="HBO Hits">
-    <display-name>HBO Hits</display-name>
-  </channel>
-  <channel id="HBO Family">
-    <display-name>HBO Family</display-name>
-  </channel>
-  <channel id="CINEMAX">
-    <display-name>CINEMAX</display-name>
-  </channel>
-  <channel id="HBO Signature">
-    <display-name>HBO Signature</display-name>
-  </channel>
-  <channel id="HBO">
-    <display-name>HBO</display-name>
-  </channel>
-  <channel id="MOVIE MOVIE">
-    <display-name>MOVIE MOVIE</display-name>
-  </channel>
-  <channel id="HITS MOVIES">
-    <display-name>HITS MOVIES</display-name>
-  </channel>
-  <channel id="Now 爆谷台">
-    <display-name>Now 爆谷台</display-name>
-  </channel>
-  <channel id="Now爆谷星影台">
-    <display-name>Now爆谷星影台</display-name>
-  </channel>
-  <channel id="Animax">
-    <display-name>Animax</display-name>
-  </channel>
-  <channel id="KBS World">
-    <display-name>KBS World</display-name>
-  </channel>
-  <channel id="MOOV 演唱会/MV台">
-    <display-name>MOOV 演唱会/MV台</display-name>
-  </channel>
-  <channel id="熊猫 TV">
-    <display-name>熊猫 TV</display-name>
-  </channel>
-  <channel id="Discovery Asia">
-    <display-name>Discovery Asia</display-name>
-  </channel>
-  <channel id="Discovery Channel">
-    <display-name>Discovery Channel</display-name>
-  </channel>
-  <channel id="动物星球频道">
-    <display-name>动物星球频道</display-name>
-  </channel>
-  <channel id="Discovery 科学频道">
-    <display-name>Discovery 科学频道</display-name>
-  </channel>
-  <channel id="DMAX">
-    <display-name>DMAX</display-name>
-  </channel>
-  <channel id="TLC旅游生活频道">
-    <display-name>TLC旅游生活频道</display-name>
-  </channel>
-  <channel id="Love Nature">
-    <display-name>Love Nature</display-name>
-  </channel>
-  <channel id="BBC Earth">
-    <display-name>BBC Earth</display-name>
-  </channel>
-  <channel id="户外频道">
-    <display-name>户外频道</display-name>
-  </channel>
-  <channel id="罪案 + 侦缉">
-    <display-name>罪案 + 侦缉</display-name>
-  </channel>
-  <channel id="HISTORY">
-    <display-name>HISTORY</display-name>
-  </channel>
-  <channel id="CNN 国际新闻网络">
-    <display-name>CNN 国际新闻网络</display-name>
-  </channel>
-  <channel id="CNBC">
-    <display-name>CNBC</display-name>
-  </channel>
-  <channel id="BBC News">
-    <display-name>BBC News</display-name>
-  </channel>
-  <channel id="Bloomberg Television">
-    <display-name>Bloomberg Television</display-name>
-  </channel>
-  <channel id="Sky News">
-    <display-name>Sky News</display-name>
-  </channel>
-  <channel id="DW (English)">
-    <display-name>DW (English)</display-name>
-  </channel>
-  <channel id="euronews">
-    <display-name>euronews</display-name>
-  </channel>
-  <channel id="NHK WORLD-JAPAN">
-    <display-name>NHK WORLD-JAPAN</display-name>
-  </channel>
-  <channel id="RT">
-    <display-name>RT</display-name>
-  </channel>
-  <channel id="中国环球电视网">
-    <display-name>中国环球电视网</display-name>
-  </channel>
-  <channel id="Now直播台">
-    <display-name>Now直播台</display-name>
-  </channel>
-  <channel id="Now新闻台">
-    <display-name>Now新闻台</display-name>
-  </channel>
-  <channel id="Now财经台">
-    <display-name>Now财经台</display-name>
-  </channel>
-  <channel id="Now报价台">
-    <display-name>Now报价台</display-name>
-  </channel>
-  <channel id="智叻乐园">
-    <display-name>智叻乐园</display-name>
-  </channel>
-  <channel id="Cartoon Network">
-    <display-name>Cartoon Network</display-name>
-  </channel>
-  <channel id="CBeebies">
-    <display-name>CBeebies</display-name>
-  </channel>
-  <channel id="Moonbug">
-    <display-name>Moonbug</display-name>
-  </channel>
-  <channel id="Nick Jr.">
-    <display-name>Nick Jr.</display-name>
-  </channel>
-  <channel id="BBC Lifestyle">
-    <display-name>BBC Lifestyle</display-name>
-  </channel>
-  <channel id="AXN">
-    <display-name>AXN</display-name>
-  </channel>
-  <channel id="HITS">
-    <display-name>HITS</display-name>
-  </channel>
-  <channel id="ROCK Entertainment">
-    <display-name>ROCK Entertainment</display-name>
-  </channel>
-  <channel id="Lifetime">
-    <display-name>Lifetime</display-name>
-  </channel>
-  <channel id="Food Network">
-    <display-name>Food Network</display-name>
-  </channel>
-  <channel id="亚洲美食台">
-    <display-name>亚洲美食台</display-name>
-  </channel>
-  <channel id="Netflix">
-    <display-name>Netflix</display-name>
-  </channel>
-  <channel id="中天亚洲台">
-    <display-name>中天亚洲台</display-name>
-  </channel>
-  <channel id="曼联电视频道">
-    <display-name>曼联电视频道</display-name>
-  </channel>
-  <channel id="NBA TV">
-    <display-name>NBA TV</display-name>
-  </channel>
-  <channel id="amc电影台">
-    <display-name>amc电影台</display-name>
-  </channel>
-  <channel id="Bloomberg TV">
-    <display-name>Bloomberg TV</display-name>
-  </channel>
-  <channel id="CARTOONITO">
-    <display-name>CARTOONITO</display-name>
-  </channel>
-  <channel id="CATCHPLAY电影台">
-    <display-name>CATCHPLAY电影台</display-name>
-  </channel>
-  <channel id="CinemaWorld频道">
-    <display-name>CinemaWorld频道</display-name>
-  </channel>
-  <channel id="CNEX纪实频道">
-    <display-name>CNEX纪实频道</display-name>
-  </channel>
-  <channel id="CNN国际新闻台">
-    <display-name>CNN国际新闻台</display-name>
-  </channel>
-  <channel id="CN卡通频道">
-    <display-name>CN卡通频道</display-name>
-  </channel>
-  <channel id="Discovery DMAX">
-    <display-name>Discovery DMAX</display-name>
-  </channel>
-  <channel id="Discovery EVE">
-    <display-name>Discovery EVE</display-name>
-  </channel>
-  <channel id="DreamWorks">
-    <display-name>DreamWorks</display-name>
-  </channel>
-  <channel id="EUROSPORT">
-    <display-name>EUROSPORT</display-name>
-  </channel>
-  <channel id="Ginx TV电竞频道">
-    <display-name>Ginx TV电竞频道</display-name>
-  </channel>
-  <channel id="Hami体育1台">
-    <display-name>Hami体育1台</display-name>
-  </channel>
-  <channel id="Hami体育2台">
-    <display-name>Hami体育2台</display-name>
-  </channel>
-  <channel id="HGTV居家乐活频道">
-    <display-name>HGTV居家乐活频道</display-name>
-  </channel>
-  <channel id="History">
-    <display-name>History</display-name>
-  </channel>
-  <channel id="INULTRA">
-    <display-name>INULTRA</display-name>
-  </channel>
-  <channel id="LiveABC互动英语频道">
-    <display-name>LiveABC互动英语频道</display-name>
-  </channel>
-  <channel id="LOVE NATURE">
-    <display-name>LOVE NATURE</display-name>
-  </channel>
-  <channel id="Mezzo Live">
-    <display-name>Mezzo Live</display-name>
-  </channel>
-  <channel id="momo综合台">
-    <display-name>momo综合台</display-name>
-  </channel>
-  <channel id="momo亲子台">
-    <display-name>momo亲子台</display-name>
-  </channel>
-  <channel id="NHK新闻资讯台">
-    <display-name>NHK新闻资讯台</display-name>
-  </channel>
-  <channel id="PET CLUB TV">
-    <display-name>PET CLUB TV</display-name>
-  </channel>
-  <channel id="Trace Urban">
-    <display-name>Trace Urban</display-name>
-  </channel>
-  <channel id="Travel Channel">
-    <display-name>Travel Channel</display-name>
-  </channel>
-  <channel id="TVBS">
-    <display-name>TVBS</display-name>
-  </channel>
-  <channel id="TVBS新闻台">
-    <display-name>TVBS新闻台</display-name>
-  </channel>
-  <channel id="TVBS欢乐台">
-    <display-name>TVBS欢乐台</display-name>
-  </channel>
-  <channel id="TVBS精采台">
-    <display-name>TVBS精采台</display-name>
-  </channel>
-  <channel id="Warner TV">
-    <display-name>Warner TV</display-name>
-  </channel>
-  <channel id="三立iNEWS">
-    <display-name>三立iNEWS</display-name>
-  </channel>
-  <channel id="三立新闻台">
-    <display-name>三立新闻台</display-name>
-  </channel>
-  <channel id="中天新闻台">
-    <display-name>中天新闻台</display-name>
-  </channel>
-  <channel id="中视主频">
-    <display-name>中视主频</display-name>
-  </channel>
-  <channel id="中视新闻台">
-    <display-name>中视新闻台</display-name>
-  </channel>
-  <channel id="中视经典台">
-    <display-name>中视经典台</display-name>
-  </channel>
-  <channel id="中视菁采台">
-    <display-name>中视菁采台</display-name>
-  </channel>
-  <channel id="亚洲旅游台">
-    <display-name>亚洲旅游台</display-name>
-  </channel>
-  <channel id="人间卫视">
-    <display-name>人间卫视</display-name>
-  </channel>
-  <channel id="八大精彩台">
-    <display-name>八大精彩台</display-name>
-  </channel>
-  <channel id="八大综艺台">
-    <display-name>八大综艺台</display-name>
-  </channel>
-  <channel id="公视戏剧">
-    <display-name>公视戏剧</display-name>
-  </channel>
-  <channel id="博斯无限二台">
-    <display-name>博斯无限二台</display-name>
-  </channel>
-  <channel id="博斯无限台">
-    <display-name>博斯无限台</display-name>
-  </channel>
-  <channel id="博斯网球台">
-    <display-name>博斯网球台</display-name>
-  </channel>
-  <channel id="博斯运动一台">
-    <display-name>博斯运动一台</display-name>
-  </channel>
-  <channel id="博斯高球一台">
-    <display-name>博斯高球一台</display-name>
-  </channel>
-  <channel id="博斯魅力网">
-    <display-name>博斯魅力网</display-name>
-  </channel>
-  <channel id="古典音乐台">
-    <display-name>古典音乐台</display-name>
-  </channel>
-  <channel id="台视主频">
-    <display-name>台视主频</display-name>
-  </channel>
-  <channel id="台视新闻台">
-    <display-name>台视新闻台</display-name>
-  </channel>
-  <channel id="台视综合台">
-    <display-name>台视综合台</display-name>
-  </channel>
-  <channel id="台视财经台">
-    <display-name>台视财经台</display-name>
-  </channel>
-  <channel id="国会频道1">
-    <display-name>国会频道1</display-name>
-  </channel>
-  <channel id="国会频道2">
-    <display-name>国会频道2</display-name>
-  </channel>
-  <channel id="大爱电视">
-    <display-name>大爱电视</display-name>
-  </channel>
-  <channel id="寰宇新闻">
-    <display-name>寰宇新闻</display-name>
-  </channel>
-  <channel id="尼克儿童频道">
-    <display-name>尼克儿童频道</display-name>
-  </channel>
-  <channel id="影迷数位电影台">
-    <display-name>影迷数位电影台</display-name>
-  </channel>
-  <channel id="爱尔达影剧台">
-    <display-name>爱尔达影剧台</display-name>
-  </channel>
-  <channel id="爱尔达日韩台">
-    <display-name>爱尔达日韩台</display-name>
-  </channel>
-  <channel id="爱尔达综合台">
-    <display-name>爱尔达综合台</display-name>
-  </channel>
-  <channel id="爱尔达体育1台">
-    <display-name>爱尔达体育1台</display-name>
-  </channel>
-  <channel id="爱尔达体育2台">
-    <display-name>爱尔达体育2台</display-name>
-  </channel>
-  <channel id="爱尔达体育3台">
-    <display-name>爱尔达体育3台</display-name>
-  </channel>
-  <channel id="爱尔达体育4台">
-    <display-name>爱尔达体育4台</display-name>
-  </channel>
-  <channel id="东森新闻台">
-    <display-name>东森新闻台</display-name>
-  </channel>
-  <channel id="东森财经台">
-    <display-name>东森财经台</display-name>
-  </channel>
-  <channel id="民视台湾台">
-    <display-name>民视台湾台</display-name>
-  </channel>
-  <channel id="民视影剧台">
-    <display-name>民视影剧台</display-name>
-  </channel>
-  <channel id="民视新闻台">
-    <display-name>民视新闻台</display-name>
-  </channel>
-  <channel id="民视无线台">
-    <display-name>民视无线台</display-name>
-  </channel>
-  <channel id="民视第一台">
-    <display-name>民视第一台</display-name>
-  </channel>
-  <channel id="民视综艺台">
-    <display-name>民视综艺台</display-name>
-  </channel>
-  <channel id="空中英语教室">
-    <display-name>空中英语教室</display-name>
-  </channel>
-  <channel id="罪案侦缉频道">
-    <display-name>罪案侦缉频道</display-name>
-  </channel>
-  <channel id="华艺中文台">
-    <display-name>华艺中文台</display-name>
-  </channel>
-  <channel id="华视主频">
-    <display-name>华视主频</display-name>
-  </channel>
-  <channel id="华视新闻资讯台">
-    <display-name>华视新闻资讯台</display-name>
-  </channel>
-  <channel id="猪哥亮歌厅秀">
-    <display-name>猪哥亮歌厅秀</display-name>
-  </channel>
-  <channel id="达文西频道">
-    <display-name>达文西频道</display-name>
-  </channel>
-  <channel id="采昌影剧台">
-    <display-name>采昌影剧台</display-name>
-  </channel>
-  <channel id="金光布袋戏">
-    <display-name>金光布袋戏</display-name>
-  </channel>
-  <channel id="镜电视新闻台">
-    <display-name>镜电视新闻台</display-name>
-  </channel>
-  <channel id="电影原声台CMusic">
-    <display-name>电影原声台CMusic</display-name>
-  </channel>
-  <channel id="靖天日本台">
-    <display-name>靖天日本台</display-name>
-  </channel>
-  <channel id="靖天育乐台">
-    <display-name>靖天育乐台</display-name>
-  </channel>
-  <channel id="靖洋戏剧台">
-    <display-name>靖洋戏剧台</display-name>
-  </channel>
-  <channel id="非凡商业台">
-    <display-name>非凡商业台</display-name>
-  </channel>
-  <channel id="非凡新闻台">
-    <display-name>非凡新闻台</display-name>
-  </channel>
-  <channel id="麦哲伦频道">
-    <display-name>麦哲伦频道</display-name>
-  </channel>
-  <channel id="龙华偶像">
-    <display-name>龙华偶像</display-name>
-  </channel>
-  <channel id="龙华影剧">
-    <display-name>龙华影剧</display-name>
-  </channel>
-  <channel id="龙华戏剧">
-    <display-name>龙华戏剧</display-name>
-  </channel>
-  <channel id="龙华洋片台">
-    <display-name>龙华洋片台</display-name>
-  </channel>
-  <channel id="龙华电影">
-    <display-name>龙华电影</display-name>
-  </channel>
-  <channel id="iQIYI">
-    <display-name>iQIYI</display-name>
-  </channel>
-  <channel id="QJ">
-    <display-name>QJ</display-name>
-  </channel>
-  <channel id="TVBJ">
-    <display-name>TVBJ</display-name>
-  </channel>
-  <channel id="AOD">
-    <display-name>AOD</display-name>
-  </channel>
-  <channel id="TVBS ASIA">
-    <display-name>TVBS ASIA</display-name>
-  </channel>
-  <channel id="CCM">
-    <display-name>CCM</display-name>
-  </channel>
-  <channel id="CNN">
-    <display-name>CNN</display-name>
-  </channel>
-  <channel id="CNA">
-    <display-name>CNA</display-name>
-  </channel>
-  <channel id="FRANCE24">
-    <display-name>FRANCE24</display-name>
-  </channel>
-  <channel id="DISCOVERY">
-    <display-name>DISCOVERY</display-name>
-  </channel>
-  <channel id="DISCOVERY ASIA">
-    <display-name>DISCOVERY ASIA</display-name>
-  </channel>
-  <channel id="Astro Grandstand">
-    <display-name>Astro Grandstand</display-name>
-  </channel>
-  <channel id="Astro Premier League">
-    <display-name>Astro Premier League</display-name>
-  </channel>
-  <channel id="Astro Premier League 2">
-    <display-name>Astro Premier League 2</display-name>
-  </channel>
-  <channel id="Astro Football">
-    <display-name>Astro Football</display-name>
-  </channel>
-  <channel id="Astro Badminton">
-    <display-name>Astro Badminton</display-name>
-  </channel>
-  <channel id="Astro Sports Plus">
-    <display-name>Astro Sports Plus</display-name>
-  </channel>
-  <channel id="beIN SPORTS">
-    <display-name>beIN SPORTS</display-name>
-  </channel>
-  <channel id="bEIN SPORTS 3">
-    <display-name>bEIN SPORTS 3</display-name>
-  </channel>
-  <channel id="W-Sport">
-    <display-name>W-Sport</display-name>
-  </channel>
-  <channel id="GOLF CHANNEL">
-    <display-name>GOLF CHANNEL</display-name>
-  </channel>
-  <channel id="RTHK31">
-    <display-name>RTHK31</display-name>
-  </channel>
-  <channel id="RTHK32">
-    <display-name>RTHK32</display-name>
-  </channel>
-  <channel id="RTHK33">
-    <display-name>RTHK33</display-name>
-  </channel>
-  <channel id="RTHK34">
-    <display-name>RTHK34</display-name>
-  </channel>
-  <channel id="RTHK35">
-    <display-name>RTHK35</display-name>
-  </channel>
-  <channel id="SPOTV">
-    <display-name>SPOTV</display-name>
-  </channel>
-  <channel id="SPOTV2">
-    <display-name>SPOTV2</display-name>
-  </channel>
   <programme channel="黄金翡翠台" start="20260818230500 +0800" stop="20260819004000 +0800">
     <title>欢乐今宵 #516 [粤]</title>
   </programme>
