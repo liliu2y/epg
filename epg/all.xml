@@ -1152,9 +1152,6 @@
   <channel id="CHC动作电影">
     <display-name lang="zh">CHC动作电影</display-name>
   </channel>
-  <channel id="滨海综艺">
-    <display-name lang="zh">滨海综艺</display-name>
-  </channel>
   <channel id="财富天下">
     <display-name lang="zh">财富天下</display-name>
   </channel>
@@ -1367,6 +1364,9 @@
   </channel>
   <channel id="陶瓷">
     <display-name lang="zh">陶瓷</display-name>
+  </channel>
+  <channel id="滨海综艺">
+    <display-name lang="zh">滨海综艺</display-name>
   </channel>
   <channel id="滨海新闻">
     <display-name lang="zh">滨海新闻</display-name>
@@ -43673,108 +43673,6 @@
   </programme>
   <programme channel="CHC动作电影" start="20260819234500 +0800" stop="20260820004500 +0800">
     <title>打过长江去</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818011100 +0800" stop="20260818060000 +0800">
-    <title>战火中的芭蕾</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818060000 +0800" stop="20260818091400 +0800">
-    <title>长征</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818091400 +0800" stop="20260818091500 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818091500 +0800" stop="202608181057                                     正在播出00 +0800">
-    <title>妈妈</title>
-  </programme>
-  <programme channel="滨海综艺" start="202608181057                                     正在播出00 +0800" stop="20260818123600 +0800">
-    <title>回廊亭</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818123600 +0800" stop="20260818123800 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818123800 +0800" stop="20260818142900 +0800">
-    <title>死侍-我爱我家</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818142900 +0800" stop="20260818143100 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818143100 +0800" stop="20260818161900 +0800">
-    <title>铁弓传奇</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818161900 +0800" stop="20260818180900 +0800">
-    <title>七月与安生</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818180900 +0800" stop="20260818200500 +0800">
-    <title>我不是药神</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818200500 +0800" stop="20260818200700 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818200700 +0800" stop="20260818220000 +0800">
-    <title>龙之战</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818220000 +0800" stop="20260818235400 +0800">
-    <title>芭蕾芭蕾</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818235400 +0800" stop="20260818235500 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260818235500 +0800" stop="20260819005500 +0800">
-    <title>杀戒</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819014300 +0800" stop="20260819060000 +0800">
-    <title>反贪风暴5</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819060000 +0800" stop="20260819073300 +0800">
-    <title>道口烧鸡铺</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819073300 +0800" stop="20260819073400 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819073400 +0800" stop="20260819093000 +0800">
-    <title>影</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819093000 +0800" stop="20260819110000 +0800">
-    <title>妈妈咪鸭</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819110000 +0800" stop="20260819110100 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819110100 +0800" stop="20260819123400 +0800">
-    <title>过昭关</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819123400 +0800" stop="20260819123600 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819123600 +0800" stop="20260819142200 +0800">
-    <title>上海堡垒</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819142200 +0800" stop="20260819142300 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819142300 +0800" stop="20260819160800 +0800">
-    <title>乌伯林根之殇</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819160800 +0800" stop="20260819181900 +0800">
-    <title>白蛇-青蛇劫起</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819181900 +0800" stop="20260819202500 +0800">
-    <title>囧妈</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819202500 +0800" stop="20260819202700 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819202700 +0800" stop="20260819220000 +0800">
-    <title>捍战2</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819220000 +0800" stop="20260819233200 +0800">
-    <title>血溅大青沟</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819233200 +0800" stop="20260819233300 +0800">
-    <title>2024影迷频道形象片</title>
-  </programme>
-  <programme channel="滨海综艺" start="20260819233300 +0800" stop="20260820003300 +0800">
-    <title>农民院士</title>
   </programme>
   <programme channel="音乐现场" start="20260818000000 +0800" stop="20260818003500 +0800">
     <title>《CCTV音乐厅》 20260529 国风交响 中国当代作品系列音乐会（4）HD</title>
