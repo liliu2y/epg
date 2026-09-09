@@ -4545,8 +4545,11 @@
   <programme start="20260909103000 +0800" stop="20260909110000 +0800" channel="澳门信息">
     <title lang="zh">新聞報道</title>
   </programme>
-  <programme start="20260909110000 +0800" stop="20260909120000 +0800" channel="澳门信息">
+  <programme start="20260909110000 +0800" stop="20260909113000 +0800" channel="澳门信息">
     <title lang="zh">新聞報道</title>
+  </programme>
+  <programme start="20260909113000 +0800" stop="20260909120000 +0800" channel="澳门信息">
+    <title lang="zh">特備節目</title>
   </programme>
   <programme start="20260909120000 +0800" stop="20260909122000 +0800" channel="澳门信息">
     <title lang="zh">新聞報道</title>
@@ -4653,20 +4656,14 @@
   <programme start="20260909065400 +0800" stop="20260909065500 +0800" channel="澳门体育">
     <title lang="zh">開台</title>
   </programme>
-  <programme start="20260909065500 +0800" stop="20260909130000 +0800" channel="澳门体育">
+  <programme start="20260909065500 +0800" stop="20260909153000 +0800" channel="澳门体育">
     <title lang="zh">直播2026美國網球公開賽：女單、男單- 8強</title>
   </programme>
-  <programme start="20260909130000 +0800" stop="20260909131500 +0800" channel="澳门体育">
+  <programme start="20260909153000 +0800" stop="20260909154500 +0800" channel="澳门体育">
     <title lang="zh">體育新聞</title>
   </programme>
-  <programme start="20260909131500 +0800" stop="20260909141500 +0800" channel="澳门体育">
-    <title lang="zh">2026歐洲勒芒系列賽精華：第一集 巴塞羅那站</title>
-  </programme>
-  <programme start="20260909141500 +0800" stop="20260909150000 +0800" channel="澳门体育">
-    <title lang="zh">環球體育</title>
-  </programme>
-  <programme start="20260909150000 +0800" stop="20260909170500 +0800" channel="澳门体育">
-    <title lang="zh">2026 FIFA世界盃：加拿大 對 摩洛哥 - 16強</title>
+  <programme start="20260909154500 +0800" stop="20260909170500 +0800" channel="澳门体育">
+    <title lang="zh">2026馬來西亞羽毛球公開賽：女雙4強</title>
   </programme>
   <programme start="20260909170500 +0800" stop="20260909171500 +0800" channel="澳门体育">
     <title lang="zh">澳門經典車小百科</title>
