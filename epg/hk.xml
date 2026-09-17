@@ -171,9 +171,6 @@
   <channel id="达文西">
     <display-name lang="zh">达文西</display-name>
   </channel>
-  <channel id="ELTV生活英语台">
-    <display-name lang="zh">ELTV生活英语台</display-name>
-  </channel>
   <channel id="NICKJR.儿童">
     <display-name lang="zh">NICKJR.儿童</display-name>
   </channel>
@@ -276,12 +273,6 @@
   <channel id="INULTRA">
     <display-name lang="zh">INULTRA</display-name>
   </channel>
-  <channel id="博斯高球台">
-    <display-name lang="zh">博斯高球台</display-name>
-  </channel>
-  <channel id="博斯高球二台">
-    <display-name lang="zh">博斯高球二台</display-name>
-  </channel>
   <channel id="博斯运动一台">
     <display-name lang="zh">博斯运动一台</display-name>
   </channel>
@@ -293,12 +284,6 @@
   </channel>
   <channel id="博斯运动二台">
     <display-name lang="zh">博斯运动二台</display-name>
-  </channel>
-  <channel id="博斯魅力台">
-    <display-name lang="zh">博斯魅力台</display-name>
-  </channel>
-  <channel id="博斯无限二台">
-    <display-name lang="zh">博斯无限二台</display-name>
   </channel>
   <channel id="智林体育台">
     <display-name lang="zh">智林体育台</display-name>
@@ -341,9 +326,6 @@
   </channel>
   <channel id="TV5MONDESTYLE生活时尚">
     <display-name lang="zh">TV5MONDESTYLE生活时尚</display-name>
-  </channel>
-  <channel id="ROCKXSTREAM摇滚极限">
-    <display-name lang="zh">ROCKXSTREAM摇滚极限</display-name>
   </channel>
   <channel id="公视戏剧">
     <display-name lang="zh">公视戏剧</display-name>
@@ -405,14 +387,8 @@
   <channel id="人间卫视">
     <display-name lang="zh">人间卫视</display-name>
   </channel>
-  <channel id="ABCAUSTRALIA澳洲公广">
-    <display-name lang="zh">ABCAUSTRALIA澳洲公广</display-name>
-  </channel>
   <channel id="FRANCE24英文台">
     <display-name lang="zh">FRANCE24英文台</display-name>
-  </channel>
-  <channel id="半岛国际新闻台">
-    <display-name lang="zh">半岛国际新闻台</display-name>
   </channel>
   <channel id="CNBCASIA财经台">
     <display-name lang="zh">CNBCASIA财经台</display-name>
@@ -456,6 +432,12 @@
   <channel id="CLASSICA">
     <display-name lang="zh">CLASSICA</display-name>
   </channel>
+  <channel id="博斯魅力台">
+    <display-name lang="zh">博斯魅力台</display-name>
+  </channel>
+  <channel id="博斯高球台">
+    <display-name lang="zh">博斯高球台</display-name>
+  </channel>
   <channel id="SETINEWS">
     <display-name lang="zh">SETINEWS</display-name>
   </channel>
@@ -464,6 +446,9 @@
   </channel>
   <channel id="DAVINCI">
     <display-name lang="zh">DAVINCI</display-name>
+  </channel>
+  <channel id="博斯高球二台">
+    <display-name lang="zh">博斯高球二台</display-name>
   </channel>
   <channel id="EDGESPORT">
     <display-name lang="zh">EDGESPORT</display-name>
@@ -530,6 +515,9 @@
   </channel>
   <channel id="华视新闻">
     <display-name lang="zh">华视新闻</display-name>
+  </channel>
+  <channel id="博斯无限二台">
+    <display-name lang="zh">博斯无限二台</display-name>
   </channel>
   <channel id="龙华电影台">
     <display-name lang="zh">龙华电影台</display-name>
@@ -1921,10 +1909,10 @@
     <title lang="zh">BARBAPAPA - One Big Happy Family!</title>
   </programme>
   <programme start="20260917061500 +0800" stop="20260917064000 +0800" channel="NICKJR">
-    <title lang="zh">Rubble  Crew</title>
+    <title lang="zh">Rubble Crew</title>
   </programme>
   <programme start="20260917064000 +0800" stop="20260917070000 +0800" channel="NICKJR">
-    <title lang="zh">Rubble  Crew</title>
+    <title lang="zh">Rubble Crew</title>
   </programme>
   <programme start="20260917070000 +0800" stop="20260917072500 +0800" channel="NICKJR">
     <title lang="zh">PAW Patrol</title>
@@ -1936,13 +1924,13 @@
     <title lang="zh">Deer Squad</title>
   </programme>
   <programme start="20260917081000 +0800" stop="20260917083500 +0800" channel="NICKJR">
-    <title lang="zh">Ben  Hollys Little Kingdom</title>
+    <title lang="zh">Ben Hollys Little Kingdom</title>
   </programme>
   <programme start="20260917083500 +0800" stop="20260917085500 +0800" channel="NICKJR">
     <title lang="zh">Tim Rex in Space</title>
   </programme>
   <programme start="20260917085500 +0800" stop="20260917092000 +0800" channel="NICKJR">
-    <title lang="zh">Rubble  Crew</title>
+    <title lang="zh">Rubble Crew</title>
   </programme>
   <programme start="20260917092000 +0800" stop="20260917094000 +0800" channel="NICKJR">
     <title lang="zh">Santiago of the Seas</title>
@@ -1972,10 +1960,10 @@
     <title lang="zh">Tim Rex in Space</title>
   </programme>
   <programme start="20260917124500 +0800" stop="20260917131000 +0800" channel="NICKJR">
-    <title lang="zh">Rubble  Crew</title>
+    <title lang="zh">Rubble Crew</title>
   </programme>
   <programme start="20260917131000 +0800" stop="20260917133000 +0800" channel="NICKJR">
-    <title lang="zh">Rubble  Crew</title>
+    <title lang="zh">Rubble Crew</title>
   </programme>
   <programme start="20260917133000 +0800" stop="20260917135500 +0800" channel="NICKJR">
     <title lang="zh">PAW Patrol</title>
@@ -1999,7 +1987,7 @@
     <title lang="zh">Tim Rex in Space</title>
   </programme>
   <programme start="20260917153500 +0800" stop="20260917155500 +0800" channel="NICKJR">
-    <title lang="zh">Ben  Hollys Little Kingdom</title>
+    <title lang="zh">Ben Hollys Little Kingdom</title>
   </programme>
   <programme start="20260917155500 +0800" stop="20260917161500 +0800" channel="NICKJR">
     <title lang="zh">BARBAPAPA - One Big Happy Family!</title>
@@ -2017,10 +2005,10 @@
     <title lang="zh">The Creature Cases</title>
   </programme>
   <programme start="20260917174500 +0800" stop="20260917181000 +0800" channel="NICKJR">
-    <title lang="zh">Rubble  Crew</title>
+    <title lang="zh">Rubble Crew</title>
   </programme>
   <programme start="20260917181000 +0800" stop="20260917183000 +0800" channel="NICKJR">
-    <title lang="zh">Rubble  Crew</title>
+    <title lang="zh">Rubble Crew</title>
   </programme>
   <programme start="20260917183000 +0800" stop="20260917185500 +0800" channel="NICKJR">
     <title lang="zh">PAW Patrol</title>
@@ -2952,53 +2940,17 @@
   <programme start="20260917232500 +0800" stop="20260917235959 +0800" channel="GLOBALTREKKER">
     <title lang="zh">梅西：天選之人(普)</title>
   </programme>
-  <programme start="20260917000001 +0800" stop="20260917020000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物安眠曲:貓科</title>
-  </programme>
-  <programme start="20260917020000 +0800" stop="20260917023000 +0800" channel="PETCLUBTV">
-    <title lang="zh">動物園獸醫趴趴走</title>
-  </programme>
-  <programme start="20260917023000 +0800" stop="20260917033000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物大爆笑</title>
-  </programme>
-  <programme start="20260917033000 +0800" stop="20260917040000 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌主駕到</title>
-  </programme>
-  <programme start="20260917040000 +0800" stop="20260917050000 +0800" channel="PETCLUBTV">
-    <title lang="zh">狗狗搜救隊</title>
-  </programme>
-  <programme start="20260917050000 +0800" stop="20260917053000 +0800" channel="PETCLUBTV">
-    <title lang="zh">動物園獸醫趴趴走</title>
-  </programme>
-  <programme start="20260917053000 +0800" stop="20260917060000 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌寵明星粗乃玩</title>
-  </programme>
   <programme start="20260917060000 +0800" stop="20260917070000 +0800" channel="PETCLUBTV">
     <title lang="zh">Best Of Pets</title>
-  </programme>
-  <programme start="20260917060000 +0800" stop="20260917063000 +0800" channel="PETCLUBTV">
-    <title lang="zh">動物園獸醫趴趴走</title>
-  </programme>
-  <programme start="20260917063000 +0800" stop="20260917073000 +0800" channel="PETCLUBTV">
-    <title lang="zh">狗狗搜救隊</title>
   </programme>
   <programme start="20260917070000 +0800" stop="20260917080000 +0800" channel="PETCLUBTV">
     <title lang="zh">Cute Pet Guide</title>
   </programme>
-  <programme start="20260917073000 +0800" stop="20260917080000 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌主駕到</title>
-  </programme>
   <programme start="20260917080000 +0800" stop="20260917083000 +0800" channel="PETCLUBTV">
     <title lang="zh">Zoo Vet At Large</title>
   </programme>
-  <programme start="20260917080000 +0800" stop="20260917090000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物大爆笑</title>
-  </programme>
   <programme start="20260917083000 +0800" stop="20260917093000 +0800" channel="PETCLUBTV">
     <title lang="zh">...Make You Laugh Out Loud</title>
-  </programme>
-  <programme start="20260917090000 +0800" stop="20260917100000 +0800" channel="PETCLUBTV">
-    <title lang="zh">一家子動物</title>
   </programme>
   <programme start="20260917093000 +0800" stop="20260917100000 +0800" channel="PETCLUBTV">
     <title lang="zh">Cute Pet At Home</title>
@@ -3006,14 +2958,8 @@
   <programme start="20260917100000 +0800" stop="20260917110000 +0800" channel="PETCLUBTV">
     <title lang="zh">The Dog Rescuers</title>
   </programme>
-  <programme start="20260917100000 +0800" stop="20260917110000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物大集合</title>
-  </programme>
   <programme start="20260917110000 +0800" stop="20260917113000 +0800" channel="PETCLUBTV">
     <title lang="zh">Zoo Vet At Large</title>
-  </programme>
-  <programme start="20260917110000 +0800" stop="20260917120000 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌寵攻略</title>
   </programme>
   <programme start="20260917113000 +0800" stop="20260917120000 +0800" channel="PETCLUBTV">
     <title lang="zh">Have A Pet Day</title>
@@ -3021,29 +2967,14 @@
   <programme start="20260917120000 +0800" stop="20260917130000 +0800" channel="PETCLUBTV">
     <title lang="zh">Best Of Pets</title>
   </programme>
-  <programme start="20260917120000 +0800" stop="20260917123000 +0800" channel="PETCLUBTV">
-    <title lang="zh">動物園獸醫趴趴走</title>
-  </programme>
-  <programme start="20260917123000 +0800" stop="20260917133000 +0800" channel="PETCLUBTV">
-    <title lang="zh">狗狗搜救隊</title>
-  </programme>
   <programme start="20260917130000 +0800" stop="20260917140000 +0800" channel="PETCLUBTV">
     <title lang="zh">Cute Pet Guide</title>
-  </programme>
-  <programme start="20260917133000 +0800" stop="20260917140000 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌主駕到</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917143000 +0800" channel="PETCLUBTV">
     <title lang="zh">Zoo Vet At Large</title>
   </programme>
-  <programme start="20260917140000 +0800" stop="20260917150000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物大爆笑</title>
-  </programme>
   <programme start="20260917143000 +0800" stop="20260917153000 +0800" channel="PETCLUBTV">
     <title lang="zh">...Make You Laugh Out Loud</title>
-  </programme>
-  <programme start="20260917150000 +0800" stop="20260917160000 +0800" channel="PETCLUBTV">
-    <title lang="zh">一家子動物</title>
   </programme>
   <programme start="20260917153000 +0800" stop="20260917160000 +0800" channel="PETCLUBTV">
     <title lang="zh">Cute Pet At Home</title>
@@ -3051,14 +2982,8 @@
   <programme start="20260917160000 +0800" stop="20260917170000 +0800" channel="PETCLUBTV">
     <title lang="zh">The Dog Rescuers</title>
   </programme>
-  <programme start="20260917160000 +0800" stop="20260917170000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物大集合</title>
-  </programme>
   <programme start="20260917170000 +0800" stop="20260917173000 +0800" channel="PETCLUBTV">
     <title lang="zh">Zoo Vet At Large</title>
-  </programme>
-  <programme start="20260917170000 +0800" stop="20260917180000 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌寵攻略</title>
   </programme>
   <programme start="20260917173000 +0800" stop="20260917180000 +0800" channel="PETCLUBTV">
     <title lang="zh">Have A Pet Day</title>
@@ -3066,44 +2991,23 @@
   <programme start="20260917180000 +0800" stop="20260917183000 +0800" channel="PETCLUBTV">
     <title lang="zh">Zoo Vet At Large</title>
   </programme>
-  <programme start="20260917180000 +0800" stop="20260917183000 +0800" channel="PETCLUBTV">
-    <title lang="zh">動物園獸醫趴趴走</title>
-  </programme>
   <programme start="20260917183000 +0800" stop="20260917193000 +0800" channel="PETCLUBTV">
     <title lang="zh">The Dog Rescuers</title>
-  </programme>
-  <programme start="20260917183000 +0800" stop="20260917193000 +0800" channel="PETCLUBTV">
-    <title lang="zh">狗狗搜救隊</title>
   </programme>
   <programme start="20260917193000 +0800" stop="20260917200000 +0800" channel="PETCLUBTV">
     <title lang="zh">Cute Pet At Home</title>
   </programme>
-  <programme start="20260917193000 +0800" stop="20260917200000 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌主駕到</title>
-  </programme>
   <programme start="20260917200000 +0800" stop="20260917210000 +0800" channel="PETCLUBTV">
     <title lang="zh">...Make You Laugh Out Loud</title>
-  </programme>
-  <programme start="20260917200000 +0800" stop="20260917210000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物大爆笑</title>
   </programme>
   <programme start="20260917210000 +0800" stop="20260917220000 +0800" channel="PETCLUBTV">
     <title lang="zh">My House And Other Animals</title>
   </programme>
-  <programme start="20260917210000 +0800" stop="20260917220000 +0800" channel="PETCLUBTV">
-    <title lang="zh">一家子動物</title>
-  </programme>
   <programme start="20260917220000 +0800" stop="20260917230000 +0800" channel="PETCLUBTV">
     <title lang="zh">Best Of Pets</title>
   </programme>
-  <programme start="20260917220000 +0800" stop="20260917230000 +0800" channel="PETCLUBTV">
-    <title lang="zh">寵物大集合</title>
-  </programme>
   <programme start="20260917230000 +0800" stop="20260918000000 +0800" channel="PETCLUBTV">
     <title lang="zh">Cute Pet Guide</title>
-  </programme>
-  <programme start="20260917230000 +0800" stop="20260917235959 +0800" channel="PETCLUBTV">
-    <title lang="zh">萌寵攻略</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917065500 +0800" channel="GLOBETROTTER">
     <title lang="zh">Amazing Spa Towns Of Europe</title>
@@ -4653,20 +4557,11 @@
   <programme start="20260917115000 +0800" stop="20260917120000 +0800" channel="澳门信息">
     <title lang="zh">澳門早晨精華篇</title>
   </programme>
-  <programme start="20260917120000 +0800" stop="20260917122000 +0800" channel="澳门信息">
+  <programme start="20260917120000 +0800" stop="20260917124500 +0800" channel="澳门信息">
     <title lang="zh">新聞報道</title>
   </programme>
-  <programme start="20260917122000 +0800" stop="20260917122700 +0800" channel="澳门信息">
+  <programme start="20260917124500 +0800" stop="20260917130000 +0800" channel="澳门信息">
     <title lang="zh">育才成長 築新未來： 高校人才攻略</title>
-  </programme>
-  <programme start="20260917122700 +0800" stop="20260917123000 +0800" channel="澳门信息">
-    <title lang="zh">街市情報</title>
-  </programme>
-  <programme start="20260917123000 +0800" stop="20260917125000 +0800" channel="澳门信息">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme start="20260917125000 +0800" stop="20260917130000 +0800" channel="澳门信息">
-    <title lang="zh">神奇生物在哪裡</title>
   </programme>
   <programme start="20260917130000 +0800" stop="20260917131700 +0800" channel="澳门信息">
     <title lang="zh">新聞報道</title>
@@ -4771,19 +4666,19 @@
     <title lang="zh">每周體育精華</title>
   </programme>
   <programme start="20260917175500 +0800" stop="20260917200000 +0800" channel="澳门体育">
-    <title lang="zh">直播亞洲冠軍二級聯賽：阿德萊德聯  對 大埔</title>
+    <title lang="zh">直播亞洲冠軍二級聯賽：阿德萊德聯 對 大埔</title>
   </programme>
   <programme start="20260917200000 +0800" stop="20260917201000 +0800" channel="澳门体育">
     <title lang="zh">澳門經典車小百科</title>
   </programme>
   <programme start="20260917201000 +0800" stop="20260917210500 +0800" channel="澳门体育">
-    <title lang="zh">直播亞洲冠軍二級聯賽：上海申花  對 淡濱尼流浪</title>
+    <title lang="zh">直播亞洲冠軍二級聯賽：上海申花 對 淡濱尼流浪</title>
   </programme>
   <programme start="20260917210500 +0800" stop="20260917211000 +0800" channel="澳门体育">
     <title lang="zh">體育新聞</title>
   </programme>
   <programme start="20260917211000 +0800" stop="20260917221500 +0800" channel="澳门体育">
-    <title lang="zh">直播亞洲冠軍二級聯賽：上海申花  對 淡濱尼流浪</title>
+    <title lang="zh">直播亞洲冠軍二級聯賽：上海申花 對 淡濱尼流浪</title>
   </programme>
   <programme start="20260917221500 +0800" stop="20260917223000 +0800" channel="澳门体育">
     <title lang="zh">每周體育精華</title>
@@ -6987,147 +6882,6 @@
   <programme start="20260917234500 +0800" stop="20260917235959 +0800" channel="达文西">
     <title lang="zh">華麗的冒險－猶他(普)</title>
   </programme>
-  <programme start="20260917003000 +0800" stop="20260917010000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">童話任意門雙語版</title>
-  </programme>
-  <programme start="20260917010000 +0800" stop="20260917013000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">跳舞童樂會</title>
-  </programme>
-  <programme start="20260917013000 +0800" stop="20260917020000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">跳舞童樂會</title>
-  </programme>
-  <programme start="20260917020000 +0800" stop="20260917023000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">聰明學文法</title>
-  </programme>
-  <programme start="20260917023000 +0800" stop="20260917030000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">聰明學文法</title>
-  </programme>
-  <programme start="20260917030000 +0800" stop="20260917033000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">DT踹貢</title>
-  </programme>
-  <programme start="20260917033000 +0800" stop="20260917040000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">DT踹貢</title>
-  </programme>
-  <programme start="20260917040000 +0800" stop="20260917043000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">快樂DoReMi</title>
-  </programme>
-  <programme start="20260917043000 +0800" stop="20260917050000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">快樂DoReMi</title>
-  </programme>
-  <programme start="20260917050000 +0800" stop="20260917053000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">淘氣鬼小鎮</title>
-  </programme>
-  <programme start="20260917053000 +0800" stop="20260917060000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">淘氣鬼小鎮</title>
-  </programme>
-  <programme start="20260917060000 +0800" stop="20260917063000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">貓頭鷹探險隊</title>
-  </programme>
-  <programme start="20260917063000 +0800" stop="20260917070000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">貓頭鷹探險隊</title>
-  </programme>
-  <programme start="20260917070000 +0800" stop="20260917073000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">大眼萌娃</title>
-  </programme>
-  <programme start="20260917073000 +0800" stop="20260917080000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">大眼萌娃</title>
-  </programme>
-  <programme start="20260917080000 +0800" stop="20260917083000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可可蒙</title>
-  </programme>
-  <programme start="20260917083000 +0800" stop="20260917090000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可可蒙</title>
-  </programme>
-  <programme start="20260917090000 +0800" stop="20260917093000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Pororo</title>
-  </programme>
-  <programme start="20260917093000 +0800" stop="20260917100000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Pororo</title>
-  </programme>
-  <programme start="20260917100000 +0800" stop="20260917103000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可愛琪琪</title>
-  </programme>
-  <programme start="20260917103000 +0800" stop="20260917110000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可愛琪琪</title>
-  </programme>
-  <programme start="20260917110000 +0800" stop="20260917113000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">FOOD超人</title>
-  </programme>
-  <programme start="20260917113000 +0800" stop="20260917120000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">FOOD超人</title>
-  </programme>
-  <programme start="20260917120000 +0800" stop="20260917123000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">快樂DoReMi</title>
-  </programme>
-  <programme start="20260917123000 +0800" stop="20260917130000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">TAYO小巴士</title>
-  </programme>
-  <programme start="20260917130000 +0800" stop="20260917133000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Pororo</title>
-  </programme>
-  <programme start="20260917133000 +0800" stop="20260917140000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Pororo</title>
-  </programme>
-  <programme start="20260917140000 +0800" stop="20260917143000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-  </programme>
-  <programme start="20260917143000 +0800" stop="20260917150000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-  </programme>
-  <programme start="20260917150000 +0800" stop="20260917153000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">小螞蟻巴布</title>
-  </programme>
-  <programme start="20260917153000 +0800" stop="20260917160000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">小雞呱呱呱</title>
-  </programme>
-  <programme start="20260917160000 +0800" stop="20260917163000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可愛琪琪</title>
-  </programme>
-  <programme start="20260917163000 +0800" stop="20260917170000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可愛琪琪</title>
-  </programme>
-  <programme start="20260917170000 +0800" stop="20260917173000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可可蒙</title>
-  </programme>
-  <programme start="20260917173000 +0800" stop="20260917180000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">可可蒙</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917183000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Pororo</title>
-  </programme>
-  <programme start="20260917183000 +0800" stop="20260917190000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Pororo</title>
-  </programme>
-  <programme start="20260917190000 +0800" stop="20260917193000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-  </programme>
-  <programme start="20260917193000 +0800" stop="20260917200000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-  </programme>
-  <programme start="20260917200000 +0800" stop="20260917203000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Badanamu說故事</title>
-  </programme>
-  <programme start="20260917203000 +0800" stop="20260917210000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">Badanamu說故事</title>
-  </programme>
-  <programme start="20260917210000 +0800" stop="20260917213000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">歡迎來到Wiggle Town</title>
-  </programme>
-  <programme start="20260917213000 +0800" stop="20260917220000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">歡迎來到Wiggle Town</title>
-  </programme>
-  <programme start="20260917220000 +0800" stop="20260917223000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">快樂DoReMi</title>
-  </programme>
-  <programme start="20260917223000 +0800" stop="20260917230000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">TAYO小巴士</title>
-  </programme>
-  <programme start="20260917230000 +0800" stop="20260917233000 +0800" channel="ELTV生活英语台">
-    <title lang="zh">桌遊新樂園</title>
-  </programme>
-  <programme start="20260917233000 +0800" stop="20260917235959 +0800" channel="ELTV生活英语台">
-    <title lang="zh">桌遊新樂園</title>
-  </programme>
   <programme start="20260917000001 +0800" stop="20260917002000 +0800" channel="NICKJR.儿童">
     <title lang="zh">汪汪隊之小礫與工程家族(普)</title>
   </programme>
@@ -8917,7 +8671,7 @@
     <title lang="zh">中天SUPER夜線</title>
   </programme>
   <programme start="20260917050000 +0800" stop="20260917060000 +0800" channel="中天新闻台">
-    <title lang="zh">全球大視野 CTI News Global  Vision</title>
+    <title lang="zh">全球大視野 CTI News Global Vision</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917070000 +0800" channel="中天新闻台">
     <title lang="zh">中天新聞 中天晨報</title>
@@ -8965,7 +8719,7 @@
     <title lang="zh">中天SUPER夜線</title>
   </programme>
   <programme start="20260917230000 +0800" stop="20260917235900 +0800" channel="中天新闻台">
-    <title lang="zh">全球大視野 CTI News Global  Vision</title>
+    <title lang="zh">全球大視野 CTI News Global Vision</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917010000 +0800" channel="BLOOMBERGTV">
     <title lang="zh">Bloomberg Deals(普)</title>
@@ -8998,7 +8752,7 @@
     <title lang="zh">Insight with Haslinda Amin(普)</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917130000 +0800" channel="BLOOMBERGTV">
-    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
+    <title lang="zh">Bloomberg Horizons Middle East Africa(普)</title>
   </programme>
   <programme start="20260917130000 +0800" stop="20260917140000 +0800" channel="BLOOMBERGTV">
     <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
@@ -9094,91 +8848,91 @@
     <title lang="zh">寰宇世界通(普)</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917010000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917010000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917010000 +0800" stop="20260917020000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917010000 +0800" stop="20260917020000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917020000 +0800" stop="20260917030000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚間新聞     (普)</title>
+    <title lang="zh">寰宇晚間新聞 (普)</title>
   </programme>
   <programme start="20260917020000 +0800" stop="20260917030000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚間新聞</title>
   </programme>
   <programme start="20260917030000 +0800" stop="20260917040000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚間新聞     (普)</title>
+    <title lang="zh">寰宇晚間新聞 (普)</title>
   </programme>
   <programme start="20260917030000 +0800" stop="20260917040000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚間新聞</title>
   </programme>
   <programme start="20260917040000 +0800" stop="20260917050000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917040000 +0800" stop="20260917050000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917050000 +0800" stop="20260917060000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917050000 +0800" stop="20260917060000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917070000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917070000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917070000 +0800" stop="20260917080000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇早安新聞      (普)</title>
+    <title lang="zh">寰宇早安新聞 (普)</title>
   </programme>
   <programme start="20260917070000 +0800" stop="20260917080000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇早安新聞</title>
   </programme>
   <programme start="20260917080000 +0800" stop="20260917090000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇早安新聞      (普)</title>
+    <title lang="zh">寰宇早安新聞 (普)</title>
   </programme>
   <programme start="20260917080000 +0800" stop="20260917090000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇早安新聞</title>
   </programme>
   <programme start="20260917090000 +0800" stop="20260917100000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇早安新聞      (普)</title>
+    <title lang="zh">寰宇早安新聞 (普)</title>
   </programme>
   <programme start="20260917090000 +0800" stop="20260917100000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇早安新聞</title>
   </programme>
   <programme start="20260917100000 +0800" stop="20260917110000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午間新聞      (普)</title>
+    <title lang="zh">寰宇午間新聞 (普)</title>
   </programme>
   <programme start="20260917100000 +0800" stop="20260917110000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇午間新聞</title>
   </programme>
   <programme start="20260917110000 +0800" stop="20260917120000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午間新聞      (普)</title>
+    <title lang="zh">寰宇午間新聞 (普)</title>
   </programme>
   <programme start="20260917110000 +0800" stop="20260917120000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇午間新聞</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917130000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午間新聞      (普)</title>
+    <title lang="zh">寰宇午間新聞 (普)</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917130000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇午間新聞</title>
   </programme>
   <programme start="20260917130000 +0800" stop="20260917140000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午間新聞      (普)</title>
+    <title lang="zh">寰宇午間新聞 (普)</title>
   </programme>
   <programme start="20260917130000 +0800" stop="20260917140000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇午間新聞</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917150000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇整點新聞      (普)</title>
+    <title lang="zh">寰宇整點新聞 (普)</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917150000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇整點新聞</title>
@@ -9190,49 +8944,49 @@
     <title lang="zh">寰宇整點新聞</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917170000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚間新聞     (普)</title>
+    <title lang="zh">寰宇晚間新聞 (普)</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917170000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚間新聞</title>
   </programme>
   <programme start="20260917170000 +0800" stop="20260917180000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚間新聞     (普)</title>
+    <title lang="zh">寰宇晚間新聞 (普)</title>
   </programme>
   <programme start="20260917170000 +0800" stop="20260917180000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚間新聞</title>
   </programme>
   <programme start="20260917180000 +0800" stop="20260917190000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚間新聞     (普)</title>
+    <title lang="zh">寰宇晚間新聞 (普)</title>
   </programme>
   <programme start="20260917180000 +0800" stop="20260917190000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚間新聞</title>
   </programme>
   <programme start="20260917190000 +0800" stop="20260917200000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚間新聞     (普)</title>
+    <title lang="zh">寰宇晚間新聞 (普)</title>
   </programme>
   <programme start="20260917190000 +0800" stop="20260917200000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚間新聞</title>
   </programme>
   <programme start="20260917200000 +0800" stop="20260917210000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917200000 +0800" stop="20260917210000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917210000 +0800" stop="20260917220000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917210000 +0800" stop="20260917220000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917220000 +0800" stop="20260917230000 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917220000 +0800" stop="20260917230000 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
   </programme>
   <programme start="20260917230000 +0800" stop="20260917235959 +0800" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦點新聞                    (普)</title>
+    <title lang="zh">寰宇焦點新聞 (普)</title>
   </programme>
   <programme start="20260917230000 +0800" stop="20260917235900 +0800" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦點新聞</title>
@@ -9781,10 +9535,10 @@
     <title lang="zh">MIT台灣誌(普)</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917003000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917003000 +0800" stop="20260917010000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917010000 +0800" stop="20260917013000 +0800" channel="靖天国际台">
     <title lang="zh">搵食飯團 (普)</title>
@@ -9793,28 +9547,28 @@
     <title lang="zh">搵食飯團 (普)</title>
   </programme>
   <programme start="20260917020000 +0800" stop="20260917023000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917023000 +0800" stop="20260917030000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917030000 +0800" stop="20260917033000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917033000 +0800" stop="20260917040000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917040000 +0800" stop="20260917043000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917043000 +0800" stop="20260917050000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917050000 +0800" stop="20260917053000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917053000 +0800" stop="20260917060000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917063000 +0800" channel="靖天国际台">
     <title lang="zh">搵食飯團 (普)</title>
@@ -9823,28 +9577,28 @@
     <title lang="zh">搵食飯團 (普)</title>
   </programme>
   <programme start="20260917070000 +0800" stop="20260917073000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917073000 +0800" stop="20260917080000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917080000 +0800" stop="20260917083000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917083000 +0800" stop="20260917090000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917090000 +0800" stop="20260917093000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917093000 +0800" stop="20260917100000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917100000 +0800" stop="20260917103000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917103000 +0800" stop="20260917110000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917110000 +0800" stop="20260917113000 +0800" channel="靖天国际台">
     <title lang="zh">搵食飯團 (普)</title>
@@ -9853,28 +9607,28 @@
     <title lang="zh">搵食飯團 (普)</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917123000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917123000 +0800" stop="20260917130000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917130000 +0800" stop="20260917133000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917133000 +0800" stop="20260917140000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917143000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917143000 +0800" stop="20260917150000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917150000 +0800" stop="20260917153000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917153000 +0800" stop="20260917160000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917163000 +0800" channel="靖天国际台">
     <title lang="zh">搵食飯團 (普)</title>
@@ -9883,28 +9637,28 @@
     <title lang="zh">搵食飯團 (普)</title>
   </programme>
   <programme start="20260917170000 +0800" stop="20260917173000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917173000 +0800" stop="20260917180000 +0800" channel="靖天国际台">
-    <title lang="zh">森美旅行團  (普)</title>
+    <title lang="zh">森美旅行團 (普)</title>
   </programme>
   <programme start="20260917180000 +0800" stop="20260917183000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917183000 +0800" stop="20260917190000 +0800" channel="靖天国际台">
-    <title lang="zh">不如食豪D  (普)</title>
+    <title lang="zh">不如食豪D (普)</title>
   </programme>
   <programme start="20260917190000 +0800" stop="20260917193000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917193000 +0800" stop="20260917200000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917200000 +0800" stop="20260917203000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917203000 +0800" stop="20260917210000 +0800" channel="靖天国际台">
-    <title lang="zh">仨心友行S2  (普)</title>
+    <title lang="zh">仨心友行S2 (普)</title>
   </programme>
   <programme start="20260917210000 +0800" stop="20260917213000 +0800" channel="靖天国际台">
     <title lang="zh">搵食飯團 (普)</title>
@@ -9919,10 +9673,10 @@
     <title lang="zh">森美旅行團Sr2(普)</title>
   </programme>
   <programme start="20260917230000 +0800" stop="20260917233000 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917233000 +0800" stop="20260917235959 +0800" channel="靖天国际台">
-    <title lang="zh">甜心教室2017  (普)</title>
+    <title lang="zh">甜心教室2017 (普)</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917010000 +0800" channel="靖天欢乐台">
     <title lang="zh">進擊的台灣(普)</title>
@@ -10150,109 +9904,109 @@
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917005000 +0800" stop="20260917010000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Park Minyoung)(普)</title>
+    <title lang="zh">哈燒藝人 (Park Minyoung)(普)</title>
   </programme>
   <programme start="20260917010000 +0800" stop="20260917015000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917015000 +0800" stop="20260917020000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Son Sukku)(普)</title>
+    <title lang="zh">哈燒藝人 (Son Sukku)(普)</title>
   </programme>
   <programme start="20260917020000 +0800" stop="20260917025000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917025000 +0800" stop="20260917030000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Park Hyung Sik)(普)</title>
+    <title lang="zh">哈燒藝人 (Park Hyung Sik)(普)</title>
   </programme>
   <programme start="20260917030000 +0800" stop="20260917040000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">你好，寶貝！  (3)(普)</title>
+    <title lang="zh">你好，寶貝！ (3)(普)</title>
   </programme>
   <programme start="20260917040000 +0800" stop="20260917045000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917045000 +0800" stop="20260917050000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Namgoong Min)(普)</title>
+    <title lang="zh">哈燒藝人 (Namgoong Min)(普)</title>
   </programme>
   <programme start="20260917050000 +0800" stop="20260917055000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917055000 +0800" stop="20260917060000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Seohyun)(普)</title>
+    <title lang="zh">哈燒藝人 (Seohyun)(普)</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917070000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">Simply K-POP (第9季)  (48)(普)</title>
+    <title lang="zh">Simply K-POP (第9季) (48)(普)</title>
   </programme>
   <programme start="20260917070000 +0800" stop="20260917075000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">網劇特輯  (12_1)(普)</title>
+    <title lang="zh">網劇特輯 (12_1)(普)</title>
   </programme>
   <programme start="20260917075000 +0800" stop="20260917080000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">本周主打星  (Lee Mujin)(普)</title>
+    <title lang="zh">本周主打星 (Lee Mujin)(普)</title>
   </programme>
   <programme start="20260917080000 +0800" stop="20260917085000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917085000 +0800" stop="20260917090000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Park Hyung Sik)(普)</title>
+    <title lang="zh">哈燒藝人 (Park Hyung Sik)(普)</title>
   </programme>
   <programme start="20260917090000 +0800" stop="20260917100000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">新人王:防彈少年團  (7)(普)</title>
+    <title lang="zh">新人王:防彈少年團 (7)(普)</title>
   </programme>
   <programme start="20260917100000 +0800" stop="20260917113000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">超人回來了  (81)(普)</title>
+    <title lang="zh">超人回來了 (81)(普)</title>
   </programme>
   <programme start="20260917113000 +0800" stop="20260917120000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">愛情化學 第四季  (3)(普)</title>
+    <title lang="zh">愛情化學 第四季 (3)(普)</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917125000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917125000 +0800" stop="20260917130000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Park Minyoung)(普)</title>
+    <title lang="zh">哈燒藝人 (Park Minyoung)(普)</title>
   </programme>
   <programme start="20260917130000 +0800" stop="20260917135000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917135000 +0800" stop="20260917140000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Son Sukku)(普)</title>
+    <title lang="zh">哈燒藝人 (Son Sukku)(普)</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917145000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917145000 +0800" stop="20260917150000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Seohyun)(普)</title>
+    <title lang="zh">哈燒藝人 (Seohyun)(普)</title>
   </programme>
   <programme start="20260917150000 +0800" stop="20260917155000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917155000 +0800" stop="20260917160000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Song Joong Ki)(普)</title>
+    <title lang="zh">哈燒藝人 (Song Joong Ki)(普)</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917173000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">超人回來了  (82)(普)</title>
+    <title lang="zh">超人回來了 (82)(普)</title>
   </programme>
   <programme start="20260917173000 +0800" stop="20260917180000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">愛情化學 第四季  (4)(普)</title>
+    <title lang="zh">愛情化學 第四季 (4)(普)</title>
   </programme>
   <programme start="20260917180000 +0800" stop="20260917190000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">新人王:防彈少年團  (8)(普)</title>
+    <title lang="zh">新人王:防彈少年團 (8)(普)</title>
   </programme>
   <programme start="20260917190000 +0800" stop="20260917200000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">你好，寶貝！  (4)(普)</title>
+    <title lang="zh">你好，寶貝！ (4)(普)</title>
   </programme>
   <programme start="20260917200000 +0800" stop="20260917205000 +0800" channel="韩国娱乐台KMTV">
     <title lang="zh">韓綜精選(護)</title>
   </programme>
   <programme start="20260917205000 +0800" stop="20260917210000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">哈燒藝人  (Hyeri)(普)</title>
+    <title lang="zh">哈燒藝人 (Hyeri)(普)</title>
   </programme>
   <programme start="20260917210000 +0800" stop="20260917223000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">兩天一夜  (33)(普)</title>
+    <title lang="zh">兩天一夜 (33)(普)</title>
   </programme>
   <programme start="20260917223000 +0800" stop="20260917230000 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">愛豆演員的化身 第三季  (6)(普)</title>
+    <title lang="zh">愛豆演員的化身 第三季 (6)(普)</title>
   </programme>
   <programme start="20260917230000 +0800" stop="20260917235959 +0800" channel="韩国娱乐台KMTV">
-    <title lang="zh">新人王:防彈少年團  (8)(普)</title>
+    <title lang="zh">新人王:防彈少年團 (8)(普)</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917004500 +0800" channel="ROCKENTERTAINMENT">
     <title lang="zh">賽斯梅爾深夜秀 第13季 (無字幕)(護)</title>
@@ -10531,7 +10285,7 @@
     <title lang="zh">Beethoven: Moonlight Piano Sonata No. 14 in C-Sharp Minor, Op 27/2 - I. Adagio sostenuto(普)</title>
   </programme>
   <programme start="20260917021000 +0800" stop="20260917021200 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Ravel Variation (Arr. for Violin   Piano)(普)</title>
+    <title lang="zh">Ravel Variation (Arr. for Violin Piano)(普)</title>
   </programme>
   <programme start="20260917021200 +0800" stop="20260917021500 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Cornfield Chase(普)</title>
@@ -10660,7 +10414,7 @@
     <title lang="zh">Respiro 3(普)</title>
   </programme>
   <programme start="20260917042900 +0800" stop="20260917043100 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Brahms: Hungarian Dances, WoO 1: V. Allegro in F-Sharp Minor (Arr. for Cello   Piano)(普)</title>
+    <title lang="zh">Brahms: Hungarian Dances, WoO 1: V. Allegro in F-Sharp Minor (Arr. for Cello Piano)(普)</title>
   </programme>
   <programme start="20260917043100 +0800" stop="20260917043300 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Attraversiamo(普)</title>
@@ -10708,7 +10462,7 @@
     <title lang="zh">Start Again (ft. Elena Tonra)(普)</title>
   </programme>
   <programme start="20260917051500 +0800" stop="20260917051700 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Scarlatti: Sonata D minor, K.32 (for clarinet   double bass)(普)</title>
+    <title lang="zh">Scarlatti: Sonata D minor, K.32 (for clarinet double bass)(普)</title>
   </programme>
   <programme start="20260917051700 +0800" stop="20260917052400 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Mozart: Piano Concerto No. 20 in D Minor, K. 466 - III. Rondo. Allegro assai (Cadenza Beethoven)(普)</title>
@@ -10720,7 +10474,7 @@
     <title lang="zh">Orphans(普)</title>
   </programme>
   <programme start="20260917052900 +0800" stop="20260917053200 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Handel: Solomon HWV 67: The Arrival of the Queen of Sheba (Arr. Recorders   Orchestra)(普)</title>
+    <title lang="zh">Handel: Solomon HWV 67: The Arrival of the Queen of Sheba (Arr. Recorders Orchestra)(普)</title>
   </programme>
   <programme start="20260917053200 +0800" stop="20260917053500 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Il dolce suono (from Lucia di Lammermoor)(普)</title>
@@ -10759,7 +10513,7 @@
     <title lang="zh">Brokeback Mountain 3(普)</title>
   </programme>
   <programme start="20260917060600 +0800" stop="20260917060800 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Tracy   Tony (reprise)(普)</title>
+    <title lang="zh">Tracy Tony (reprise)(普)</title>
   </programme>
   <programme start="20260917060800 +0800" stop="20260917061000 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Symphony No 25 in G Minor, K. 183 - I. Allegro con brio(普)</title>
@@ -11245,7 +10999,7 @@
     <title lang="zh">Johnny Cash(普)</title>
   </programme>
   <programme start="20260917142200 +0800" stop="20260917142800 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Stravaganza: 2. Dreams   Drones(普)</title>
+    <title lang="zh">Stravaganza: 2. Dreams Drones(普)</title>
   </programme>
   <programme start="20260917142800 +0800" stop="20260917143100 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Dvorák: Gypsy Melodies, Op.55, B. 104 - 4. Songs My Mother Taught Me (Adapt. For Cello And Orchestra)(普)</title>
@@ -11272,13 +11026,13 @@
     <title lang="zh">8 Gedichte aus Letzte Blätter, Op. 10, TrV 141: I. Zueignung (Arr. for Cello and Piano by Julian Riem)(普)</title>
   </programme>
   <programme start="20260917145100 +0800" stop="20260917145600 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Toccata   Fugue in D minor(普)</title>
+    <title lang="zh">Toccata Fugue in D minor(普)</title>
   </programme>
   <programme start="20260917145600 +0800" stop="20260917145800 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">For The Turnstiles(普)</title>
   </programme>
   <programme start="20260917145800 +0800" stop="20260917150000 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Manchester Minimalist Piano   Strings (Variation)(普)</title>
+    <title lang="zh">Manchester Minimalist Piano Strings (Variation)(普)</title>
   </programme>
   <programme start="20260917150000 +0800" stop="20260917150400 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Gnossiennes, 1. Lent(普)</title>
@@ -11635,7 +11389,7 @@
     <title lang="zh">The Cost of Love(普)</title>
   </programme>
   <programme start="20260917205300 +0800" stop="20260917205500 +0800" channel="电影原声台CMUSIC">
-    <title lang="zh">Organics / Swimming   Skiing(普)</title>
+    <title lang="zh">Organics / Swimming Skiing(普)</title>
   </programme>
   <programme start="20260917205500 +0800" stop="20260917205700 +0800" channel="电影原声台CMUSIC">
     <title lang="zh">Viola damore Concerto in A Minor - Vivace(普)</title>
@@ -11956,7 +11710,7 @@
     <title lang="zh">下單送99》遙控器轉CH.29、CH.90，四季會員獨享！</title>
   </programme>
   <programme start="20260917010000 +0800" stop="20260917032500 +0800" channel="GETWINSPORT运动台">
-    <title lang="zh">2026 亞洲U18青棒錦標賽 循環賽 G15 Chinese Taipei vs  Philippines</title>
+    <title lang="zh">2026 亞洲U18青棒錦標賽 循環賽 G15 Chinese Taipei vs Philippines</title>
   </programme>
   <programme start="20260917032500 +0800" stop="20260917051500 +0800" channel="GETWINSPORT运动台">
     <title lang="zh">2026 亞洲U18青棒錦標賽 預賽 G12 Chinese Taipei vs Singapore</title>
@@ -11965,7 +11719,7 @@
     <title lang="zh">2026 亞洲U18青棒錦標賽 預賽 G4 Chinese Taipei vs Korea</title>
   </programme>
   <programme start="20260917074500 +0800" stop="20260917102000 +0800" channel="GETWINSPORT运动台">
-    <title lang="zh">2026 亞洲U18青棒錦標賽 循環賽 G16 Japan vs  Korea</title>
+    <title lang="zh">2026 亞洲U18青棒錦標賽 循環賽 G16 Japan vs Korea</title>
   </programme>
   <programme start="20260917102000 +0800" stop="20260917115500 +0800" channel="GETWINSPORT运动台">
     <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽4 冠軍戰 G24 南投新街 VS 台中大仁</title>
@@ -11980,16 +11734,16 @@
     <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽3 季軍戰 G23 台東卑南 VS 台北福林</title>
   </programme>
   <programme start="20260917173500 +0800" stop="20260917192000 +0800" channel="GETWINSPORT运动台">
-    <title lang="zh">2026 亞洲U18青棒錦標賽 預賽 G10 Japan vs  Philippines</title>
+    <title lang="zh">2026 亞洲U18青棒錦標賽 預賽 G10 Japan vs Philippines</title>
   </programme>
   <programme start="20260917192000 +0800" stop="20260917204500 +0800" channel="GETWINSPORT运动台">
     <title lang="zh">2026 LLB次青少棒世界賽 G19 國際組冠軍 阿魯巴 vs 中華 APC</title>
   </programme>
   <programme start="20260917204500 +0800" stop="20260917232500 +0800" channel="GETWINSPORT运动台">
-    <title lang="zh">2026 LLB次青少棒世界賽 G5  勝者組賽 Mexico vs Chinese taipei</title>
+    <title lang="zh">2026 LLB次青少棒世界賽 G5 勝者組賽 Mexico vs Chinese taipei</title>
   </programme>
   <programme start="20260917232500 +0800" stop="20260917235959 +0800" channel="GETWINSPORT运动台">
-    <title lang="zh">2026 LLB次青少棒世界賽 G21 世界冠軍 CHINESE TAIPEI  VS CALFORNIA</title>
+    <title lang="zh">2026 LLB次青少棒世界賽 G21 世界冠軍 CHINESE TAIPEI VS CALFORNIA</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917001800 +0800" channel="INULTRA">
     <title lang="zh">藍色世界</title>
@@ -12234,380 +11988,146 @@
   <programme start="20260917234200 +0800" stop="20260917235959 +0800" channel="INULTRA">
     <title lang="zh">Photonis力量巔峰挑戰</title>
   </programme>
-  <programme start="20260917000001 +0800" stop="20260917050000 +0800" channel="博斯高球台">
-    <title lang="zh">2026 歐巡Nexo錦標賽第四天(普)</title>
-  </programme>
-  <programme start="20260917050000 +0800" stop="20260917090000 +0800" channel="博斯高球台">
-    <title lang="zh">2026 PGACJ盃第一天(普)</title>
-  </programme>
-  <programme start="20260917090000 +0800" stop="20260917140000 +0800" channel="博斯高球台">
-    <title lang="zh">2026 PGA3M公開賽第四天(普)</title>
-  </programme>
-  <programme start="20260917140000 +0800" stop="20260917190000 +0800" channel="博斯高球台">
-    <title lang="zh">首播2026 歐巡愛爾蘭公開賽第四天(普)</title>
-  </programme>
-  <programme start="20260917190000 +0800" stop="20260917235959 +0800" channel="博斯高球台">
-    <title lang="zh">LIVE2026 歐巡BMW PGA錦標賽第一天(普)</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917050000 +0800" channel="博斯高球二台">
-    <title lang="zh">2026美國女子公開賽第三天(普)</title>
-  </programme>
-  <programme start="20260917050000 +0800" stop="20260917080000 +0800" channel="博斯高球二台">
-    <title lang="zh">2026亞太業餘女子錦標賽第一天(普)</title>
-  </programme>
-  <programme start="20260917080000 +0800" stop="20260917103000 +0800" channel="博斯高球二台">
-    <title lang="zh">2026環球錦標賽第四天(普)</title>
-  </programme>
-  <programme start="20260917103000 +0800" stop="20260917130000 +0800" channel="博斯高球二台">
-    <title lang="zh">2026墨西哥公開賽第四天(普)</title>
-  </programme>
-  <programme start="20260917130000 +0800" stop="20260917180000 +0800" channel="博斯高球二台">
-    <title lang="zh">2026本田泰國賽第四天(普)</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917230000 +0800" channel="博斯高球二台">
-    <title lang="zh">2026匯豐女子世界錦標賽第四天(普)</title>
-  </programme>
-  <programme start="20260917230000 +0800" stop="20260917235959 +0800" channel="博斯高球二台">
-    <title lang="zh">仰德TPC錦標賽第一回合 精華(普)</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917003000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026羅傑慈善菁英賽第三天(普)</title>
-  </programme>
   <programme start="20260917000001 +0800" stop="20260917003000 +0800" channel="博斯运动一台">
     <title lang="zh">2026冠巡高球賽 羅傑慈善菁英賽-第三天</title>
-  </programme>
-  <programme start="20260917003000 +0800" stop="20260917040000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026企業女子壘球聯賽第9周總管家石虎 vs臺北臺產熊讚(普)</title>
   </programme>
   <programme start="20260917003000 +0800" stop="20260917040000 +0800" channel="博斯运动一台">
     <title lang="zh">2026企業女子壘球聯賽 第九周-總管家石虎vs.臺北臺產熊讚</title>
   </programme>
   <programme start="20260917040000 +0800" stop="20260917070000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026美國網球公開賽第一輪TSI vs FIL(普)</title>
-  </programme>
-  <programme start="20260917040000 +0800" stop="20260917070000 +0800" channel="博斯运动一台">
     <title lang="zh">2026美國網球公開賽 第一輪</title>
   </programme>
   <programme start="20260917070000 +0800" stop="20260917093000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026羅傑慈善菁英賽第三天(普)</title>
-  </programme>
-  <programme start="20260917070000 +0800" stop="20260917093000 +0800" channel="博斯运动一台">
     <title lang="zh">2026冠巡高球賽 羅傑慈善菁英賽-第三天</title>
-  </programme>
-  <programme start="20260917093000 +0800" stop="20260917130000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026企業女子壘球聯賽第9周總管家石虎 vs臺北臺產熊讚(普)</title>
   </programme>
   <programme start="20260917093000 +0800" stop="20260917130000 +0800" channel="博斯运动一台">
     <title lang="zh">2026企業女子壘球聯賽 第九周-總管家石虎vs.臺北臺產熊讚</title>
   </programme>
   <programme start="20260917130000 +0800" stop="20260917160000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026美國網球公開賽第一輪TSI vs FIL(普)</title>
-  </programme>
-  <programme start="20260917130000 +0800" stop="20260917160000 +0800" channel="博斯运动一台">
     <title lang="zh">2026美國網球公開賽 第一輪</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917183000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026羅傑慈善菁英賽第三天(普)</title>
-  </programme>
-  <programme start="20260917160000 +0800" stop="20260917183000 +0800" channel="博斯运动一台">
     <title lang="zh">2026冠巡高球賽 羅傑慈善菁英賽-第三天</title>
-  </programme>
-  <programme start="20260917183000 +0800" stop="20260917190000 +0800" channel="博斯运动一台">
-    <title lang="zh">美巡焦點(普)</title>
   </programme>
   <programme start="20260917183000 +0800" stop="20260917190000 +0800" channel="博斯运动一台">
     <title lang="zh">美巡焦點</title>
   </programme>
   <programme start="20260917190000 +0800" stop="20260917213000 +0800" channel="博斯运动一台">
-    <title lang="zh">2026桑佛德高球賽第二天(普)</title>
-  </programme>
-  <programme start="20260917190000 +0800" stop="20260917213000 +0800" channel="博斯运动一台">
     <title lang="zh">2026冠巡高球賽 桑佛德高球賽-第一天</title>
   </programme>
   <programme start="20260917213000 +0800" stop="20260917220000 +0800" channel="博斯运动一台">
-    <title lang="zh">美網第2天精華(普)</title>
-  </programme>
-  <programme start="20260917213000 +0800" stop="20260917220000 +0800" channel="博斯运动一台">
     <title lang="zh">2026美國網球公開賽 精華</title>
-  </programme>
-  <programme start="20260917220000 +0800" stop="20260917235959 +0800" channel="博斯运动一台">
-    <title lang="zh">2026美國網球公開賽第一輪ZVE vs SON(普)</title>
   </programme>
   <programme start="20260917220000 +0800" stop="20260917235959 +0800" channel="博斯运动一台">
     <title lang="zh">2026美國網球公開賽 第一輪</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917030000 +0800" channel="博斯无限台">
-    <title lang="zh">2025-26司諾克賽季 英國錦標賽 DAY02 第一輪 主桌(1)ROB vs LEC(普)</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917030000 +0800" channel="博斯无限台">
     <title lang="zh">2025/26世界司諾克巡迴賽 英國錦標賽-主桌第一輪DAY02</title>
-  </programme>
-  <programme start="20260917030000 +0800" stop="20260917060000 +0800" channel="博斯无限台">
-    <title lang="zh">2026-27司諾克賽季 上海大師賽 第一輪副桌(4)SI vs PAN(普)</title>
   </programme>
   <programme start="20260917030000 +0800" stop="20260917060000 +0800" channel="博斯无限台">
     <title lang="zh">2026/27世界司諾克巡迴賽 上海大師賽-第一輪(副桌)</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917073000 +0800" channel="博斯无限台">
-    <title lang="zh">2025-26 司諾克賽季 世界公開賽 十六強 副桌(2)Tru vs Wil(普)</title>
-  </programme>
-  <programme start="20260917060000 +0800" stop="20260917073000 +0800" channel="博斯无限台">
     <title lang="zh">2025/26世界司諾克巡迴賽 世界公開賽-副桌十六強</title>
   </programme>
   <programme start="20260917073000 +0800" stop="20260917090000 +0800" channel="博斯无限台">
-    <title lang="zh">2025-26 司諾克賽季 世界公開賽 十六強 副桌(2)Tru vs Wil(普)</title>
-  </programme>
-  <programme start="20260917073000 +0800" stop="20260917090000 +0800" channel="博斯无限台">
     <title lang="zh">2025/26世界司諾克巡迴賽 世界公開賽-副桌十六強</title>
-  </programme>
-  <programme start="20260917090000 +0800" stop="20260917120000 +0800" channel="博斯无限台">
-    <title lang="zh">2025-26司諾克賽季 英國錦標賽 DAY02 第一輪 主桌(1)ROB vs LEC(普)</title>
   </programme>
   <programme start="20260917090000 +0800" stop="20260917120000 +0800" channel="博斯无限台">
     <title lang="zh">2025/26世界司諾克巡迴賽 英國錦標賽-主桌第一輪DAY02</title>
-  </programme>
-  <programme start="20260917120000 +0800" stop="20260917150000 +0800" channel="博斯无限台">
-    <title lang="zh">2026-27司諾克賽季 上海大師賽 第一輪副桌(4)SI vs PAN(普)</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917150000 +0800" channel="博斯无限台">
     <title lang="zh">2026/27世界司諾克巡迴賽 上海大師賽-第一輪(副桌)</title>
   </programme>
   <programme start="20260917150000 +0800" stop="20260917163000 +0800" channel="博斯无限台">
-    <title lang="zh">2025-26 司諾克賽季 世界公開賽 十六強 副桌(2)Tru vs Wil(普)</title>
-  </programme>
-  <programme start="20260917150000 +0800" stop="20260917163000 +0800" channel="博斯无限台">
     <title lang="zh">2025/26世界司諾克巡迴賽 世界公開賽-副桌十六強</title>
   </programme>
   <programme start="20260917163000 +0800" stop="20260917180000 +0800" channel="博斯无限台">
-    <title lang="zh">2025-26 司諾克賽季 世界公開賽 十六強 副桌(2)Tru vs Wil(普)</title>
-  </programme>
-  <programme start="20260917163000 +0800" stop="20260917180000 +0800" channel="博斯无限台">
     <title lang="zh">2025/26世界司諾克巡迴賽 世界公開賽-副桌十六強</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917210000 +0800" channel="博斯无限台">
-    <title lang="zh">2025-26司諾克賽季 英國錦標賽 DAY02 第一輪 主桌(2)WIL vs GIL(普)</title>
   </programme>
   <programme start="20260917180000 +0800" stop="20260917210000 +0800" channel="博斯无限台">
     <title lang="zh">2025/26世界司諾克巡迴賽 英國錦標賽-主桌第一輪DAY02</title>
-  </programme>
-  <programme start="20260917210000 +0800" stop="20260917235959 +0800" channel="博斯无限台">
-    <title lang="zh">2026-27司諾克賽季 上海大師賽 十六強主桌(1)ROB vs XIA(普)</title>
   </programme>
   <programme start="20260917210000 +0800" stop="20260917235900 +0800" channel="博斯无限台">
     <title lang="zh">2026/27世界司諾克巡迴賽 上海大師賽-十六強(主桌)</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917023000 +0800" channel="博斯网球台">
-    <title lang="zh">2026美國網球公開賽 4強(普)</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917023000 +0800" channel="博斯网球台">
     <title lang="zh">2026美國網球公開賽 四強</title>
-  </programme>
-  <programme start="20260917023000 +0800" stop="20260917030000 +0800" channel="博斯网球台">
-    <title lang="zh">2026美網第12天精華(普)</title>
   </programme>
   <programme start="20260917023000 +0800" stop="20260917030000 +0800" channel="博斯网球台">
     <title lang="zh">2026美國網球公開賽 精華</title>
   </programme>
   <programme start="20260917030000 +0800" stop="20260917053000 +0800" channel="博斯网球台">
-    <title lang="zh">2026北卡男網賽 8強 FER vs KOV(普)</title>
-  </programme>
-  <programme start="20260917030000 +0800" stop="20260917053000 +0800" channel="博斯网球台">
     <title lang="zh">2026 ATP男子網球巡迴賽 北卡男網賽-八強</title>
-  </programme>
-  <programme start="20260917053000 +0800" stop="20260917080000 +0800" channel="博斯网球台">
-    <title lang="zh">2026蒙特婁大師賽 16強 BOR vs DAR(普)</title>
   </programme>
   <programme start="20260917053000 +0800" stop="20260917080000 +0800" channel="博斯网球台">
     <title lang="zh">2026 ATP男子網球巡迴賽 蒙特婁大師賽-十六強</title>
   </programme>
   <programme start="20260917080000 +0800" stop="20260917103000 +0800" channel="博斯网球台">
-    <title lang="zh">2026美國網球公開賽 4強(普)</title>
-  </programme>
-  <programme start="20260917080000 +0800" stop="20260917103000 +0800" channel="博斯网球台">
     <title lang="zh">2026美國網球公開賽 四強</title>
   </programme>
   <programme start="20260917103000 +0800" stop="20260917110000 +0800" channel="博斯网球台">
-    <title lang="zh">2026美網第12天精華(普)</title>
-  </programme>
-  <programme start="20260917103000 +0800" stop="20260917110000 +0800" channel="博斯网球台">
     <title lang="zh">2026美國網球公開賽 精華</title>
-  </programme>
-  <programme start="20260917110000 +0800" stop="20260917133000 +0800" channel="博斯网球台">
-    <title lang="zh">2026北卡男網賽 8強 FER vs KOV(普)</title>
   </programme>
   <programme start="20260917110000 +0800" stop="20260917133000 +0800" channel="博斯网球台">
     <title lang="zh">2026 ATP男子網球巡迴賽 北卡男網賽-八強</title>
   </programme>
   <programme start="20260917133000 +0800" stop="20260917160000 +0800" channel="博斯网球台">
-    <title lang="zh">2026蒙特婁大師賽 16強 BOR vs DAR(普)</title>
-  </programme>
-  <programme start="20260917133000 +0800" stop="20260917160000 +0800" channel="博斯网球台">
     <title lang="zh">2026 ATP男子網球巡迴賽 蒙特婁大師賽-十六強</title>
-  </programme>
-  <programme start="20260917160000 +0800" stop="20260917183000 +0800" channel="博斯网球台">
-    <title lang="zh">2026美國網球公開賽 4強(普)</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917183000 +0800" channel="博斯网球台">
     <title lang="zh">2026美國網球公開賽 四強</title>
   </programme>
   <programme start="20260917183000 +0800" stop="20260917190000 +0800" channel="博斯网球台">
-    <title lang="zh">2026美網第12天精華(普)</title>
-  </programme>
-  <programme start="20260917183000 +0800" stop="20260917190000 +0800" channel="博斯网球台">
     <title lang="zh">2026美國網球公開賽 精華</title>
-  </programme>
-  <programme start="20260917190000 +0800" stop="20260917210000 +0800" channel="博斯网球台">
-    <title lang="zh">2026北卡男網賽 4強 BUS vs BON(普)</title>
   </programme>
   <programme start="20260917190000 +0800" stop="20260917210000 +0800" channel="博斯网球台">
     <title lang="zh">2026 ATP男子網球巡迴賽 北卡男網賽-四強</title>
   </programme>
   <programme start="20260917210000 +0800" stop="20260917213000 +0800" channel="博斯网球台">
-    <title lang="zh">網球雜誌(普)</title>
-  </programme>
-  <programme start="20260917210000 +0800" stop="20260917213000 +0800" channel="博斯网球台">
     <title lang="zh">網球雜誌</title>
   </programme>
   <programme start="20260917213000 +0800" stop="20260917233000 +0800" channel="博斯网球台">
-    <title lang="zh">2026蒙特婁大師賽 16強 TIE vs TIR(普)</title>
-  </programme>
-  <programme start="20260917213000 +0800" stop="20260917233000 +0800" channel="博斯网球台">
     <title lang="zh">2026 ATP男子網球巡迴賽 蒙特婁大師賽-十六強</title>
-  </programme>
-  <programme start="20260917233000 +0800" stop="20260917235959 +0800" channel="博斯网球台">
-    <title lang="zh">2026美網第13天精華(普)</title>
   </programme>
   <programme start="20260917233000 +0800" stop="20260917235900 +0800" channel="博斯网球台">
     <title lang="zh">2026美國網球公開賽 精華</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917020000 +0800" channel="博斯运动二台">
-    <title lang="zh">2026亞洲盃女足B組小組賽(4)烏茲別克vs中國(普)</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917020000 +0800" channel="博斯运动二台">
     <title lang="zh">2026 AFC女足亞洲盃 B組小組賽-烏茲別克vs.中國</title>
-  </programme>
-  <programme start="20260917020000 +0800" stop="20260917040000 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26台灣企業甲級足球聯賽 第20輪 新北航源 vs 南市台鋼(普)</title>
   </programme>
   <programme start="20260917020000 +0800" stop="20260917040000 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26企業甲級足球聯賽 第二十輪-新北航源vs.南市台鋼</title>
   </programme>
   <programme start="20260917040000 +0800" stop="20260917060000 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26歐洲籃球聯賽 第24輪(1)伊斯坦堡vs奧林匹亞科斯(普)</title>
-  </programme>
-  <programme start="20260917040000 +0800" stop="20260917060000 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26歐洲籃球聯賽 第二十四輪-伊斯坦堡vs.奧林匹亞科斯</title>
-  </programme>
-  <programme start="20260917060000 +0800" stop="20260917080000 +0800" channel="博斯运动二台">
-    <title lang="zh">2026亞洲盃女足B組小組賽(4)烏茲別克vs中國(普)</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917080000 +0800" channel="博斯运动二台">
     <title lang="zh">2026 AFC女足亞洲盃 B組小組賽-烏茲別克vs.中國</title>
   </programme>
   <programme start="20260917080000 +0800" stop="20260917100000 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26台灣企業甲級足球聯賽 第20輪 新北航源 vs 南市台鋼(普)</title>
-  </programme>
-  <programme start="20260917080000 +0800" stop="20260917100000 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26企業甲級足球聯賽 第二十輪-新北航源vs.南市台鋼</title>
   </programme>
   <programme start="20260917100000 +0800" stop="20260917120000 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26歐洲籃球聯賽 第24輪(1)伊斯坦堡vs奧林匹亞科斯(普)</title>
-  </programme>
-  <programme start="20260917100000 +0800" stop="20260917120000 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26歐洲籃球聯賽 第二十四輪-伊斯坦堡vs.奧林匹亞科斯</title>
-  </programme>
-  <programme start="20260917120000 +0800" stop="20260917140000 +0800" channel="博斯运动二台">
-    <title lang="zh">2026亞洲盃女足B組小組賽(4)烏茲別克vs中國(普)</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917140000 +0800" channel="博斯运动二台">
     <title lang="zh">2026 AFC女足亞洲盃 B組小組賽-烏茲別克vs.中國</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917160000 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26台灣企業甲級足球聯賽 第20輪 新北航源 vs 南市台鋼(普)</title>
-  </programme>
-  <programme start="20260917140000 +0800" stop="20260917160000 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26企業甲級足球聯賽 第二十輪-新北航源vs.南市台鋼</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917180000 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26歐洲籃球聯賽 第24輪(1)伊斯坦堡vs奧林匹亞科斯(普)</title>
-  </programme>
-  <programme start="20260917160000 +0800" stop="20260917180000 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26歐洲籃球聯賽 第二十四輪-伊斯坦堡vs.奧林匹亞科斯</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917200000 +0800" channel="博斯运动二台">
-    <title lang="zh">2026亞洲盃女足B組小組賽(5)北韓vs中國(普)</title>
   </programme>
   <programme start="20260917180000 +0800" stop="20260917200000 +0800" channel="博斯运动二台">
     <title lang="zh">2026 AFC女足亞洲盃 B組小組賽-北韓vs.中國</title>
   </programme>
   <programme start="20260917200000 +0800" stop="20260917220000 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26台灣企業甲級足球聯賽 第21輪 新北航源 vs 陽信北競(普)</title>
-  </programme>
-  <programme start="20260917200000 +0800" stop="20260917220000 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26企業甲級足球聯賽 第二十一輪-新北航源vs.陽信北競</title>
-  </programme>
-  <programme start="20260917220000 +0800" stop="20260917235959 +0800" channel="博斯运动二台">
-    <title lang="zh">2025-26歐洲籃球聯賽 第24輪(2)拜仁vs瓦倫西亞(普)</title>
   </programme>
   <programme start="20260917220000 +0800" stop="20260917235900 +0800" channel="博斯运动二台">
     <title lang="zh">2025/26歐洲籃球聯賽 第二十四輪-拜仁vs.瓦倫西亞</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917020000 +0800" channel="博斯魅力台">
-    <title lang="zh">2026巴特洪堡女網賽16強ALE vs AND(普)</title>
-  </programme>
-  <programme start="20260917020000 +0800" stop="20260917040000 +0800" channel="博斯魅力台">
-    <title lang="zh">2026多倫多女網賽決賽SWI vs RYB(普)</title>
-  </programme>
-  <programme start="20260917040000 +0800" stop="20260917110000 +0800" channel="博斯魅力台">
-    <title lang="zh">LIVE2026瓜達拉哈拉女網賽16強0400-1100(普)</title>
-  </programme>
-  <programme start="20260917110000 +0800" stop="20260917130000 +0800" channel="博斯魅力台">
-    <title lang="zh">2026巴特洪堡女網賽16強ALE vs AND(普)</title>
-  </programme>
-  <programme start="20260917130000 +0800" stop="20260917160000 +0800" channel="博斯魅力台">
-    <title lang="zh">2026蒙特雷女網賽決賽PAR vs MER(普)</title>
-  </programme>
-  <programme start="20260917160000 +0800" stop="20260917180000 +0800" channel="博斯魅力台">
-    <title lang="zh">2026多倫多女網賽決賽SWI vs RYB(普)</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917235959 +0800" channel="博斯魅力台">
-    <title lang="zh">首播2026瓜達拉哈拉女網賽16強(普)</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917013000 +0800" channel="博斯无限二台">
-    <title lang="zh">2026英國公開賽 第四天(5)SHA vs DUO(普)</title>
-  </programme>
-  <programme start="20260917013000 +0800" stop="20260917030000 +0800" channel="博斯无限二台">
-    <title lang="zh">2025莫斯考尼盃 第三天(1)Neu vs Sty(普)</title>
-  </programme>
-  <programme start="20260917030000 +0800" stop="20260917060000 +0800" channel="博斯无限二台">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 16強 WIL vs JON(普)</title>
-  </programme>
-  <programme start="20260917060000 +0800" stop="20260917073000 +0800" channel="博斯无限二台">
-    <title lang="zh">2026英國公開賽 第四天(5)SHA vs DUO(普)</title>
-  </programme>
-  <programme start="20260917073000 +0800" stop="20260917090000 +0800" channel="博斯无限二台">
-    <title lang="zh">2025莫斯考尼盃 第三天(1)Neu vs Sty(普)</title>
-  </programme>
-  <programme start="20260917090000 +0800" stop="20260917120000 +0800" channel="博斯无限二台">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 16強 WIL vs JON(普)</title>
-  </programme>
-  <programme start="20260917120000 +0800" stop="20260917133000 +0800" channel="博斯无限二台">
-    <title lang="zh">2026英國公開賽 第四天(5)SHA vs DUO(普)</title>
-  </programme>
-  <programme start="20260917133000 +0800" stop="20260917150000 +0800" channel="博斯无限二台">
-    <title lang="zh">2025莫斯考尼盃 第三天(1)Neu vs Sty(普)</title>
-  </programme>
-  <programme start="20260917150000 +0800" stop="20260917180000 +0800" channel="博斯无限二台">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 16強 WIL vs JON(普)</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917193000 +0800" channel="博斯无限二台">
-    <title lang="zh">2026英國公開賽 第四天(6)FIR vs WIL(普)</title>
-  </programme>
-  <programme start="20260917193000 +0800" stop="20260917210000 +0800" channel="博斯无限二台">
-    <title lang="zh">2025莫斯考尼盃 第三天(3)Eur vs USA(普)</title>
-  </programme>
-  <programme start="20260917210000 +0800" stop="20260917235959 +0800" channel="博斯无限二台">
-    <title lang="zh">2024-25司諾克賽季 德國名人賽 8強 ROB vs YUA(普)</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917060000 +0800" channel="智林体育台">
     <title lang="zh">休播(普)</title>
@@ -12685,7 +12205,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917014400 +0800" stop="20260917014900 +0800" channel="时尚运动X">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917014900 +0800" stop="20260917021200 +0800" channel="时尚运动X">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -12760,7 +12280,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917074400 +0800" stop="20260917074900 +0800" channel="时尚运动X">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917074900 +0800" stop="20260917081200 +0800" channel="时尚运动X">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -12835,7 +12355,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917134400 +0800" stop="20260917134900 +0800" channel="时尚运动X">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917134900 +0800" stop="20260917141200 +0800" channel="时尚运动X">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -12910,7 +12430,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917194400 +0800" stop="20260917194900 +0800" channel="时尚运动X">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917194900 +0800" stop="20260917201200 +0800" channel="时尚运动X">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -14295,78 +13815,6 @@
   <programme start="20260917233800 +0800" stop="20260917235959 +0800" channel="TV5MONDESTYLE生活时尚">
     <title lang="zh">CHRONIQUES MÉDITERRANÉENNES NATURE(普)</title>
   </programme>
-  <programme start="20260917000001 +0800" stop="20260917010000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">黑帆 第4季(輔15)</title>
-  </programme>
-  <programme start="20260917010000 +0800" stop="20260917020000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">黑帆 第4季(輔15)</title>
-  </programme>
-  <programme start="20260917020000 +0800" stop="20260917032500 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">最後衝擊(護)</title>
-  </programme>
-  <programme start="20260917032500 +0800" stop="20260917045000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">恐怖鳥(護)</title>
-  </programme>
-  <programme start="20260917045000 +0800" stop="20260917062500 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">黃石火山大爆發(護)</title>
-  </programme>
-  <programme start="20260917062500 +0800" stop="20260917080000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">克羅姆詛咒：萬聖節驚魂(護)</title>
-  </programme>
-  <programme start="20260917080000 +0800" stop="20260917090000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">夜班經理(護)</title>
-  </programme>
-  <programme start="20260917090000 +0800" stop="20260917100000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">駭客軍團 第2季(輔12)</title>
-  </programme>
-  <programme start="20260917100000 +0800" stop="20260917110500 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">駭客軍團 第2季(輔12)</title>
-  </programme>
-  <programme start="20260917110500 +0800" stop="20260917120000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">駭客軍團 第2季(輔12)</title>
-  </programme>
-  <programme start="20260917120000 +0800" stop="20260917125000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">新夏威夷之虎 第2季(護)</title>
-  </programme>
-  <programme start="20260917125000 +0800" stop="20260917133500 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">新夏威夷之虎 第2季(護)</title>
-  </programme>
-  <programme start="20260917133500 +0800" stop="20260917142000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">新夏威夷之虎 第2季(護)</title>
-  </programme>
-  <programme start="20260917142000 +0800" stop="20260917150500 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">新夏威夷之虎 第2季(護)</title>
-  </programme>
-  <programme start="20260917150500 +0800" stop="20260917155000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">新夏威夷之虎 第2季(護)</title>
-  </programme>
-  <programme start="20260917155000 +0800" stop="20260917162000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">神之塔(輔12)</title>
-  </programme>
-  <programme start="20260917162000 +0800" stop="20260917165000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">神之塔(輔12)</title>
-  </programme>
-  <programme start="20260917165000 +0800" stop="20260917171500 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">虛空魔境 第2季(護)</title>
-  </programme>
-  <programme start="20260917171500 +0800" stop="20260917174000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">虛空魔境 第2季(護)</title>
-  </programme>
-  <programme start="20260917174000 +0800" stop="20260917192000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">蜂魔入侵(護)</title>
-  </programme>
-  <programme start="20260917192000 +0800" stop="20260917210000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">逃出絕命鎮(護)</title>
-  </programme>
-  <programme start="20260917210000 +0800" stop="20260917220000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">夜班經理(護)</title>
-  </programme>
-  <programme start="20260917220000 +0800" stop="20260917230000 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">極地惡靈：獄中惡靈(護)</title>
-  </programme>
-  <programme start="20260917230000 +0800" stop="20260917235959 +0800" channel="ROCKXSTREAM摇滚极限">
-    <title lang="zh">極地惡靈：獄中惡靈(護)</title>
-  </programme>
   <programme start="20260917000001 +0800" stop="20260917013500 +0800" channel="公视戏剧">
     <title lang="zh">素蘭要出嫁【普】</title>
   </programme>
@@ -15547,10 +14995,10 @@
     <title lang="zh">她眼中的世界 Lee</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917080000 +0800" channel="影迷数字电影台">
-    <title lang="zh">廉政風雲  煙幕【護】</title>
+    <title lang="zh">廉政風雲 煙幕【護】</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917080000 +0800" channel="影迷数字电影台">
-    <title lang="zh">廉政風雲  煙幕</title>
+    <title lang="zh">廉政風雲 煙幕</title>
   </programme>
   <programme start="20260917080000 +0800" stop="20260917100000 +0800" channel="影迷数字电影台">
     <title lang="zh">女聲我最美【普】</title>
@@ -15571,10 +15019,10 @@
     <title lang="zh">初戀築夢101 Architecture 101</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917160000 +0800" channel="影迷数字电影台">
-    <title lang="zh">廉政風雲  煙幕【護】</title>
+    <title lang="zh">廉政風雲 煙幕【護】</title>
   </programme>
   <programme start="20260917140000 +0800" stop="20260917160000 +0800" channel="影迷数字电影台">
-    <title lang="zh">廉政風雲  煙幕</title>
+    <title lang="zh">廉政風雲 煙幕</title>
   </programme>
   <programme start="20260917160000 +0800" stop="20260917180000 +0800" channel="影迷数字电影台">
     <title lang="zh">救救旱鴨子【普】</title>
@@ -15622,7 +15070,7 @@
     <title lang="zh">羅密歐與茱麗葉的比薩店 A Slice Of Chicago Romance</title>
   </programme>
   <programme start="20260917103400 +0800" stop="20260917120000 +0800" channel="AMC电影台">
-    <title lang="zh">魔鬼的新娘 Ann Rule  A Rose For Her Grave  The Randy Roth Story</title>
+    <title lang="zh">魔鬼的新娘 Ann Rule A Rose For Her Grave The Randy Roth Story</title>
   </programme>
   <programme start="20260917120000 +0800" stop="20260917133200 +0800" channel="AMC电影台">
     <title lang="zh">播客裡的愛情公式 Listen Out For Love</title>
@@ -15646,7 +15094,7 @@
     <title lang="zh">羅密歐與茱麗葉的比薩店 A Slice Of Chicago Romance</title>
   </programme>
   <programme start="20260917223400 +0800" stop="20260917235959 +0800" channel="AMC电影台">
-    <title lang="zh">魔鬼的新娘 Ann Rule  A Rose For Her Grave  The Randy Roth Story</title>
+    <title lang="zh">魔鬼的新娘 Ann Rule A Rose For Her Grave The Randy Roth Story</title>
   </programme>
   <programme start="20260917003000 +0800" stop="20260917022000 +0800" channel="CINEMAWORLD">
     <title lang="zh">怪老爹上路中(普)</title>
@@ -16218,84 +15666,6 @@
   <programme start="20260917233000 +0800" stop="20260917235959 +0800" channel="人间卫视">
     <title lang="zh">南國有藝思(8)</title>
   </programme>
-  <programme start="20260917005500 +0800" stop="20260917012500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">設計文化之道(普)</title>
-  </programme>
-  <programme start="20260917012500 +0800" stop="20260917024500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">ABC National Forum(普)</title>
-  </programme>
-  <programme start="20260917024500 +0800" stop="20260917030000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">媒體交鋒(普)</title>
-  </programme>
-  <programme start="20260917030000 +0800" stop="20260917040000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">世界新聞(普)</title>
-  </programme>
-  <programme start="20260917040000 +0800" stop="20260917050000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">新聞早餐會(普)</title>
-  </programme>
-  <programme start="20260917050000 +0800" stop="20260917070000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">新聞早餐會(普)</title>
-  </programme>
-  <programme start="20260917070000 +0800" stop="20260917100000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">ABC新聞報導-晨間新聞(普)</title>
-  </programme>
-  <programme start="20260917100000 +0800" stop="20260917110000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">ABC新聞報導-午間新聞(普)</title>
-  </programme>
-  <programme start="20260917110000 +0800" stop="20260917112500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">邦迪救難隊(普)</title>
-  </programme>
-  <programme start="20260917112500 +0800" stop="20260917121500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">澳洲美妙步行旅程(普)</title>
-  </programme>
-  <programme start="20260917121500 +0800" stop="20260917124500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">國際特派員(普)</title>
-  </programme>
-  <programme start="20260917124500 +0800" stop="20260917131500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">美國全視角(普)</title>
-  </programme>
-  <programme start="20260917131500 +0800" stop="20260917135000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">媒體交鋒(普)</title>
-  </programme>
-  <programme start="20260917135000 +0800" stop="20260917150000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">國事論壇(普)</title>
-  </programme>
-  <programme start="20260917150000 +0800" stop="20260917160000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">ABC News with Joe OBrien(普)</title>
-  </programme>
-  <programme start="20260917160000 +0800" stop="20260917163000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">亞當主廚的歡樂廚房 第5季(普)</title>
-  </programme>
-  <programme start="20260917163000 +0800" stop="20260917170000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">太平洋島國新聞週報(普)</title>
-  </programme>
-  <programme start="20260917170000 +0800" stop="20260917173000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">ABC全國新聞報導(普)</title>
-  </programme>
-  <programme start="20260917173000 +0800" stop="20260917180000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">7.30(普)</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917190000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">澳洲美妙步行旅程(普)</title>
-  </programme>
-  <programme start="20260917190000 +0800" stop="20260917195500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">世界新聞(普)</title>
-  </programme>
-  <programme start="20260917195500 +0800" stop="20260917220000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">Rose Gold(普)</title>
-  </programme>
-  <programme start="20260917220000 +0800" stop="20260917221500 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">ABC深夜新聞報導(普)</title>
-  </programme>
-  <programme start="20260917221500 +0800" stop="20260917223000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">財經新聞(普)</title>
-  </programme>
-  <programme start="20260917223000 +0800" stop="20260917230000 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">7.30(普)</title>
-  </programme>
-  <programme start="20260917230000 +0800" stop="20260917235959 +0800" channel="ABCAUSTRALIA澳洲公广">
-    <title lang="zh">世界新聞(普)</title>
-  </programme>
   <programme start="20260917000001 +0800" stop="20260917001500 +0800" channel="FRANCE24英文台">
     <title lang="zh">News(普)</title>
   </programme>
@@ -16658,132 +16028,6 @@
   </programme>
   <programme start="20260917235800 +0800" stop="20260917235959 +0800" channel="FRANCE24英文台">
     <title lang="zh">Headlines(普)</title>
-  </programme>
-  <programme start="20260917000001 +0800" stop="20260917003000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917003000 +0800" stop="20260917010000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Witness</title>
-  </programme>
-  <programme start="20260917010000 +0800" stop="20260917013000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917013000 +0800" stop="20260917020000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Inside Story</title>
-  </programme>
-  <programme start="20260917020000 +0800" stop="20260917030000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Newshour</title>
-  </programme>
-  <programme start="20260917023000 +0800" stop="20260917040000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">The Listening Post</title>
-  </programme>
-  <programme start="20260917030000 +0800" stop="20260917033000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917033000 +0800" stop="20260917040000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">The Stream</title>
-  </programme>
-  <programme start="20260917040000 +0800" stop="20260917050000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Witness</title>
-  </programme>
-  <programme start="20260917050000 +0800" stop="20260917060000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Newshour</title>
-  </programme>
-  <programme start="20260917060000 +0800" stop="20260917063000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917063000 +0800" stop="20260917070000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">People and Power</title>
-  </programme>
-  <programme start="20260917070000 +0800" stop="20260917080000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Newshour</title>
-  </programme>
-  <programme start="20260917080000 +0800" stop="20260917083000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917083000 +0800" stop="20260917090000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Inside Story</title>
-  </programme>
-  <programme start="20260917090000 +0800" stop="20260917100000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Al Jazeera World</title>
-  </programme>
-  <programme start="20260917093000 +0800" stop="20260917110000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Talk to Al Jazeera</title>
-  </programme>
-  <programme start="20260917100000 +0800" stop="20260917110000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Newshour</title>
-  </programme>
-  <programme start="20260917110000 +0800" stop="20260917113000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917113000 +0800" stop="20260917120000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Earthrise</title>
-  </programme>
-  <programme start="20260917120000 +0800" stop="20260917123000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917123000 +0800" stop="20260917130000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">The Stream</title>
-  </programme>
-  <programme start="20260917130000 +0800" stop="20260917133000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917133000 +0800" stop="20260917140000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Witness</title>
-  </programme>
-  <programme start="20260917140000 +0800" stop="20260917150000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Romania- People Power</title>
-  </programme>
-  <programme start="20260917143000 +0800" stop="20260917160000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Inside Story</title>
-  </programme>
-  <programme start="20260917145500 +0800" stop="20260917150000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Frames</title>
-  </programme>
-  <programme start="20260917150000 +0800" stop="20260917153000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917153000 +0800" stop="20260917160000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Inside Story</title>
-  </programme>
-  <programme start="20260917160000 +0800" stop="20260917163000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917163000 +0800" stop="20260917170000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">The Stream</title>
-  </programme>
-  <programme start="20260917170000 +0800" stop="20260917173000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917173000 +0800" stop="20260917180000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">People and Power</title>
-  </programme>
-  <programme start="20260917180000 +0800" stop="20260917190000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Newshour</title>
-  </programme>
-  <programme start="20260917190000 +0800" stop="20260917193000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917193000 +0800" stop="20260917200000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Inside Story</title>
-  </programme>
-  <programme start="20260917200000 +0800" stop="20260917210000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Witness</title>
-  </programme>
-  <programme start="20260917210000 +0800" stop="20260917220000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Newshour</title>
-  </programme>
-  <programme start="20260917213000 +0800" stop="20260917230000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">Counting the Cost</title>
-  </programme>
-  <programme start="20260917220000 +0800" stop="20260917223000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">News Live</title>
-  </programme>
-  <programme start="20260917223000 +0800" stop="20260917230000 +0800" channel="半岛国际新闻台">
-    <title lang="zh">The Stream</title>
-  </programme>
-  <programme start="20260917230000 +0800" stop="20260917235959 +0800" channel="半岛国际新闻台">
-    <title lang="zh">newsgrid</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917003000 +0800" channel="CNBCASIA财经台">
     <title lang="zh">Halftime Report(普)</title>
@@ -18321,6 +17565,42 @@
   <programme start="20260917220700 +0800" stop="20260917235959 +0800" channel="CLASSICA">
     <title lang="zh">普契尼：西部姑娘 Puccini: La fanciulla del West</title>
   </programme>
+  <programme start="20260917000001 +0800" stop="20260917020000 +0800" channel="博斯魅力台">
+    <title lang="zh">2026 WTA女子網球巡迴賽 巴特洪堡女網賽-十六強</title>
+  </programme>
+  <programme start="20260917020000 +0800" stop="20260917040000 +0800" channel="博斯魅力台">
+    <title lang="zh">2026 WTA女子網球巡迴賽 多倫多女網賽-決賽</title>
+  </programme>
+  <programme start="20260917040000 +0800" stop="20260917110000 +0800" channel="博斯魅力台">
+    <title lang="zh">2026 WTA女子網球巡迴賽 瓜達拉哈拉女網賽-十六強</title>
+  </programme>
+  <programme start="20260917110000 +0800" stop="20260917130000 +0800" channel="博斯魅力台">
+    <title lang="zh">2026 WTA女子網球巡迴賽 巴特洪堡女網賽-十六強</title>
+  </programme>
+  <programme start="20260917130000 +0800" stop="20260917160000 +0800" channel="博斯魅力台">
+    <title lang="zh">2026 WTA女子網球巡迴賽 蒙特雷女網賽-決賽</title>
+  </programme>
+  <programme start="20260917160000 +0800" stop="20260917180000 +0800" channel="博斯魅力台">
+    <title lang="zh">2026 WTA女子網球巡迴賽 多倫多女網賽-決賽</title>
+  </programme>
+  <programme start="20260917180000 +0800" stop="20260917235900 +0800" channel="博斯魅力台">
+    <title lang="zh">2026 WTA女子網球巡迴賽 瓜達拉哈拉女網賽-十六強</title>
+  </programme>
+  <programme start="20260917000001 +0800" stop="20260917050000 +0800" channel="博斯高球台">
+    <title lang="zh">2025/26歐洲高球巡迴賽 Nexo錦標賽-第四天</title>
+  </programme>
+  <programme start="20260917050000 +0800" stop="20260917090000 +0800" channel="博斯高球台">
+    <title lang="zh">2026 PGA高球系列賽 CJ盃-第一天</title>
+  </programme>
+  <programme start="20260917090000 +0800" stop="20260917140000 +0800" channel="博斯高球台">
+    <title lang="zh">2026 PGA高球系列賽 3M公開賽-第四天</title>
+  </programme>
+  <programme start="20260917140000 +0800" stop="20260917190000 +0800" channel="博斯高球台">
+    <title lang="zh">2025/26歐洲高球巡迴賽 愛爾蘭公開賽-第四天</title>
+  </programme>
+  <programme start="20260917190000 +0800" stop="20260917235959 +0800" channel="博斯高球台">
+    <title lang="zh">2025/26歐洲高球巡迴賽 BMW PGA錦標賽-第一天</title>
+  </programme>
   <programme start="20260917000001 +0800" stop="20260917010000 +0800" channel="SETINEWS">
     <title lang="zh">關我什麼事 #832</title>
   </programme>
@@ -18729,6 +18009,27 @@
   <programme start="20260917234500 +0800" stop="20260917235959 +0800" channel="DAVINCI">
     <title lang="zh">華麗的冒險－猶他</title>
   </programme>
+  <programme start="20260917000001 +0800" stop="20260917050000 +0800" channel="博斯高球二台">
+    <title lang="zh">2026 LPGA高球賽 美國女子公開賽-第三天</title>
+  </programme>
+  <programme start="20260917050000 +0800" stop="20260917080000 +0800" channel="博斯高球二台">
+    <title lang="zh">2026亞太業餘女子高球錦標賽 第一天</title>
+  </programme>
+  <programme start="20260917080000 +0800" stop="20260917103000 +0800" channel="博斯高球二台">
+    <title lang="zh">2026 LPGA高球賽 環球錦標賽-第四天</title>
+  </programme>
+  <programme start="20260917103000 +0800" stop="20260917130000 +0800" channel="博斯高球二台">
+    <title lang="zh">2026 LPGA高球賽 墨西哥公開賽-第四天</title>
+  </programme>
+  <programme start="20260917130000 +0800" stop="20260917180000 +0800" channel="博斯高球二台">
+    <title lang="zh">2026 LPGA高球賽 本田泰國賽-第四天</title>
+  </programme>
+  <programme start="20260917180000 +0800" stop="20260917230000 +0800" channel="博斯高球二台">
+    <title lang="zh">2026 LPGA高球賽 匯豐女子世界錦標賽-第四天</title>
+  </programme>
+  <programme start="20260917230000 +0800" stop="20260917235900 +0800" channel="博斯高球二台">
+    <title lang="zh">2026 TPGA高球賽 仰德TPC錦標賽-第一回合-精華</title>
+  </programme>
   <programme start="20260917000001 +0800" stop="20260917002200 +0800" channel="EDGESPORT">
     <title lang="zh">K POP DANCE ACADEMY 01</title>
   </programme>
@@ -18751,7 +18052,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917014400 +0800" stop="20260917014900 +0800" channel="EDGESPORT">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917014900 +0800" stop="20260917021200 +0800" channel="EDGESPORT">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -18826,7 +18127,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917074400 +0800" stop="20260917074900 +0800" channel="EDGESPORT">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917074900 +0800" stop="20260917081200 +0800" channel="EDGESPORT">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -18901,7 +18202,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917134400 +0800" stop="20260917134900 +0800" channel="EDGESPORT">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917134900 +0800" stop="20260917141200 +0800" channel="EDGESPORT">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -18976,7 +18277,7 @@
     <title lang="zh">K POP DANCE ACADEMY 04</title>
   </programme>
   <programme start="20260917194400 +0800" stop="20260917194900 +0800" channel="EDGESPORT">
-    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA   MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
+    <title lang="zh">03527 Backstage Fashion Exposed AGUA BENDITA MALAI SWIMWEAR Colombian Trend Fashion Show Swim Miami 2016 Collections 151113 PMNB NS</title>
   </programme>
   <programme start="20260917194900 +0800" stop="20260917201200 +0800" channel="EDGESPORT">
     <title lang="zh">K POP DANCE ACADEMY 05</title>
@@ -20476,7 +19777,7 @@
     <title lang="zh">頭條開講 Hit the Headlines</title>
   </programme>
   <programme start="20260917050000 +0800" stop="20260917060000 +0800" channel="中天亚洲台">
-    <title lang="zh">全球大視野 CTI News Global  Vision</title>
+    <title lang="zh">全球大視野 CTI News Global Vision</title>
   </programme>
   <programme start="20260917060000 +0800" stop="20260917070000 +0800" channel="中天亚洲台">
     <title lang="zh">中天新聞 中天晨報</title>
@@ -20521,7 +19822,7 @@
     <title lang="zh">小明星大跟班 Super Entourage</title>
   </programme>
   <programme start="20260917230000 +0800" stop="20260917235900 +0800" channel="中天亚洲台">
-    <title lang="zh">全球大視野 CTI News Global  Vision</title>
+    <title lang="zh">全球大視野 CTI News Global Vision</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917010000 +0800" channel="采昌影剧">
     <title lang="zh">黑夜看守人 Keepers (aka The Vanishing)</title>
@@ -20918,6 +20219,42 @@
   </programme>
   <programme start="20260917235500 +0800" stop="20260917235959 +0800" channel="华视新闻">
     <title lang="zh">華視2400夜間新聞</title>
+  </programme>
+  <programme start="20260917000001 +0800" stop="20260917013000 +0800" channel="博斯无限二台">
+    <title lang="zh">2026世界九號球巡迴賽 英國公開賽-第四天</title>
+  </programme>
+  <programme start="20260917013000 +0800" stop="20260917030000 +0800" channel="博斯无限二台">
+    <title lang="zh">2025莫斯考尼盃 第三天</title>
+  </programme>
+  <programme start="20260917030000 +0800" stop="20260917060000 +0800" channel="博斯无限二台">
+    <title lang="zh">2024/25世界司諾克巡迴賽 德國名人賽-十六強</title>
+  </programme>
+  <programme start="20260917060000 +0800" stop="20260917073000 +0800" channel="博斯无限二台">
+    <title lang="zh">2026世界九號球巡迴賽 英國公開賽-第四天</title>
+  </programme>
+  <programme start="20260917073000 +0800" stop="20260917090000 +0800" channel="博斯无限二台">
+    <title lang="zh">2025莫斯考尼盃 第三天</title>
+  </programme>
+  <programme start="20260917090000 +0800" stop="20260917120000 +0800" channel="博斯无限二台">
+    <title lang="zh">2024/25世界司諾克巡迴賽 德國名人賽-十六強</title>
+  </programme>
+  <programme start="20260917120000 +0800" stop="20260917133000 +0800" channel="博斯无限二台">
+    <title lang="zh">2026世界九號球巡迴賽 英國公開賽-第四天</title>
+  </programme>
+  <programme start="20260917133000 +0800" stop="20260917150000 +0800" channel="博斯无限二台">
+    <title lang="zh">2025莫斯考尼盃 第三天</title>
+  </programme>
+  <programme start="20260917150000 +0800" stop="20260917180000 +0800" channel="博斯无限二台">
+    <title lang="zh">2024/25世界司諾克巡迴賽 德國名人賽-十六強</title>
+  </programme>
+  <programme start="20260917180000 +0800" stop="20260917193000 +0800" channel="博斯无限二台">
+    <title lang="zh">2026世界九號球巡迴賽 英國公開賽-第四天</title>
+  </programme>
+  <programme start="20260917193000 +0800" stop="20260917210000 +0800" channel="博斯无限二台">
+    <title lang="zh">2025莫斯考尼盃 第三天</title>
+  </programme>
+  <programme start="20260917210000 +0800" stop="20260917235900 +0800" channel="博斯无限二台">
+    <title lang="zh">2024/25世界司諾克巡迴賽 德國名人賽-八強</title>
   </programme>
   <programme start="20260917000001 +0800" stop="20260917012000 +0800" channel="龙华电影台">
     <title lang="zh">情色驚變 All of a Sudden</title>
